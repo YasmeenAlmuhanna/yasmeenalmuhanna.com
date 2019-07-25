@@ -28,3 +28,17 @@ $roboto-condensed: 'Roboto Condensed', sans-serif;
 $roboto-condensed-regular: 400;
 $roboto-condensed-bold: 700;
 //******* End of Variables
+
+body {
+  font-family: $roboto;
+  font-weight: $roboto-regular;
+  font-size: 20px; //1em
+  color: $yazzy-black;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: $roboto;
+}
