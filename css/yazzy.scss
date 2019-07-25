@@ -44,3 +44,36 @@ h3,
 h4 {
   font-family: $roboto;
 }
+
+
+//******* Header Styling
+header{
+  padding-top: 2em;
+  font-family: $oswald;
+  .logo{
+    height: 4.5em;
+  }
+  nav{
+    color: $pure-white;
+    font-weight: $oswald-medium;
+    text-align: right;
+    a{
+      margin-left: 2em;
+      &:visited{
+        color: $pure-white;
+      }
+    }
+  }
+}
+//******* End of Header Styling
+
+
+//******* Footer Styling
+footer{
+  .signature{
+    text-align: right;
+  }
+}
+//******* End of Footer Styling
+
+
