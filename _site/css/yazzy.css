@@ -57,7 +57,28 @@ header {
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 400; }
 
+.tile-container {
+  padding: 1em;
+  text-decoration: none; }
+  .tile-container .tile {
+    padding: 1em;
+    color: #ffffff; }
+    .tile-container .tile .tile-title {
+      font-family: "Oswald", sans-serif;
+      font-size: 1.3em;
+      font-weight: 500;
+      text-transform: uppercase; }
+    .tile-container .tile .tile-image {
+      padding: 1em;
+      margin-top: 0.7em;
+      margin-bottom: 0.7em;
+      opacity: 0.5; }
+    .tile-container .tile .tile-category {
+      font-family: "Roboto", sans-serif; }
+
 footer {
-  color: #aaa; }
+  color: #aaa;
+  padding-top: 2em;
+  padding-bottom: 2em; }
   footer .signature {
     text-align: right; }
