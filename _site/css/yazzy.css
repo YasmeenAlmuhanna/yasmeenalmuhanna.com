@@ -62,15 +62,21 @@ header {
   text-decoration: none; }
   .tile-container .tile {
     padding: 1em;
-    color: #ffffff; }
+    color: #ffffff;
+    position: relative; }
     .tile-container .tile .tile-title {
       font-family: "Oswald", sans-serif;
       font-size: 1.3em;
       font-weight: 500;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      position: absolute;
+      right: 1em;
+      left: 1em;
+      line-height: 1.3em; }
     .tile-container .tile .tile-image {
+      position: relative;
       padding: 1em;
-      margin-top: 0.7em;
+      margin-top: 3em;
       margin-bottom: 0.7em;
       opacity: 0.5; }
     .tile-container .tile .tile-category {
