@@ -8,6 +8,7 @@
 
 // Colors
 $yazzy-black: #262626;
+$yazzy-grey: #383838;
 $pure-white: #ffffff;
 
 // Fonts
@@ -59,8 +60,17 @@ header{
     text-align: right;
     a{
       margin-left: 2em;
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+      padding-top: .3em;
+      padding-bottom: .3em;
+      
       &:visited{
         color: $pure-white;
+      }
+      &:hover{
+        text-decoration: none;
+        background-color: $yazzy-grey;
       }
     }
   }
@@ -70,6 +80,7 @@ header{
 
 //******* Footer Styling
 footer{
+  color: #aaa;
   .signature{
     text-align: right;
   }
