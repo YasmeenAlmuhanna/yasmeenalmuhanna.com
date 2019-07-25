@@ -25,9 +25,18 @@ header {
     font-weight: 500;
     text-align: right; }
     header nav a {
-      margin-left: 2em; }
+      margin-left: 2em;
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+      padding-top: .3em;
+      padding-bottom: .3em; }
       header nav a:visited {
         color: #ffffff; }
+      header nav a:hover {
+        text-decoration: none;
+        background-color: #383838; }
 
-footer .signature {
-  text-align: right; }
+footer {
+  color: #aaa; }
+  footer .signature {
+    text-align: right; }
