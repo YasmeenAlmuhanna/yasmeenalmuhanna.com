@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald:400,500,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #262626;
+  background-color: #262626;
+  color: #ffffff; }
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Roboto", sans-serif; }
