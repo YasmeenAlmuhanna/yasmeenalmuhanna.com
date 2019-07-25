@@ -2,18 +2,19 @@
 layout: default
 ---
 
-<div class="grid-container">
+<div class="grid-x">
   {% include hero.html %}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  
+  {% assign project_order = site.projects | sort: 'date' | reverse %}
+    {% for project in project_order %}
+    <div class="small-6 medium-4 tile-container">
+      <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
+      <div class="tile" style="background-color: #{{ project.color }}">
+        <span class="tile-title">{{ project.title }}</span>
+        <img class="tile-image" src="img/thumbnails/{{ project.thumbnail }}" alt="{{ project.tile-name }} Tile Image">
+        <span class="tile-category">{{ project.category }}</span>
+      </div>
+      </a>
+    </div>
     {% endfor %}
-  </ul>
 </div>

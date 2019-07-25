@@ -77,6 +77,8 @@ header{
 }
 //******* End of Header Styling
 
+
+
 //******* Hero Styling
 .hero{
   margin-bottom: 5em;
@@ -110,9 +112,40 @@ header{
 
 
 
+//******* Projects Styling
+.tile-container{
+  padding: 1em;
+  text-decoration: none;
+  .tile{
+    padding: 1em;
+    color: $pure-white;
+    .tile-title{
+      font-family: $oswald;
+      font-size: 1.3em;
+      font-weight: $oswald-medium;
+      text-transform: uppercase;
+    }
+    .tile-image{
+      padding: 1em;
+      margin-top: 0.7em;
+      margin-bottom: 0.7em;
+      opacity: 0.5;
+    }
+    .tile-category{
+      font-family: $roboto;
+    }
+  }
+}
+//******* End of Projects Styling
+
+
+
+
 //******* Footer Styling
 footer{
   color: #aaa;
+  padding-top: 2em;
+  padding-bottom: 2em;
   .signature{
     text-align: right;
   }
