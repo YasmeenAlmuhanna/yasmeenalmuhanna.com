@@ -77,6 +77,38 @@ header{
 }
 //******* End of Header Styling
 
+//******* Hero Styling
+.hero{
+  margin-bottom: 5em;
+  margin-top: 2em;
+  .hello{
+    font-size: 12em;
+    font-family: $oswald;
+    font-weight: $oswald-semibold;
+    color: $yazzy-grey;
+    line-height: 1em;
+  }
+  
+  .overlay{
+    margin-top: -6em;
+  }
+  
+  .yasmeen{
+    font-size: 3em;
+    font-family: $oswald;
+    line-height: 1em;
+  }
+  
+  .todo{
+    font-size: 1.4em;
+    line-height: 1.3em;
+    font-family: $roboto-condensed;
+    font-weight: $roboto-condensed-regular;
+  }
+}
+//******* End of Hero Styling
+
+
 
 //******* Footer Styling
 footer{
