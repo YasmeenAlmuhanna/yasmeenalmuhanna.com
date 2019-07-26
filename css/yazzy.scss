@@ -116,29 +116,32 @@ header{
 .tile-container{
   padding: 1em;
   text-decoration: none;
-  .tile{
-    padding: 1em;
-    color: $pure-white;
-    position: relative;
-    .tile-title{
-      font-family: $oswald;
-      font-size: 1.3em;
-      font-weight: $oswald-medium;
-      text-transform: uppercase;
-      position: absolute;
-      right: 1em;
-      left: 1em;
-      line-height: 1.3em;
-    }
-    .tile-image{
-      position: relative;
+  .project-link{
+    font-size: 1.2em;
+    .tile{
       padding: 1em;
-      margin-top: 3em;
-      margin-bottom: 0.7em;
-      opacity: 0.5;
-    }
-    .tile-category{
-      font-family: $roboto;
+      color: $pure-white;
+      position: relative;
+      .tile-title{
+        font-family: $oswald;
+        font-size: 1.3em;
+        font-weight: $oswald-medium;
+        text-transform: uppercase;
+        position: absolute;
+        right: 1em;
+        left: 1em;
+        line-height: 1.3em;
+      }
+      .tile-image{
+        position: relative;
+        padding: 1em;
+        margin-top: 3em;
+        margin-bottom: 0.7em;
+        opacity: 0.5;
+      }
+      .tile-category{
+        font-family: $roboto;
+      }
     }
   }
 }

@@ -60,27 +60,29 @@ header {
 .tile-container {
   padding: 1em;
   text-decoration: none; }
-  .tile-container .tile {
-    padding: 1em;
-    color: #ffffff;
-    position: relative; }
-    .tile-container .tile .tile-title {
-      font-family: "Oswald", sans-serif;
-      font-size: 1.3em;
-      font-weight: 500;
-      text-transform: uppercase;
-      position: absolute;
-      right: 1em;
-      left: 1em;
-      line-height: 1.3em; }
-    .tile-container .tile .tile-image {
-      position: relative;
+  .tile-container .project-link {
+    font-size: 1.2em; }
+    .tile-container .project-link .tile {
       padding: 1em;
-      margin-top: 3em;
-      margin-bottom: 0.7em;
-      opacity: 0.5; }
-    .tile-container .tile .tile-category {
-      font-family: "Roboto", sans-serif; }
+      color: #ffffff;
+      position: relative; }
+      .tile-container .project-link .tile .tile-title {
+        font-family: "Oswald", sans-serif;
+        font-size: 1.3em;
+        font-weight: 500;
+        text-transform: uppercase;
+        position: absolute;
+        right: 1em;
+        left: 1em;
+        line-height: 1.3em; }
+      .tile-container .project-link .tile .tile-image {
+        position: relative;
+        padding: 1em;
+        margin-top: 3em;
+        margin-bottom: 0.7em;
+        opacity: 0.5; }
+      .tile-container .project-link .tile .tile-category {
+        font-family: "Roboto", sans-serif; }
 
 footer {
   color: #aaa;
