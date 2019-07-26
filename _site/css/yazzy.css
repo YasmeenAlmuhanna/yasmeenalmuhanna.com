@@ -90,6 +90,14 @@ header {
         font-family: "Roboto", sans-serif;
         color: #ffffff; }
 
+.project-container .project-header .project-title {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 5em;
+  line-height: 1em;
+  border-bottom: 0.1em solid; }
+
 footer {
   color: #aaa;
   padding-top: 2em;
