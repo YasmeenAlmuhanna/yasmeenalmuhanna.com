@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Fuel Nutrition"
 date: 2019-02-22
 category: Design Strategy
