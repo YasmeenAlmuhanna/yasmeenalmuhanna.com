@@ -96,3 +96,5 @@ footer {
   padding-bottom: 2em; }
   footer .signature {
     text-align: right; }
+    footer .signature .rehan-logo {
+      height: 18px; }
