@@ -60,21 +60,59 @@ header {
 .tile-container {
   padding: 1em;
   text-decoration: none; }
-  .tile-container .tile {
-    padding: 1em;
-    color: #ffffff; }
-    .tile-container .tile .tile-title {
-      font-family: "Oswald", sans-serif;
-      font-size: 1.3em;
-      font-weight: 500;
-      text-transform: uppercase; }
-    .tile-container .tile .tile-image {
+  .tile-container a:hover {
+    text-decoration: none; }
+    .tile-container a:hover .tile {
+      box-shadow: 0.75em -0.75em 0px 0px; }
+  .tile-container .project-link {
+    font-size: 1.2em; }
+    .tile-container .project-link .tile {
       padding: 1em;
-      margin-top: 0.7em;
-      margin-bottom: 0.7em;
-      opacity: 0.5; }
-    .tile-container .tile .tile-category {
-      font-family: "Roboto", sans-serif; }
+      position: relative;
+      box-shadow: 0.5em -0.5em 0px 0px; }
+      .tile-container .project-link .tile .tile-title {
+        font-family: "Oswald", sans-serif;
+        font-size: 1.3em;
+        font-weight: 500;
+        text-transform: uppercase;
+        position: absolute;
+        right: 1em;
+        left: 1em;
+        line-height: 1.3em;
+        color: #ffffff; }
+      .tile-container .project-link .tile .tile-image {
+        position: relative;
+        padding: 1em;
+        margin-top: 3em;
+        margin-bottom: 0.7em;
+        opacity: 0.5; }
+      .tile-container .project-link .tile .tile-category {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff; }
+
+.project-container .project-header .project-words {
+  padding-right: 4em; }
+  .project-container .project-header .project-words .project-time {
+    font-family: "Roboto", sans-serif;
+    color: #9F9F9F; }
+  .project-container .project-header .project-words .project-metadata {
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 2em;
+    color: #9F9F9F; }
+    .project-container .project-header .project-words .project-metadata .metadata-title {
+      font-weight: 700; }
+.project-container .project-header .project-title {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 5em;
+  line-height: 1em;
+  border-bottom: 0.1em solid; }
+.project-container .project-header .project-intro {
+  font-family: "Roboto", sans-serif; }
+.project-container .project-content {
+  background-color: #ffffff;
+  color: #262626; }
 
 footer {
   color: #aaa;
@@ -82,3 +120,5 @@ footer {
   padding-bottom: 2em; }
   footer .signature {
     text-align: right; }
+    footer .signature .rehan-logo {
+      height: 18px; }

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Bishopgate Goodsyard"
 date: 2019-02-20
 category: Architecture

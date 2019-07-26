@@ -9,6 +9,7 @@
 // Colors
 $yazzy-black: #262626;
 $yazzy-grey: #383838;
+$yazzy-light-grey: #9F9F9F;
 $pure-white: #ffffff;
 
 // Fonts
@@ -112,32 +113,87 @@ header{
 
 
 
-//******* Projects Styling
+//******* Home Styling
 .tile-container{
   padding: 1em;
   text-decoration: none;
-  .tile{
-    padding: 1em;
-    color: $pure-white;
-    .tile-title{
-      font-family: $oswald;
-      font-size: 1.3em;
-      font-weight: $oswald-medium;
-      text-transform: uppercase;
+  a{
+    &:hover{
+      text-decoration: none;
+      & .tile{
+        box-shadow: 0.75em -0.75em 0px 0px;
+      }
     }
-    .tile-image{
+  }
+  .project-link{
+    font-size: 1.2em;
+    .tile{
       padding: 1em;
-      margin-top: 0.7em;
-      margin-bottom: 0.7em;
-      opacity: 0.5;
-    }
-    .tile-category{
-      font-family: $roboto;
+      position: relative;
+      box-shadow: 0.5em -0.5em 0px 0px;
+      .tile-title{
+        font-family: $oswald;
+        font-size: 1.3em;
+        font-weight: $oswald-medium;
+        text-transform: uppercase;
+        position: absolute;
+        right: 1em;
+        left: 1em;
+        line-height: 1.3em;
+        color: $pure-white;
+      }
+      .tile-image{
+        position: relative;
+        padding: 1em;
+        margin-top: 3em;
+        margin-bottom: 0.7em;
+        opacity: 0.5;
+      }
+      .tile-category{
+        font-family: $roboto;
+        color: $pure-white;
+      }
     }
   }
 }
-//******* End of Projects Styling
+//******* End of Home Styling
 
+//******* Project Page Styling
+.project-container{
+  .project-header{
+    .project-words{
+      padding-right: 4em;
+      .project-time{
+        font-family: $roboto;
+        color: $yazzy-light-grey;
+      }
+      .project-metadata{
+        font-family: $roboto;
+        margin-bottom: 2em;
+        color: $yazzy-light-grey;
+        .metadata-title{
+          font-weight: $roboto-bold;
+        }
+      }
+    }
+    .project-title{
+      font-family: $oswald;
+      font-weight: $oswald-semibold;
+      text-transform: uppercase;
+      font-size: 5em;
+      line-height: 1em;
+      border-bottom: 0.1em solid;
+    }
+    .project-intro{
+      font-family: $roboto;
+    }
+  }
+  .project-content{
+    background-color: $pure-white;
+    color: $yazzy-black;
+  }
+}
+//******* End of Project Page Styling
 
 
 
@@ -148,6 +204,9 @@ footer{
   padding-bottom: 2em;
   .signature{
     text-align: right;
+    .rehan-logo{
+      height: 18px;
+    }
   }
 }
 //******* End of Footer Styling
