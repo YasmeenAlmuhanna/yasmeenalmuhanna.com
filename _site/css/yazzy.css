@@ -90,6 +90,17 @@ header {
         font-family: "Roboto", sans-serif;
         color: #ffffff; }
 
+.project-container .project-header .project-words {
+  padding-right: 4em; }
+  .project-container .project-header .project-words .project-time {
+    font-family: "Roboto", sans-serif;
+    color: #9F9F9F; }
+  .project-container .project-header .project-words .project-metadata {
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 2em;
+    color: #9F9F9F; }
+    .project-container .project-header .project-words .project-metadata .metadata-title {
+      font-weight: 700; }
 .project-container .project-header .project-title {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
@@ -97,6 +108,11 @@ header {
   font-size: 5em;
   line-height: 1em;
   border-bottom: 0.1em solid; }
+.project-container .project-header .project-intro {
+  font-family: "Roboto", sans-serif; }
+.project-container .project-content {
+  background-color: #ffffff;
+  color: #262626; }
 
 footer {
   color: #aaa;
