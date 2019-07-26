@@ -9,6 +9,7 @@
 // Colors
 $yazzy-black: #262626;
 $yazzy-grey: #383838;
+$yazzy-light-grey: #9F9F9F;
 $pure-white: #ffffff;
 
 // Fonts
@@ -112,7 +113,7 @@ header{
 
 
 
-//******* Projects Styling
+//******* Home Styling
 .tile-container{
   padding: 1em;
   text-decoration: none;
@@ -155,8 +156,44 @@ header{
     }
   }
 }
-//******* End of Projects Styling
+//******* End of Home Styling
 
+//******* Project Page Styling
+.project-container{
+  .project-header{
+    .project-words{
+      padding-right: 4em;
+      .project-time{
+        font-family: $roboto;
+        color: $yazzy-light-grey;
+      }
+      .project-metadata{
+        font-family: $roboto;
+        margin-bottom: 2em;
+        color: $yazzy-light-grey;
+        .metadata-title{
+          font-weight: $roboto-bold;
+        }
+      }
+    }
+    .project-title{
+      font-family: $oswald;
+      font-weight: $oswald-semibold;
+      text-transform: uppercase;
+      font-size: 5em;
+      line-height: 1em;
+      border-bottom: 0.1em solid;
+    }
+    .project-intro{
+      font-family: $roboto;
+    }
+  }
+  .project-content{
+    background-color: $pure-white;
+    color: $yazzy-black;
+  }
+}
+//******* End of Project Page Styling
 
 
 

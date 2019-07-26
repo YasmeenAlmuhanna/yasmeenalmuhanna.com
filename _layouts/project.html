@@ -1,15 +1,26 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="project-container" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="project-header">
-    <h1 class="project-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="project-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date| date: "%B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  {% assign blocks = page.content | split: "!~META" %}
+  <header class="project-header grid-x">
+    <div class="project-words cell small-12 medium-6">
+      <h1 class="project-title" itemprop="name headline" style="border-bottom-color: #{{page.color}};">{{ page.title }}</h1>
+      <p class="project-time">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date| date: "%B %Y" }}</time>
+      </p>
+      <p>
+        {{ blocks[0] }}
+      </p>
+    </div>
+    <div class="cell small-12 medium-6">
+      <img src="/img/{{page.title | downcase | remove: " "}}/hero.png">
+    </div>
   </header>
 
   <div class="project-content" itemprop="articleBody">
-    {{ content }}
+    {{ blocks[1] }}
   </div>
 
 </article>
