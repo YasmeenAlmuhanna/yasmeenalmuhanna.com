@@ -60,12 +60,16 @@ header {
 .tile-container {
   padding: 1em;
   text-decoration: none; }
+  .tile-container a:hover {
+    text-decoration: none; }
+    .tile-container a:hover .tile {
+      box-shadow: 0.75em -0.75em 0px 0px; }
   .tile-container .project-link {
     font-size: 1.2em; }
     .tile-container .project-link .tile {
       padding: 1em;
-      color: #ffffff;
-      position: relative; }
+      position: relative;
+      box-shadow: 0.5em -0.5em 0px 0px; }
       .tile-container .project-link .tile .tile-title {
         font-family: "Oswald", sans-serif;
         font-size: 1.3em;
@@ -74,7 +78,8 @@ header {
         position: absolute;
         right: 1em;
         left: 1em;
-        line-height: 1.3em; }
+        line-height: 1.3em;
+        color: #ffffff; }
       .tile-container .project-link .tile .tile-image {
         position: relative;
         padding: 1em;
@@ -82,7 +87,8 @@ header {
         margin-bottom: 0.7em;
         opacity: 0.5; }
       .tile-container .project-link .tile .tile-category {
-        font-family: "Roboto", sans-serif; }
+        font-family: "Roboto", sans-serif;
+        color: #ffffff; }
 
 footer {
   color: #aaa;

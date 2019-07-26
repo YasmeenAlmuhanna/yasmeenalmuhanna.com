@@ -9,7 +9,7 @@ layout: default
     {% for project in project_order %}
     <div class="small-6 medium-4 tile-container">
       <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
-      <div class="tile" style="background-color: #{{ project.color }}; box-shadow: 10px -10px 0px 0px #{{ project.color }}70;">
+      <div class="tile" style="background-color: #{{ project.color }}; color: #{{ project.color }}70;">
         <span class="tile-title">{{ project.title }}</span>
         <img class="tile-image" src="img/thumbnails/{{ project.thumbnail }}" alt="{{ project.tile-name }} Tile Image">
         <span class="tile-category">{{ project.category }}</span>
@@ -18,3 +18,6 @@ layout: default
     </div>
     {% endfor %}
 </div>
+
+
+<!--box-shadow: 10px -10px 0px 0px #{{ project.color }}70;-->

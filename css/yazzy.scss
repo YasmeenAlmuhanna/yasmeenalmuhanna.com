@@ -116,12 +116,20 @@ header{
 .tile-container{
   padding: 1em;
   text-decoration: none;
+  a{
+    &:hover{
+      text-decoration: none;
+      & .tile{
+        box-shadow: 0.75em -0.75em 0px 0px;
+      }
+    }
+  }
   .project-link{
     font-size: 1.2em;
     .tile{
       padding: 1em;
-      color: $pure-white;
       position: relative;
+      box-shadow: 0.5em -0.5em 0px 0px;
       .tile-title{
         font-family: $oswald;
         font-size: 1.3em;
@@ -131,6 +139,7 @@ header{
         right: 1em;
         left: 1em;
         line-height: 1.3em;
+        color: $pure-white;
       }
       .tile-image{
         position: relative;
@@ -141,6 +150,7 @@ header{
       }
       .tile-category{
         font-family: $roboto;
+        color: $pure-white;
       }
     }
   }
