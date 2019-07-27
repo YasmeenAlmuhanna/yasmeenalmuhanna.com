@@ -39,6 +39,9 @@ body {
   color: $yazzy-black;
   background-color: $yazzy-black;
   color: $pure-white;
+  @media screen and (max-width: 40em) {
+    font-size: 14px;
+  }
 }
 
 h1,
@@ -61,6 +64,9 @@ header{
     color: $pure-white;
     font-weight: $oswald-medium;
     text-align: right;
+    @media screen and (max-width: 40em) {
+      font-size: 1.4em;
+    }
     a{
       margin-left: 2em;
       padding-left: 0.5em;
@@ -92,10 +98,17 @@ header{
     font-weight: $oswald-semibold;
     color: $yazzy-grey;
     line-height: 1em;
+    text-transform: uppercase;
+    @media screen and (max-width: 40em) {
+      font-size: 8em;
+    }
   }
   
   .overlay{
     margin-top: -6em;
+    @media screen and (max-width: 40em) {
+      margin-top: -4em;
+    }
   }
   
   .yasmeen{
@@ -166,6 +179,9 @@ header{
     padding-bottom: 3em;
     .project-words{
       padding-right: 4em;
+      @media screen and (max-width: 40em) {
+        padding-right: 0;
+      }
       .project-time{
         font-family: $roboto;
         color: $yazzy-light-grey;
@@ -197,8 +213,12 @@ header{
     color: $yazzy-black;
     padding-top: 4em;
     padding-bottom: 4em;
+    @media screen and (max-width: 40em) {
+      padding-top: 1em;
+      padding-bottom: 1em;
+    }
     .section-header{
-      margin-bottom: 3em;
+      margin-bottom: 5em;
     }
     .section-number{
       font-family: $oswald;
@@ -212,6 +232,9 @@ header{
       font-weight: $oswald-medium;
       text-transform: uppercase;
       margin-top: -3em;
+      @media screen and (max-width: 40em) {
+        font-size: 2em;
+      }
     }
     h3{
       font-family: $oswald;
@@ -219,12 +242,19 @@ header{
       text-transform: uppercase;
     }
     .row-item{
-//      margin-bottom: 3em;
       padding: 2em;
+      @media screen and (max-width: 40em) {
+        margin-bottom: 1em;
+      }
     }
     .text-item{
       padding-left: 2em;
       padding-right: 2em;
+      @media screen and (max-width: 40em) {
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 1em;
+      }
     }
     .caption{
       font-weight: $roboto-regular;
@@ -251,13 +281,25 @@ footer{
     .rehan-logo{
       height: 18px;
     }
+    @media screen and (max-width: 40em) {
+      text-align: center;
+    }
+  }
+  .copyright{
+    @media screen and (max-width: 40em) {
+      text-align: center;
+    }
   }
 }
 //******* End of Footer Styling
 
 
 //Mobile Styling
-@media screen and (max-width: 40em) {}
+@media screen and (max-width: 40em) {
+
+}
 
 //Tablet Styling
-@media screen and (max-width: 64em) {}
+@media screen and (max-width: 64em) {
+  
+}
