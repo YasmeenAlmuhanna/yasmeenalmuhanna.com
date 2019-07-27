@@ -39,6 +39,9 @@ body {
   color: $yazzy-black;
   background-color: $yazzy-black;
   color: $pure-white;
+  @media screen and (max-width: 40em) {
+    font-size: 14px;
+  }
 }
 
 h1,
@@ -61,6 +64,9 @@ header{
     color: $pure-white;
     font-weight: $oswald-medium;
     text-align: right;
+    @media screen and (max-width: 40em) {
+      font-size: 1.4em;
+    }
     a{
       margin-left: 2em;
       padding-left: 0.5em;
@@ -92,10 +98,17 @@ header{
     font-weight: $oswald-semibold;
     color: $yazzy-grey;
     line-height: 1em;
+    text-transform: uppercase;
+    @media screen and (max-width: 40em) {
+      font-size: 8em;
+    }
   }
   
   .overlay{
     margin-top: -6em;
+    @media screen and (max-width: 40em) {
+      margin-top: -4em;
+    }
   }
   
   .yasmeen{
@@ -250,6 +263,14 @@ footer{
     .rehan-logo{
       height: 18px;
     }
+    @media screen and (max-width: 40em) {
+      text-align: center;
+    }
+  }
+  .copyright{
+    @media screen and (max-width: 40em) {
+      text-align: center;
+    }
   }
 }
 //******* End of Footer Styling
@@ -257,11 +278,7 @@ footer{
 
 //Mobile Styling
 @media screen and (max-width: 40em) {
-  footer{
-    .copyright , .signature{
-      text-align: center;
-    }
-  }
+
 }
 
 //Tablet Styling
