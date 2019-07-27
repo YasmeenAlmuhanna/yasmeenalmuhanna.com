@@ -34,4 +34,19 @@ color: F87A3B
 
 !~META
 
-This is the main section of the project page
+<div class="grid-x">
+  <div class="section-header">
+    <span class="section-number">01</span>
+    <h2>Design Recommendations</h2>
+  </div>
+</div>
+
+<div class="grid-x">
+  <div class="cell small-6">
+    <h3>The First Impressions</h3>
+    <p>Material consistency needs to be maintained within the spaces. Visual and functional connectivity would be advantageous for product and Fuel-Bar sales.</p>
+  </div>
+  <div class="cell small-6">
+    <img src="" alt="">
+  </div>
+</div>

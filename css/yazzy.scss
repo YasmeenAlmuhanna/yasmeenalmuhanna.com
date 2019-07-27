@@ -10,6 +10,7 @@
 $yazzy-black: #262626;
 $yazzy-grey: #383838;
 $yazzy-light-grey: #9F9F9F;
+$yazzy-extra-light-grey: #E9E9E9;
 $pure-white: #ffffff;
 
 // Fonts
@@ -45,6 +46,7 @@ h2,
 h3,
 h4 {
   font-family: $roboto;
+  color: $yazzy-black;
 }
 
 
@@ -191,6 +193,26 @@ header{
   .project-content{
     background-color: $pure-white;
     color: $yazzy-black;
+    .section-number{
+      font-family: $oswald;
+      font-weight: $oswald-semibold;
+      font-size: 10em;
+      color: $yazzy-extra-light-grey;
+      margin-left: -0.3em;
+    }
+    h2{
+      font-family: $oswald;
+      font-weight: $oswald-medium;
+      text-transform: uppercase;
+      margin-top: -3em;
+      //margin-left: 1em;
+      //border-bottom: 0.1em solid;
+    }
+    h3{
+      font-family: $oswald;
+      font-weight: $oswald-medium;
+      text-transform: uppercase;
+    }
   }
 }
 //******* End of Project Page Styling
@@ -212,3 +234,8 @@ footer{
 //******* End of Footer Styling
 
 
+//Mobile Styling
+@media screen and (max-width: 40em) {}
+
+//Tablet Styling
+@media screen and (max-width: 64em) {}
