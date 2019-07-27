@@ -41,12 +41,23 @@ color: F87A3B
   </div>
 </div>
 
-<div class="grid-x">
-  <div class="cell small-6">
+<div class="grid-x row-item">
+  <div class="cell small-6 text-item">
     <h3>The First Impressions</h3>
     <p>Material consistency needs to be maintained within the spaces. Visual and functional connectivity would be advantageous for product and Fuel-Bar sales.</p>
   </div>
   <div class="cell small-6">
-    <img src="" alt="">
+    <img src="/img/fuelnutrition/trinity.png" alt="Areas of Interest">
+  </div>
+</div>
+
+<div class="grid-x row-item">
+  <div class="cell small-6">
+    <img src="/img/fuelnutrition/concept.png" alt="Concept Inspiration">
+    <p class="caption">Conceptual Inspiration</p>
+  </div>
+  <div class="cell small-6 text-item">
+    <h3>Barber Station</h3>
+    <p>Barber station aesthetic mimics utility gym shelving. Potential to be free standing element or against wall.</p>
   </div>
 </div>
