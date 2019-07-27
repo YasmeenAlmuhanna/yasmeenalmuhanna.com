@@ -107,6 +107,9 @@ header {
   padding-bottom: 3em; }
   .project-container .project-header .project-words {
     padding-right: 4em; }
+    @media screen and (max-width: 40em) {
+      .project-container .project-header .project-words {
+        padding-right: 0; } }
     .project-container .project-header .project-words .project-time {
       font-family: "Roboto", sans-serif;
       color: #9F9F9F; }
@@ -131,6 +134,10 @@ header {
   color: #262626;
   padding-top: 4em;
   padding-bottom: 4em; }
+  @media screen and (max-width: 40em) {
+    .project-container .project-content {
+      padding-top: 1em;
+      padding-bottom: 1em; } }
   .project-container .project-content .section-header {
     margin-bottom: 5em; }
   .project-container .project-content .section-number {
@@ -144,15 +151,26 @@ header {
     font-weight: 500;
     text-transform: uppercase;
     margin-top: -3em; }
+    @media screen and (max-width: 40em) {
+      .project-container .project-content h2 {
+        font-size: 2em; } }
   .project-container .project-content h3 {
     font-family: "Oswald", sans-serif;
     font-weight: 500;
     text-transform: uppercase; }
   .project-container .project-content .row-item {
     padding: 2em; }
+    @media screen and (max-width: 40em) {
+      .project-container .project-content .row-item {
+        margin-bottom: 1em; } }
   .project-container .project-content .text-item {
     padding-left: 2em;
     padding-right: 2em; }
+    @media screen and (max-width: 40em) {
+      .project-container .project-content .text-item {
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 1em; } }
   .project-container .project-content .caption {
     font-weight: 400;
     font-style: italic;
