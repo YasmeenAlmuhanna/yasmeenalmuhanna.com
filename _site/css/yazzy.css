@@ -85,8 +85,7 @@ header {
         position: relative;
         padding: 1em;
         margin-top: 3em;
-        margin-bottom: 0.7em;
-        opacity: 0.5; }
+        margin-bottom: 0.7em; }
       .tile-container .project-link .tile .tile-category {
         font-family: "Roboto", sans-serif;
         color: #ffffff; }
