@@ -135,7 +135,6 @@ header {
     font-weight: 500;
     text-transform: uppercase; }
   .project-container .project-content .row-item {
-    margin-bottom: 3em;
     padding: 2em; }
   .project-container .project-content .text-item {
     padding-left: 2em;
@@ -145,6 +144,8 @@ header {
     font-style: italic;
     color: #9F9F9F;
     padding-top: 0.5em; }
+  .project-container .project-content .body-copy {
+    margin-bottom: 2em; }
 
 footer {
   color: #aaa;

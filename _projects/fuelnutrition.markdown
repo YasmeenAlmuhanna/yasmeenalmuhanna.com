@@ -61,3 +61,55 @@ color: F87A3B
     <p>Barber station aesthetic mimics utility gym shelving. Potential to be free standing element or against wall.</p>
   </div>
 </div>
+
+<div class="grid-x row-item">
+  <div class="cell small-12">
+    <img src="/img/fuelnutrition/barber_station_elevation.svg" alt="Barber Station Elevation Line Drawing" style="width:100%;">
+    <p class="caption">Barber Station Interior Elevation</p>
+  </div>
+</div>
+
+<div class="grid-x row-item">
+  <div class="cell small-12">
+    <img src="/img/fuelnutrition/barber_station-02.svg" alt="Barber Station Plan Line Drawing" style="width:100%;">
+    <p class="caption">Barber Station Plan</p>
+  </div>
+</div>
+
+
+<div class="grid-x row-item">
+  <div class="cell small-12">
+    <p class="body-copy">Since the client had yet to hone in on a location, the configuration of the stations will have to come later. They can either line the middle of the space or attach to walls.</p>
+  </div>
+  <div class="cell small-12 medium-6">
+    <img src="/img/fuelnutrition/barber_station_wall.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
+  </div>
+  <div class="cell small-12 medium-6">
+    <img src="/img/fuelnutrition/barber_station_center.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
+  </div>
+</div>
+
+<div class="grid-x">
+  <div class="section-header">
+    <span class="section-number">02</span>
+    <h2>Business Strategies</h2>
+  </div>
+</div>
+
+<div class="grid-x row-item">
+  <div class="cell small-6 text-item">
+    <h3>Social Media Moment</h3>
+    <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
+  </div>
+  
+  <div class="cell small-6">
+    <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration">
+    <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
+  </div>
+</div>
+
+<div class="grid-x row-item">
+  <div class="cell small-12">
+    <img src="/img/fuelnutrition/hero.png" alt="Final Hero Render">
+  </div>
+</div>
