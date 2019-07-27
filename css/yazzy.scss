@@ -149,7 +149,7 @@ header{
         padding: 1em;
         margin-top: 3em;
         margin-bottom: 0.7em;
-        opacity: 0.5;
+        //opacity: 0.5;
       }
       .tile-category{
         font-family: $roboto;
@@ -163,6 +163,7 @@ header{
 //******* Project Page Styling
 .project-container{
   .project-header{
+    padding-bottom: 3em;
     .project-words{
       padding-right: 4em;
       .project-time{
