@@ -198,7 +198,7 @@ header{
     padding-top: 4em;
     padding-bottom: 4em;
     .section-header{
-      margin-bottom: 3em;
+      margin-bottom: 5em;
     }
     .section-number{
       font-family: $oswald;
@@ -219,7 +219,6 @@ header{
       text-transform: uppercase;
     }
     .row-item{
-//      margin-bottom: 3em;
       padding: 2em;
     }
     .text-item{
@@ -257,7 +256,15 @@ footer{
 
 
 //Mobile Styling
-@media screen and (max-width: 40em) {}
+@media screen and (max-width: 40em) {
+  footer{
+    .copyright , .signature{
+      text-align: center;
+    }
+  }
+}
 
 //Tablet Styling
-@media screen and (max-width: 64em) {}
+@media screen and (max-width: 64em) {
+  
+}
