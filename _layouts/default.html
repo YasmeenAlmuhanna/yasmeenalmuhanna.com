@@ -8,10 +8,18 @@
     <div class="grid-container">
       {% include header.html %}
     </div>
-    
+
     <div class="grid-container">
       {{ content }}
     </div>
+
+    {% if page.url == '/' %}
+      <div class="footer-buffer-home">
+        {% include footer-buffer.html %}
+      </div>
+    {% else %}
+      {% include footer-buffer.html %}
+    {% endif %}
 
     <div class="grid-container">
       {% include footer.html %}
