@@ -62,10 +62,12 @@ header {
       .hero .overlay {
         margin-top: -4em; } }
   .hero .yasmeen {
+    color: #ffffff;
     font-size: 3em;
     font-family: "Oswald", sans-serif;
     line-height: 1em; }
   .hero .todo {
+    color: #ffffff;
     font-size: 1.4em;
     line-height: 1.3em;
     font-family: "Roboto Condensed", sans-serif;
@@ -98,10 +100,13 @@ header {
         position: relative;
         padding: 1em;
         margin-top: 3em;
-        margin-bottom: 0.7em; }
+        margin-bottom: 2.7em; }
       .tile-container .project-link .tile .tile-category {
         font-family: "Roboto", sans-serif;
-        color: #ffffff; }
+        color: #ffffff;
+        position: absolute;
+        left: 1em;
+        bottom: 1em; }
 
 .project-container .project-header {
   padding-bottom: 3em; }
@@ -179,6 +184,83 @@ header {
   .project-container .project-content .body-copy {
     margin-bottom: 2em; }
 
+.about {
+  margin-top: 4em; }
+  @media screen and (max-width: 40em) {
+    .about {
+      margin-top: 1em; } }
+  .about .about-title {
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 5em;
+    line-height: 1em;
+    border-bottom: 0.1em solid; }
+  .about .about-header {
+    padding-right: 4em; }
+    @media screen and (max-width: 40em) {
+      .about .about-header {
+        padding-right: 0; } }
+    .about .about-header p {
+      margin-bottom: 1em; }
+  .about .button {
+    font-size: 1em;
+    text-transform: uppercase;
+    background-color: #383838;
+    border: 3px solid #ffffff; }
+    .about .button:hover {
+      background-color: #ffffff;
+      color: #262626; }
+
+.footer-buffer {
+  color: #262626;
+  background-color: #ffffff;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  margin-top: 6em; }
+  @media screen and (max-width: 40em) {
+    .footer-buffer {
+      padding-left: 2em;
+      padding-right: 2em;
+      margin-top: 0; } }
+  .footer-buffer .quote {
+    font-family: "Roboto Condensed", sans-serif;
+    text-align: right;
+    font-size: 1.6em;
+    padding-right: 1em; }
+    @media screen and (max-width: 40em) {
+      .footer-buffer .quote {
+        padding-right: 0;
+        text-align: left;
+        font-size: 2.2em;
+        margin-bottom: 1em; } }
+    .footer-buffer .quote p {
+      margin-bottom: 0;
+      line-height: 1.3em; }
+  .footer-buffer .email {
+    padding-left: 1em; }
+    @media screen and (max-width: 40em) {
+      .footer-buffer .email {
+        padding-left: 0;
+        font-size: 1.3em; } }
+    .footer-buffer .email p {
+      margin-bottom: 0;
+      line-height: 1.3em; }
+    .footer-buffer .email a {
+      color: #262626;
+      text-decoration: underline; }
+      .footer-buffer .email a:hover {
+        background-color: #E9E9E9; }
+
+.footer-buffer-home .footer-buffer {
+  color: #ffffff;
+  background-color: #262626; }
+  .footer-buffer-home .footer-buffer .email a {
+    color: #ffffff; }
+    .footer-buffer-home .footer-buffer .email a:hover {
+      background-color: #383838; }
+
 footer {
   color: #aaa;
   padding-top: 2em;
@@ -193,3 +275,49 @@ footer {
   @media screen and (max-width: 40em) {
     footer .copyright {
       text-align: center; } }
+  footer .logo {
+    text-align: center; }
+    footer .logo img {
+      height: 2em; }
+  footer .easter-egg {
+    display: none; }
+
+.footer-home footer {
+  background-color: #383838; }
+  .footer-home footer .easter-egg {
+    position: absolute;
+    right: 15em;
+    bottom: -35em;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;
+    /* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;
+    /* Change to speed up or slow down */
+    animation-iteration-count: infinite;
+    /* Never stop waving :) */
+    transform-origin: 50% 80%;
+    /* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s; }
+    @media screen and (max-width: 40em) {
+      .footer-home footer .easter-egg {
+        display: none; } }
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(-35deg); }
+  10% {
+    transform: rotate(-40deg); }
+  /* The following four values can be played with to make the waving more or less extreme */
+  20% {
+    transform: rotate(-30deg); }
+  30% {
+    transform: rotate(-37deg); }
+  40% {
+    transform: rotate(-32deg); }
+  50% {
+    transform: rotate(-35deg); }
+  /* Reset for the last half to pause */
+  100% {
+    transform: rotate(-35deg); } }

@@ -7,6 +7,8 @@ thumbnail: meydan_one.svg
 color: 4790CC
 
 ---
+<<<<<<< HEAD
+=======
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell small-8 grid-x">
@@ -113,3 +115,4 @@ color: 4790CC
     <img src="/img/meydanone/hero.png" alt="Final Hero Render">
   </div>
 </div>
+>>>>>>> master
