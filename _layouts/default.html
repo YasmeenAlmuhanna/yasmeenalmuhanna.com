@@ -22,7 +22,13 @@
     {% endif %}
 
 
-    {% include footer.html %}
+    {% if page.url == '/' %}
+      <div class="footer-home">
+        {% include footer.html %}
+      </div>
+    {% else %}
+      {% include footer.html %}
+    {% endif %}
 
 
   </body>

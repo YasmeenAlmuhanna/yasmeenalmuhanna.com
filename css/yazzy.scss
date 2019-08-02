@@ -369,7 +369,6 @@ header{
 //******* Footer Styling
 footer{
   color: #aaa;
-  background-color: $yazzy-grey;
   padding-top: 2em;
   padding-bottom: 2em;
   .signature{
@@ -391,6 +390,12 @@ footer{
     img{
       height: 2em;
     }
+  }
+}
+
+.footer-home{
+  footer{
+    background-color: $yazzy-grey;
   }
 }
 //******* End of Footer Styling

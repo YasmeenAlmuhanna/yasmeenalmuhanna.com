@@ -252,7 +252,6 @@ header {
 
 footer {
   color: #aaa;
-  background-color: #383838;
   padding-top: 2em;
   padding-bottom: 2em; }
   footer .signature {
@@ -269,3 +268,6 @@ footer {
     text-align: center; }
     footer .logo img {
       height: 2em; }
+
+.footer-home footer {
+  background-color: #383838; }
