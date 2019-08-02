@@ -317,6 +317,11 @@ header{
   padding-top: 5em;
   padding-bottom: 5em;
   margin-top: 6em;
+  @media screen and (max-width: 40em) {
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-top: 0;
+  }
   .quote{
     font-family: $roboto-condensed;
     text-align: right;
@@ -325,6 +330,8 @@ header{
     @media screen and (max-width: 40em) {
       padding-right: 0;
       text-align: left;
+      font-size: 2.2em;
+      margin-bottom: 1em;
     }
     p{
       margin-bottom: 0;
@@ -335,6 +342,7 @@ header{
     padding-left: 1em;
     @media screen and (max-width: 40em) {
       padding-left: 0;
+      font-size: 1.3em;
     }
     p{
       margin-bottom: 0;
@@ -411,6 +419,9 @@ footer{
       transform-origin: 50% 80%;/* Pivot around the bottom-left palm */
       display: inline-block;
       animation-delay: 3s;
+      @media screen and (max-width: 40em) {
+        display: none;
+      }
     }
   }
 }
