@@ -7,6 +7,7 @@
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <pubDate>Wed, 31 Jul 2019 14:00:56 -0400</pubDate>
     <lastBuildDate>Wed, 31 Jul 2019 14:00:56 -0400</lastBuildDate>
 =======
@@ -14,6 +15,11 @@
     <lastBuildDate>Tue, 30 Jul 2019 19:58:13 -0700</lastBuildDate>
 >>>>>>> 409a1c251f81c3ec7ca207155bebf067c46ff9e7
     <generator>Jekyll v3.8.6</generator>
+=======
+    <pubDate>Thu, 01 Aug 2019 21:02:59 -0400</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2019 21:02:59 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+>>>>>>> 7b858ae13192f7a435469cabae7a5dbaf2e9c8b2
     
   </channel>
 </rss>
