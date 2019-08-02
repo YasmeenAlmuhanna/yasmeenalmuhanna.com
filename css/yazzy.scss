@@ -272,6 +272,85 @@ header{
 //******* End of Project Page Styling
 
 
+//******* About Styling
+.about{
+  margin-top: 4em;
+  @media screen and (max-width: 40em) {
+    margin-top: 1em;
+  }
+  .about-title{
+    font-family: $oswald;
+    font-weight: $oswald-semibold;
+    color: $pure-white;
+    text-transform: uppercase;
+    font-size: 5em;
+    line-height: 1em;
+    border-bottom: 0.1em solid;
+  }
+  .about-header{
+    padding-right: 4em;
+    @media screen and (max-width: 40em) {
+      padding-right: 0;
+    }
+    p{
+      margin-bottom: 1em;
+    }
+  }
+  .button{
+    font-size: 1em;
+    text-transform: uppercase;
+    background-color: $yazzy-grey;
+    border: 3px solid $pure-white;
+    &:hover{
+      background-color: $pure-white;
+      color: $yazzy-black;
+    }
+  }
+}
+//******* End of About Page Styling
+
+
+//******* Footer Buffer Styling
+.footer-buffer{
+  color: $yazzy-black;
+  background-color: $pure-white;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  margin-top: 6em;
+  .quote{
+    font-family: $roboto-condensed;
+    text-align: right;
+    font-size: 1.6em;
+    padding-right: 1em;
+    @media screen and (max-width: 40em) {
+      padding-right: 0;
+      text-align: left;
+    }
+    p{
+      margin-bottom: 0;
+      line-height: 1.3em;
+    }
+  }
+  .email{
+    padding-left: 1em;
+    @media screen and (max-width: 40em) {
+      padding-left: 0;
+    }
+    p{
+      margin-bottom: 0;
+      line-height: 1.3em;
+    }
+    a{
+      color: $yazzy-black;
+      text-decoration: underline;
+      &:hover{
+        background-color: $yazzy-extra-light-grey;
+      }
+    }
+  }
+}
+//******* End of Footer Buffer Page Styling
+
 
 //******* Footer Styling
 footer{

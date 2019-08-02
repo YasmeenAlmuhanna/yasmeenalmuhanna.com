@@ -8,11 +8,13 @@
     <div class="grid-container">
       {% include header.html %}
     </div>
-    
+
     <div class="grid-container">
       {{ content }}
     </div>
 
+    {% include footer-buffer.html %}
+    
     <div class="grid-container">
       {% include footer.html %}
     </div>
