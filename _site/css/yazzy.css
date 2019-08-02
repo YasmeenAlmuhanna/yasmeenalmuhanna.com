@@ -100,10 +100,13 @@ header {
         position: relative;
         padding: 1em;
         margin-top: 3em;
-        margin-bottom: 0.7em; }
+        margin-bottom: 2.7em; }
       .tile-container .project-link .tile .tile-category {
         font-family: "Roboto", sans-serif;
-        color: #ffffff; }
+        color: #ffffff;
+        position: absolute;
+        left: 1em;
+        bottom: 1em; }
 
 .project-container .project-header {
   padding-bottom: 3em; }
@@ -216,6 +219,11 @@ header {
   padding-top: 5em;
   padding-bottom: 5em;
   margin-top: 6em; }
+  @media screen and (max-width: 40em) {
+    .footer-buffer {
+      padding-left: 2em;
+      padding-right: 2em;
+      margin-top: 0; } }
   .footer-buffer .quote {
     font-family: "Roboto Condensed", sans-serif;
     text-align: right;
@@ -224,7 +232,9 @@ header {
     @media screen and (max-width: 40em) {
       .footer-buffer .quote {
         padding-right: 0;
-        text-align: left; } }
+        text-align: left;
+        font-size: 2.2em;
+        margin-bottom: 1em; } }
     .footer-buffer .quote p {
       margin-bottom: 0;
       line-height: 1.3em; }
@@ -232,7 +242,8 @@ header {
     padding-left: 1em; }
     @media screen and (max-width: 40em) {
       .footer-buffer .email {
-        padding-left: 0; } }
+        padding-left: 0;
+        font-size: 1.3em; } }
     .footer-buffer .email p {
       margin-bottom: 0;
       line-height: 1.3em; }
@@ -245,6 +256,10 @@ header {
 .footer-buffer-home .footer-buffer {
   color: #ffffff;
   background-color: #262626; }
+  .footer-buffer-home .footer-buffer .email a {
+    color: #ffffff; }
+    .footer-buffer-home .footer-buffer .email a:hover {
+      background-color: #383838; }
 
 footer {
   color: #aaa;
@@ -260,3 +275,49 @@ footer {
   @media screen and (max-width: 40em) {
     footer .copyright {
       text-align: center; } }
+  footer .logo {
+    text-align: center; }
+    footer .logo img {
+      height: 2em; }
+  footer .easter-egg {
+    display: none; }
+
+.footer-home footer {
+  background-color: #383838; }
+  .footer-home footer .easter-egg {
+    position: absolute;
+    right: 15em;
+    bottom: -35em;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;
+    /* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;
+    /* Change to speed up or slow down */
+    animation-iteration-count: infinite;
+    /* Never stop waving :) */
+    transform-origin: 50% 80%;
+    /* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s; }
+    @media screen and (max-width: 40em) {
+      .footer-home footer .easter-egg {
+        display: none; } }
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(-35deg); }
+  10% {
+    transform: rotate(-40deg); }
+  /* The following four values can be played with to make the waving more or less extreme */
+  20% {
+    transform: rotate(-30deg); }
+  30% {
+    transform: rotate(-37deg); }
+  40% {
+    transform: rotate(-32deg); }
+  50% {
+    transform: rotate(-35deg); }
+  /* Reset for the last half to pause */
+  100% {
+    transform: rotate(-35deg); } }
