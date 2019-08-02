@@ -28,7 +28,7 @@ color: F87A3B
 </div>
 
 <div class="project-intro">
-  <p>Fuel Nutrition is a sports supplement store specifically targeted for young me. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
+  <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
   <p>Although I was hired to put together a design concept package, this project evolved to include a set of business strategies and  action items for the client to consider in order to strengthen the Fuel Nutrition brand image.</p>
 </div>
 
@@ -101,7 +101,7 @@ color: F87A3B
     <h3>Social Media Moment</h3>
     <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
   </div>
-  
+
   <div class="cell small-12 medium-6">
     <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration">
     <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
