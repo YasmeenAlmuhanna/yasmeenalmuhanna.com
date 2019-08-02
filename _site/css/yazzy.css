@@ -245,9 +245,14 @@ header {
 .footer-buffer-home .footer-buffer {
   color: #ffffff;
   background-color: #262626; }
+  .footer-buffer-home .footer-buffer .email a {
+    color: #ffffff; }
+    .footer-buffer-home .footer-buffer .email a:hover {
+      background-color: #383838; }
 
 footer {
   color: #aaa;
+  background-color: #383838;
   padding-top: 2em;
   padding-bottom: 2em; }
   footer .signature {
@@ -260,3 +265,7 @@ footer {
   @media screen and (max-width: 40em) {
     footer .copyright {
       text-align: center; } }
+  footer .logo {
+    text-align: center; }
+    footer .logo img {
+      height: 2em; }
