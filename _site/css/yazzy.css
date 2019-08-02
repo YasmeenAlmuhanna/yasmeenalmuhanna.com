@@ -269,6 +269,11 @@ footer {
     footer .logo img {
       height: 2em; }
   footer .easter-egg {
+    display: none; }
+
+.footer-home footer {
+  background-color: #383838; }
+  .footer-home footer .easter-egg {
     position: absolute;
     right: 15em;
     bottom: -35em;
@@ -284,9 +289,6 @@ footer {
     /* Pivot around the bottom-left palm */
     display: inline-block;
     animation-delay: 3s; }
-
-.footer-home footer {
-  background-color: #383838; }
 
 @keyframes wave-animation {
   0% {
