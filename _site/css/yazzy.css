@@ -268,6 +268,40 @@ footer {
     text-align: center; }
     footer .logo img {
       height: 2em; }
+  footer .easter-egg {
+    position: absolute;
+    right: 15em;
+    bottom: -35em;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;
+    /* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;
+    /* Change to speed up or slow down */
+    animation-iteration-count: infinite;
+    /* Never stop waving :) */
+    transform-origin: 50% 80%;
+    /* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s; }
 
 .footer-home footer {
   background-color: #383838; }
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(-35deg); }
+  10% {
+    transform: rotate(-40deg); }
+  /* The following four values can be played with to make the waving more or less extreme */
+  20% {
+    transform: rotate(-30deg); }
+  30% {
+    transform: rotate(-37deg); }
+  40% {
+    transform: rotate(-32deg); }
+  50% {
+    transform: rotate(-35deg); }
+  /* Reset for the last half to pause */
+  100% {
+    transform: rotate(-35deg); } }
