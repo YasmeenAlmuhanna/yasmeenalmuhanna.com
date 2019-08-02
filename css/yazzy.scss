@@ -353,6 +353,14 @@ header{
   .footer-buffer{
     color: $pure-white;
     background-color: $yazzy-black;
+    .email{
+      a{
+        color: $pure-white;
+        &:hover{
+          background-color: $yazzy-grey;
+        }
+      }
+    }
   }
 }
 //******* End of Footer Buffer Page Styling
@@ -361,6 +369,7 @@ header{
 //******* Footer Styling
 footer{
   color: #aaa;
+  background-color: $yazzy-grey;
   padding-top: 2em;
   padding-bottom: 2em;
   .signature{
@@ -375,6 +384,12 @@ footer{
   .copyright{
     @media screen and (max-width: 40em) {
       text-align: center;
+    }
+  }
+  .logo{
+    text-align: center;
+    img{
+      height: 2em;
     }
   }
 }
