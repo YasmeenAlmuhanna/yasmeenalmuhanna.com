@@ -242,6 +242,10 @@ header {
       .footer-buffer .email a:hover {
         background-color: #E9E9E9; }
 
+.footer-buffer-home .footer-buffer {
+  color: #ffffff;
+  background-color: #262626; }
+
 footer {
   color: #aaa;
   padding-top: 2em;
