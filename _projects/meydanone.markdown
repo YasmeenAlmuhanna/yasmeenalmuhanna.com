@@ -29,4 +29,8 @@ color: 4790CC
   </div>
 </div>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 >>>>>>> master
