@@ -45,6 +45,6 @@ color: 4790CC
 <div class="grid-x">
   <div class="section-header">
     <span class="section-number">01</span>
-    <h2>Structural Requests</h2>
+    <h2>Structural</h2>
   </div>
 </div>
