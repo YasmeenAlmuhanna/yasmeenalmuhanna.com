@@ -18,10 +18,10 @@ color: 4790CC
     </div>
   </div>
   <div class="metadata-object cell small-8 grid-x">
-    <div class="metadata-title cell small-6">
+    <div class="metadata-title cell small-8">
       Plot Size
     </div>
-    <div class="metadata-value cell small-6">
+    <div class="metadata-value cell small-8">
       343.7 hectares | 849 acres
     </div>
   </div>
