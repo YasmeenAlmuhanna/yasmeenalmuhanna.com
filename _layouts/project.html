@@ -4,11 +4,11 @@ layout:
 <html>
     {% include head.html %}
   <body>
-    
+
     <div class="grid-container">
       {% include header.html %}
     </div>
-    
+
     <article class="project-container" itemscope itemtype="http://schema.org/BlogPosting">
 
       {% assign blocks = page.content | split: "!~META" %}
@@ -19,7 +19,7 @@ layout:
           <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date| date: "%B %Y" }}</time>
           </p>
           <p>
-            {{ blocks[0] }}
+            {{ blocks[1] }}
           </p>
         </div>
         <div class="cell small-12 medium-6">
@@ -34,10 +34,10 @@ layout:
       </div>
 
     </article>
-    
+
     <div class="grid-container">
       {% include footer.html %}
     </div>
-    
+
   </body>
 </html>
