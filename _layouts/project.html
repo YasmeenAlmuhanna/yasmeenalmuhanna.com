@@ -16,10 +16,9 @@ layout:
         <div class="project-words cell small-12 medium-6">
           <h1 class="project-title" itemprop="name headline" style="border-bottom-color: #{{page.color}};">{{ page.title }}</h1>
           <p class="project-time">
-          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date| date: "%B %Y" }}</time>
           </p>
           <p>
-            {{ blocks[1] }}
+            {{ blocks[0] }}
           </p>
         </div>
         <div class="cell small-12 medium-6">
