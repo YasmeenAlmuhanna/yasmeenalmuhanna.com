@@ -21,7 +21,7 @@ color: 4790CC
     <div class="metadata-title cell small-8">
       Plot Size
     </div>
-    <div class="metadata-value cell small-8">
+    <div class="metadata-value cell small-6">
       343.7 hectares | 849 acres
     </div>
   </div>
@@ -38,4 +38,13 @@ color: 4790CC
 <div class="project-intro">
   <p>During my time at Ae7, I was primarily a member of the 'Shell team' that oversaw all the exterior and interior façade elements of the project. I worked on a myriad of areas both in the Shell team and others.
   <p>Although the work I did ranged from design, construction drawings, presentations, 3d modeling, and everything in between. I decided to present two tasks that I believe demonstrate the type of value I can bring to an organization. </p>
+</div>
+
+!~META
+
+<div class="grid-x">
+  <div class="section-header">
+    <span class="section-number">01</span>
+    <h2>Structural Requests</h2>
+  </div>
 </div>
