@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   text-decoration-line: underline;
-  text-decoration-color: #a11015;
+  text-decoration-color: #{{page.color}};
 }
 
 /**
