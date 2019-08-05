@@ -22,7 +22,7 @@ color: 4790CC
       Plot Size
     </div>
     <div class="metadata-value cell small-6">
-      343.7 hectares   |   849 acres
+      343.7 hectares | 849 acres
     </div>
   </div>
   <div class="metadata-object cell small-8 grid-x">
@@ -30,7 +30,7 @@ color: 4790CC
       Gross Floor Area
     </div>
     <div class="metadata-value cell small-6">
-      5,500,000 m2     |   59,201,507 ft2
+      5,500,000 m2 | 59,201,507 ft2
     </div>
   </div>
 </div>
