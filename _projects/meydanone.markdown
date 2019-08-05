@@ -29,6 +29,11 @@ color: 4790CC
   </div>
 </div>
 
+<div class="project-intro">
+  <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
+  <p>Although I was hired to put together a design concept package, this project evolved to include a set of business strategies and  action items for the client to consider in order to strengthen the Fuel Nutrition brand image.</p>
+</div>
+
 <<<<<<< HEAD
 =======
 
