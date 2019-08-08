@@ -133,5 +133,6 @@ color: 4790CC
 <div class="grid-x row-item">
   <div class="cell small-12">
     <img src="/img/meydanone/before+after.png" alt="before+after sections" style="width:100%;">
+    <p class="caption">Section Before & After Development</p>
   </div>
 </div>
