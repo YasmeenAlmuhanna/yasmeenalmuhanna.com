@@ -140,14 +140,15 @@ header {
 .project-container .project-content {
   background-color: #ffffff;
   color: #262626;
-  padding-top: 4em;
-  padding-bottom: 4em; }
+  padding: 0 5% 0 5%; }
   @media screen and (max-width: 40em) {
     .project-container .project-content {
       padding-top: 1em;
       padding-bottom: 1em; } }
+  .project-container .project-content .flex {
+    display: flex; }
   .project-container .project-content .section-header {
-    margin-bottom: 5em;
+    margin-bottom: 3em;
     z-index: 1; }
   .project-container .project-content .section-number {
     font-family: "Oswald", sans-serif;
@@ -159,11 +160,10 @@ header {
     width: 200px;
     margin-top: -8em; }
   .project-container .project-content .sub-section-name {
-    width: 200px;
+    width: 300px;
     z-index: 1; }
-  .project-container .project-content .sub-section-1-img {
-    z-index: 0;
-    margin-top: -450px; }
+  .project-container .project-content .conflict-image {
+    padding: 2% 5% 0 5%; }
   .project-container .project-content h2 {
     font-family: "Oswald", sans-serif;
     font-weight: 500;

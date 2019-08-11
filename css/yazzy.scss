@@ -219,14 +219,16 @@ header{
   .project-content{
     background-color: $pure-white;
     color: $yazzy-black;
-    padding-top: 4em;
-    padding-bottom: 4em;
+    padding: 0 5% 0 5%;
     @media screen and (max-width: 40em) {
       padding-top: 1em;
       padding-bottom: 1em;
     }
+    .flex {
+        display: flex;
+    }
     .section-header{
-      margin-bottom: 5em;
+      margin-bottom: 3em;
       z-index: 1;
     }
     .section-number{
@@ -241,12 +243,11 @@ header{
         margin-top: -8em;
     }
     .sub-section-name {
-        width: 200px;
+        width: 300px;
         z-index: 1;
     }
-    .sub-section-1-img {
-        z-index: 0;
-        margin-top: -450px;
+    .conflict-image {
+        padding: 2% 5% 0 5%;
     }
     h2{
       font-family: $oswald;
