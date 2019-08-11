@@ -126,6 +126,10 @@ header{
     font-weight: $roboto-condensed-regular;
   }
 }
+.hero-img {
+    display: flex;
+    align-items: center;
+}
 //******* End of Hero Styling
 
 
@@ -207,7 +211,6 @@ header{
       text-transform: uppercase;
       font-size: 5em;
       line-height: 1em;
-      border-bottom: 0.1em solid;
     }
     .project-intro{
       font-family: $roboto;
@@ -224,6 +227,7 @@ header{
     }
     .section-header{
       margin-bottom: 5em;
+      z-index: 1;
     }
     .section-number{
       font-family: $oswald;
@@ -231,6 +235,18 @@ header{
       font-size: 10em;
       color: $yazzy-extra-light-grey;
       margin-left: -0.3em;
+    }
+    .section-name {
+        width: 200px;
+        margin-top: -8em;
+    }
+    .sub-section-name {
+        width: 200px;
+        z-index: 1;
+    }
+    .sub-section-1-img {
+        z-index: 0;
+        margin-top: -450px;
     }
     h2{
       font-family: $oswald;
@@ -247,14 +263,14 @@ header{
       text-transform: uppercase;
     }
     .row-item{
-      padding: 2em;
+    //   padding: 2em;
       @media screen and (max-width: 40em) {
         margin-bottom: 1em;
       }
     }
     .text-item{
-      padding-left: 2em;
-      padding-right: 2em;
+    //   padding-left: 2em;
+    //   padding-right: 2em;
       @media screen and (max-width: 40em) {
         padding-left: 0;
         padding-right: 0;
@@ -269,6 +285,10 @@ header{
     }
     .body-copy{
       margin-bottom: 2em;
+    }
+    .flex-column {
+        display: flex;
+        flex-flow: column;
     }
   }
 }
