@@ -210,8 +210,9 @@ header{
       font-weight: $oswald-semibold;
       color: $pure-white;
       text-transform: uppercase;
-      font-size: 5em;
+      font-size: 4em;
       line-height: 1em;
+      width: 200px;
     }
     .project-intro{
       font-family: $roboto;
@@ -301,14 +302,20 @@ header{
   @media screen and (max-width: 40em) {
     margin-top: 1em;
   }
+  a {
+    color: inherit; 
+  }
+  .yazzy-line{
+      border-bottom: 5px solid $yazzy-grey;
+  }
   .about-title{
     font-family: $oswald;
     font-weight: $oswald-semibold;
     color: $pure-white;
     text-transform: uppercase;
-    font-size: 5em;
+    font-size: 4em;
     line-height: 1em;
-    border-bottom: 0.1em solid;
+    // border-bottom: 0.1em solid;
   }
   .about-header{
     padding-right: 4em;

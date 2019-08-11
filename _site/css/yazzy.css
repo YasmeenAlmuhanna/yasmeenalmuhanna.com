@@ -134,8 +134,9 @@ header {
     font-weight: 600;
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 5em;
-    line-height: 1em; }
+    font-size: 4em;
+    line-height: 1em;
+    width: 200px; }
   .project-container .project-header .project-intro {
     font-family: "Roboto", sans-serif; }
 .project-container .project-content {
@@ -199,14 +200,17 @@ header {
   @media screen and (max-width: 40em) {
     .about {
       margin-top: 1em; } }
+  .about a {
+    color: inherit; }
+  .about .yazzy-line {
+    border-bottom: 5px solid #383838; }
   .about .about-title {
     font-family: "Oswald", sans-serif;
     font-weight: 600;
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 5em;
-    line-height: 1em;
-    border-bottom: 0.1em solid; }
+    font-size: 4em;
+    line-height: 1em; }
   .about .about-header {
     padding-right: 4em; }
     @media screen and (max-width: 40em) {
