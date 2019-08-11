@@ -362,6 +362,7 @@ header{
 }
 .footer-buffer-home{
   .footer-buffer{
+    position: relative;
     color: $pure-white;
     background-color: $yazzy-black;
     .email{
@@ -371,6 +372,23 @@ header{
           background-color: $yazzy-grey;
         }
       }
+    }
+  }
+  .easter-egg{
+    position: absolute;
+    bottom: -20px;
+    right: 200px;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;/* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;/* Change to speed up or slow down */
+    animation-iteration-count: infinite;/* Never stop waving :) */
+    transform-origin: 50% 80%;/* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s;
+    z-index: 1;
+    @media screen and (max-width: 40em) {
+      display: none;
     }
   }
 }
@@ -409,23 +427,9 @@ footer{
 
 .footer-home{
   footer{
+    position: relative;
     background-color: $yazzy-grey;
-    .easter-egg{
-      position: absolute;
-      right: 15em;
-      bottom: -35em;
-      width: 5em;
-      transform: rotate(-35deg);
-      animation-name: wave-animation;/* Refers to the name of your @keyframes element below */
-      animation-duration: 5.5s;/* Change to speed up or slow down */
-      animation-iteration-count: infinite;/* Never stop waving :) */
-      transform-origin: 50% 80%;/* Pivot around the bottom-left palm */
-      display: inline-block;
-      animation-delay: 3s;
-      @media screen and (max-width: 40em) {
-        display: none;
-      }
-    }
+    z-index: 2;
   }
 }
 //******* End of Footer Styling

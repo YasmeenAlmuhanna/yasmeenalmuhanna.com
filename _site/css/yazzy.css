@@ -254,12 +254,33 @@ header {
         background-color: #E9E9E9; }
 
 .footer-buffer-home .footer-buffer {
+  position: relative;
   color: #ffffff;
   background-color: #262626; }
   .footer-buffer-home .footer-buffer .email a {
     color: #ffffff; }
     .footer-buffer-home .footer-buffer .email a:hover {
       background-color: #383838; }
+.footer-buffer-home .easter-egg {
+  position: absolute;
+  bottom: -20px;
+  right: 200px;
+  width: 5em;
+  transform: rotate(-35deg);
+  animation-name: wave-animation;
+  /* Refers to the name of your @keyframes element below */
+  animation-duration: 5.5s;
+  /* Change to speed up or slow down */
+  animation-iteration-count: infinite;
+  /* Never stop waving :) */
+  transform-origin: 50% 80%;
+  /* Pivot around the bottom-left palm */
+  display: inline-block;
+  animation-delay: 3s;
+  z-index: 1; }
+  @media screen and (max-width: 40em) {
+    .footer-buffer-home .easter-egg {
+      display: none; } }
 
 footer {
   color: #aaa;
@@ -283,26 +304,9 @@ footer {
     display: none; }
 
 .footer-home footer {
-  background-color: #383838; }
-  .footer-home footer .easter-egg {
-    position: absolute;
-    right: 15em;
-    bottom: -35em;
-    width: 5em;
-    transform: rotate(-35deg);
-    animation-name: wave-animation;
-    /* Refers to the name of your @keyframes element below */
-    animation-duration: 5.5s;
-    /* Change to speed up or slow down */
-    animation-iteration-count: infinite;
-    /* Never stop waving :) */
-    transform-origin: 50% 80%;
-    /* Pivot around the bottom-left palm */
-    display: inline-block;
-    animation-delay: 3s; }
-    @media screen and (max-width: 40em) {
-      .footer-home footer .easter-egg {
-        display: none; } }
+  position: relative;
+  background-color: #383838;
+  z-index: 2; }
 
 @keyframes wave-animation {
   0% {
