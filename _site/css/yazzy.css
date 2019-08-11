@@ -149,8 +149,7 @@ header {
   .project-container .project-content .flex {
     display: flex; }
   .project-container .project-content .section-header {
-    margin-bottom: 3em;
-    z-index: 1; }
+    margin-bottom: 3em; }
   .project-container .project-content .section-number {
     font-family: "Oswald", sans-serif;
     font-weight: 600;
@@ -161,8 +160,7 @@ header {
     width: 200px;
     margin-top: -8em; }
   .project-container .project-content .sub-section-name {
-    width: 300px;
-    z-index: 1; }
+    width: 300px; }
   .project-container .project-content .conflict-image {
     padding: 2% 5% 0 5%; }
   .project-container .project-content h2 {
@@ -230,7 +228,8 @@ header {
   background-color: #ffffff;
   padding-top: 5em;
   padding-bottom: 5em;
-  margin-top: 6em; }
+  margin-top: 6em;
+  position: relative; }
   @media screen and (max-width: 40em) {
     .footer-buffer {
       padding-left: 2em;
@@ -264,40 +263,42 @@ header {
       text-decoration: underline; }
       .footer-buffer .email a:hover {
         background-color: #E9E9E9; }
+  .footer-buffer .easter-egg {
+    position: absolute;
+    bottom: -20px;
+    right: 200px;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;
+    /* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;
+    /* Change to speed up or slow down */
+    animation-iteration-count: infinite;
+    /* Never stop waving :) */
+    transform-origin: 50% 80%;
+    /* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s;
+    z-index: 1; }
+    @media screen and (max-width: 40em) {
+      .footer-buffer .easter-egg {
+        display: none; } }
 
 .footer-buffer-home .footer-buffer {
-  position: relative;
   color: #ffffff;
   background-color: #262626; }
   .footer-buffer-home .footer-buffer .email a {
     color: #ffffff; }
     .footer-buffer-home .footer-buffer .email a:hover {
       background-color: #383838; }
-.footer-buffer-home .easter-egg {
-  position: absolute;
-  bottom: -20px;
-  right: 200px;
-  width: 5em;
-  transform: rotate(-35deg);
-  animation-name: wave-animation;
-  /* Refers to the name of your @keyframes element below */
-  animation-duration: 5.5s;
-  /* Change to speed up or slow down */
-  animation-iteration-count: infinite;
-  /* Never stop waving :) */
-  transform-origin: 50% 80%;
-  /* Pivot around the bottom-left palm */
-  display: inline-block;
-  animation-delay: 3s;
-  z-index: 1; }
-  @media screen and (max-width: 40em) {
-    .footer-buffer-home .easter-egg {
-      display: none; } }
 
 footer {
   color: #aaa;
   padding-top: 2em;
-  padding-bottom: 2em; }
+  padding-bottom: 2em;
+  position: relative;
+  z-index: 2;
+  background: inherit; }
   footer .signature {
     text-align: right; }
     footer .signature .rehan-logo {
@@ -316,9 +317,7 @@ footer {
     display: none; }
 
 .footer-home footer {
-  position: relative;
-  background-color: #383838;
-  z-index: 2; }
+  background-color: #383838; }
 
 @keyframes wave-animation {
   0% {

@@ -230,7 +230,6 @@ header{
     }
     .section-header{
       margin-bottom: 3em;
-      z-index: 1;
     }
     .section-number{
       font-family: $oswald;
@@ -245,7 +244,6 @@ header{
     }
     .sub-section-name {
         width: 300px;
-        z-index: 1;
     }
     .conflict-image {
         padding: 2% 5% 0 5%;
@@ -342,6 +340,7 @@ header{
   padding-top: 5em;
   padding-bottom: 5em;
   margin-top: 6em;
+  position: relative;
   @media screen and (max-width: 40em) {
     padding-left: 2em;
     padding-right: 2em;
@@ -381,21 +380,6 @@ header{
       }
     }
   }
-}
-.footer-buffer-home{
-  .footer-buffer{
-    position: relative;
-    color: $pure-white;
-    background-color: $yazzy-black;
-    .email{
-      a{
-        color: $pure-white;
-        &:hover{
-          background-color: $yazzy-grey;
-        }
-      }
-    }
-  }
   .easter-egg{
     position: absolute;
     bottom: -20px;
@@ -414,6 +398,20 @@ header{
     }
   }
 }
+.footer-buffer-home{
+  .footer-buffer{
+    color: $pure-white;
+    background-color: $yazzy-black;
+    .email{
+      a{
+        color: $pure-white;
+        &:hover{
+          background-color: $yazzy-grey;
+        }
+      }
+    }
+  }
+}
 //******* End of Footer Buffer Page Styling
 
 
@@ -422,6 +420,9 @@ footer{
   color: #aaa;
   padding-top: 2em;
   padding-bottom: 2em;
+  position: relative;
+  z-index: 2;
+  background: inherit;
   .signature{
     text-align: right;
     .rehan-logo{
@@ -449,9 +450,7 @@ footer{
 
 .footer-home{
   footer{
-    position: relative;
     background-color: $yazzy-grey;
-    z-index: 2;
   }
 }
 //******* End of Footer Styling
