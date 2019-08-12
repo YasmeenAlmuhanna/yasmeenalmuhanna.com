@@ -73,6 +73,7 @@ header{
       padding-right: 0.5em;
       padding-top: .3em;
       padding-bottom: .3em;
+      color: inherit;
 
       &:visited{
         color: $pure-white;
@@ -125,6 +126,10 @@ header{
     font-family: $roboto-condensed;
     font-weight: $roboto-condensed-regular;
   }
+}
+.hero-img {
+    display: flex;
+    align-items: center;
 }
 //******* End of Hero Styling
 
@@ -205,9 +210,9 @@ header{
       font-weight: $oswald-semibold;
       color: $pure-white;
       text-transform: uppercase;
-      font-size: 5em;
+      font-size: 4em;
       line-height: 1em;
-      border-bottom: 0.1em solid;
+      width: 200px;
     }
     .project-intro{
       font-family: $roboto;
@@ -216,14 +221,16 @@ header{
   .project-content{
     background-color: $pure-white;
     color: $yazzy-black;
-    padding-top: 4em;
-    padding-bottom: 4em;
+    padding: 0 5% 5% 5%;
     @media screen and (max-width: 40em) {
       padding-top: 1em;
       padding-bottom: 1em;
     }
+    .flex {
+        display: flex;
+    }
     .section-header{
-      margin-bottom: 5em;
+      margin-bottom: 3em;
     }
     .section-number{
       font-family: $oswald;
@@ -231,6 +238,28 @@ header{
       font-size: 10em;
       color: $yazzy-extra-light-grey;
       margin-left: -0.3em;
+    }
+    .section-name {
+        width: min-content;
+        margin-top: -8em;
+    }
+    .section-line {
+        height:2px;
+        border:3px solid;
+    }
+    .sub-section-line {
+        width:50px;
+        border-bottom:5px solid;
+        margin-bottom: 15px;
+    }
+    .section-center {
+        display: flex;
+        justify-content: center;
+        flex-flow: column;
+        padding: 10%;
+    }
+    .conflict-image {
+        padding: 2% 5% 0 5%;
     }
     h2{
       font-family: $oswald;
@@ -247,14 +276,14 @@ header{
       text-transform: uppercase;
     }
     .row-item{
-      padding: 2em;
+    //   padding: 2em;
       @media screen and (max-width: 40em) {
         margin-bottom: 1em;
       }
     }
     .text-item{
-      padding-left: 2em;
-      padding-right: 2em;
+    //   padding-left: 2em;
+    //   padding-right: 2em;
       @media screen and (max-width: 40em) {
         padding-left: 0;
         padding-right: 0;
@@ -270,6 +299,10 @@ header{
     .body-copy{
       margin-bottom: 2em;
     }
+    .flex-column {
+        display: flex;
+        flex-flow: column;
+    }
   }
 }
 //******* End of Project Page Styling
@@ -281,14 +314,20 @@ header{
   @media screen and (max-width: 40em) {
     margin-top: 1em;
   }
+  a {
+    color: inherit; 
+  }
+  .yazzy-line{
+      border-bottom: 5px solid $yazzy-grey;
+  }
   .about-title{
     font-family: $oswald;
     font-weight: $oswald-semibold;
     color: $pure-white;
     text-transform: uppercase;
-    font-size: 5em;
+    font-size: 4em;
     line-height: 1em;
-    border-bottom: 0.1em solid;
+    // border-bottom: 0.1em solid;
   }
   .about-header{
     padding-right: 4em;
@@ -320,6 +359,7 @@ header{
   padding-top: 5em;
   padding-bottom: 5em;
   margin-top: 6em;
+  position: relative;
   @media screen and (max-width: 40em) {
     padding-left: 2em;
     padding-right: 2em;
@@ -359,6 +399,23 @@ header{
       }
     }
   }
+  .easter-egg{
+    position: absolute;
+    bottom: -20px;
+    right: 200px;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;/* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;/* Change to speed up or slow down */
+    animation-iteration-count: infinite;/* Never stop waving :) */
+    transform-origin: 50% 80%;/* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s;
+    z-index: 1;
+    @media screen and (max-width: 40em) {
+      display: none;
+    }
+  }
 }
 .footer-buffer-home{
   .footer-buffer{
@@ -382,6 +439,9 @@ footer{
   color: #aaa;
   padding-top: 2em;
   padding-bottom: 2em;
+  position: relative;
+  z-index: 2;
+  background: inherit;
   .signature{
     text-align: right;
     .rehan-logo{
@@ -410,22 +470,6 @@ footer{
 .footer-home{
   footer{
     background-color: $yazzy-grey;
-    .easter-egg{
-      position: absolute;
-      right: 15em;
-      bottom: -35em;
-      width: 5em;
-      transform: rotate(-35deg);
-      animation-name: wave-animation;/* Refers to the name of your @keyframes element below */
-      animation-duration: 5.5s;/* Change to speed up or slow down */
-      animation-iteration-count: infinite;/* Never stop waving :) */
-      transform-origin: 50% 80%;/* Pivot around the bottom-left palm */
-      display: inline-block;
-      animation-delay: 3s;
-      @media screen and (max-width: 40em) {
-        display: none;
-      }
-    }
   }
 }
 //******* End of Footer Styling
