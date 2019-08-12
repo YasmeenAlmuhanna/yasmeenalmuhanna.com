@@ -142,7 +142,7 @@ header {
 .project-container .project-content {
   background-color: #ffffff;
   color: #262626;
-  padding: 0 5% 0 5%; }
+  padding: 0 5% 5% 5%; }
   @media screen and (max-width: 40em) {
     .project-container .project-content {
       padding-top: 1em;
@@ -158,10 +158,20 @@ header {
     color: #E9E9E9;
     margin-left: -0.3em; }
   .project-container .project-content .section-name {
-    width: 200px;
+    width: min-content;
     margin-top: -8em; }
-  .project-container .project-content .sub-section-name {
-    width: 300px; }
+  .project-container .project-content .section-line {
+    height: 2px;
+    border: 3px solid; }
+  .project-container .project-content .sub-section-line {
+    width: 50px;
+    border-bottom: 5px solid;
+    margin-bottom: 15px; }
+  .project-container .project-content .section-center {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    padding: 10%; }
   .project-container .project-content .conflict-image {
     padding: 2% 5% 0 5%; }
   .project-container .project-content h2 {

@@ -221,7 +221,7 @@ header{
   .project-content{
     background-color: $pure-white;
     color: $yazzy-black;
-    padding: 0 5% 0 5%;
+    padding: 0 5% 5% 5%;
     @media screen and (max-width: 40em) {
       padding-top: 1em;
       padding-bottom: 1em;
@@ -240,11 +240,23 @@ header{
       margin-left: -0.3em;
     }
     .section-name {
-        width: 200px;
+        width: min-content;
         margin-top: -8em;
     }
-    .sub-section-name {
-        width: 300px;
+    .section-line {
+        height:2px;
+        border:3px solid;
+    }
+    .sub-section-line {
+        width:50px;
+        border-bottom:5px solid;
+        margin-bottom: 15px;
+    }
+    .section-center {
+        display: flex;
+        justify-content: center;
+        flex-flow: column;
+        padding: 10%;
     }
     .conflict-image {
         padding: 2% 5% 0 5%;
