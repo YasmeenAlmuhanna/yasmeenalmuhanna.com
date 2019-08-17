@@ -36,7 +36,8 @@ header {
       padding-left: 0.5em;
       padding-right: 0.5em;
       padding-top: .3em;
-      padding-bottom: .3em; }
+      padding-bottom: .3em;
+      color: inherit; }
       header nav a:visited {
         color: #ffffff; }
       header nav a:hover {
@@ -72,6 +73,10 @@ header {
     line-height: 1.3em;
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 400; }
+
+.hero-img {
+  display: flex;
+  align-items: center; }
 
 .tile-container {
   padding: 1em;
@@ -129,28 +134,46 @@ header {
     font-weight: 600;
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 5em;
+    font-size: 4em;
     line-height: 1em;
-    border-bottom: 0.1em solid; }
+    width: 200px; }
   .project-container .project-header .project-intro {
     font-family: "Roboto", sans-serif; }
 .project-container .project-content {
   background-color: #ffffff;
   color: #262626;
-  padding-top: 4em;
-  padding-bottom: 4em; }
+  padding: 0 5% 5% 5%; }
   @media screen and (max-width: 40em) {
     .project-container .project-content {
       padding-top: 1em;
       padding-bottom: 1em; } }
+  .project-container .project-content .flex {
+    display: flex; }
   .project-container .project-content .section-header {
-    margin-bottom: 5em; }
+    margin-bottom: 3em; }
   .project-container .project-content .section-number {
     font-family: "Oswald", sans-serif;
     font-weight: 600;
     font-size: 10em;
     color: #E9E9E9;
     margin-left: -0.3em; }
+  .project-container .project-content .section-name {
+    width: min-content;
+    margin-top: -8em; }
+  .project-container .project-content .section-line {
+    height: 2px;
+    border: 3px solid; }
+  .project-container .project-content .sub-section-line {
+    width: 50px;
+    border-bottom: 5px solid;
+    margin-bottom: 15px; }
+  .project-container .project-content .section-center {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    padding: 10%; }
+  .project-container .project-content .conflict-image {
+    padding: 2% 5% 0 5%; }
   .project-container .project-content h2 {
     font-family: "Oswald", sans-serif;
     font-weight: 500;
@@ -163,19 +186,14 @@ header {
     font-family: "Oswald", sans-serif;
     font-weight: 500;
     text-transform: uppercase; }
-  .project-container .project-content .row-item {
-    padding: 2em; }
-    @media screen and (max-width: 40em) {
-      .project-container .project-content .row-item {
-        margin-bottom: 1em; } }
-  .project-container .project-content .text-item {
-    padding-left: 2em;
-    padding-right: 2em; }
-    @media screen and (max-width: 40em) {
-      .project-container .project-content .text-item {
-        padding-left: 0;
-        padding-right: 0;
-        margin-bottom: 1em; } }
+  @media screen and (max-width: 40em) {
+    .project-container .project-content .row-item {
+      margin-bottom: 1em; } }
+  @media screen and (max-width: 40em) {
+    .project-container .project-content .text-item {
+      padding-left: 0;
+      padding-right: 0;
+      margin-bottom: 1em; } }
   .project-container .project-content .caption {
     font-weight: 400;
     font-style: italic;
@@ -183,20 +201,26 @@ header {
     padding-top: 0.5em; }
   .project-container .project-content .body-copy {
     margin-bottom: 2em; }
+  .project-container .project-content .flex-column {
+    display: flex;
+    flex-flow: column; }
 
 .about {
   margin-top: 4em; }
   @media screen and (max-width: 40em) {
     .about {
       margin-top: 1em; } }
+  .about a {
+    color: inherit; }
+  .about .yazzy-line {
+    border-bottom: 5px solid #383838; }
   .about .about-title {
     font-family: "Oswald", sans-serif;
     font-weight: 600;
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 5em;
-    line-height: 1em;
-    border-bottom: 0.1em solid; }
+    font-size: 4em;
+    line-height: 1em; }
   .about .about-header {
     padding-right: 4em; }
     @media screen and (max-width: 40em) {
@@ -218,7 +242,8 @@ header {
   background-color: #ffffff;
   padding-top: 5em;
   padding-bottom: 5em;
-  margin-top: 6em; }
+  margin-top: 6em;
+  position: relative; }
   @media screen and (max-width: 40em) {
     .footer-buffer {
       padding-left: 2em;
@@ -252,6 +277,26 @@ header {
       text-decoration: underline; }
       .footer-buffer .email a:hover {
         background-color: #E9E9E9; }
+  .footer-buffer .easter-egg {
+    position: absolute;
+    bottom: -20px;
+    right: 200px;
+    width: 5em;
+    transform: rotate(-35deg);
+    animation-name: wave-animation;
+    /* Refers to the name of your @keyframes element below */
+    animation-duration: 5.5s;
+    /* Change to speed up or slow down */
+    animation-iteration-count: infinite;
+    /* Never stop waving :) */
+    transform-origin: 50% 80%;
+    /* Pivot around the bottom-left palm */
+    display: inline-block;
+    animation-delay: 3s;
+    z-index: 1; }
+    @media screen and (max-width: 40em) {
+      .footer-buffer .easter-egg {
+        display: none; } }
 
 .footer-buffer-home .footer-buffer {
   color: #ffffff;
@@ -264,7 +309,10 @@ header {
 footer {
   color: #aaa;
   padding-top: 2em;
-  padding-bottom: 2em; }
+  padding-bottom: 2em;
+  position: relative;
+  z-index: 2;
+  background: inherit; }
   footer .signature {
     text-align: right; }
     footer .signature .rehan-logo {
@@ -284,25 +332,6 @@ footer {
 
 .footer-home footer {
   background-color: #383838; }
-  .footer-home footer .easter-egg {
-    position: absolute;
-    right: 15em;
-    bottom: -35em;
-    width: 5em;
-    transform: rotate(-35deg);
-    animation-name: wave-animation;
-    /* Refers to the name of your @keyframes element below */
-    animation-duration: 5.5s;
-    /* Change to speed up or slow down */
-    animation-iteration-count: infinite;
-    /* Never stop waving :) */
-    transform-origin: 50% 80%;
-    /* Pivot around the bottom-left palm */
-    display: inline-block;
-    animation-delay: 3s; }
-    @media screen and (max-width: 40em) {
-      .footer-home footer .easter-egg {
-        display: none; } }
 
 @keyframes wave-animation {
   0% {
