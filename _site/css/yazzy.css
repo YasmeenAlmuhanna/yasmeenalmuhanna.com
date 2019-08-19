@@ -136,7 +136,7 @@ header {
     text-transform: uppercase;
     font-size: 4em;
     line-height: 1em;
-    width: 200px; }
+    width: 400px; }
   .project-container .project-header .project-intro {
     font-family: "Roboto", sans-serif; }
 .project-container .project-content {
@@ -199,11 +199,19 @@ header {
     font-style: italic;
     color: #9F9F9F;
     padding-top: 0.5em; }
+  .project-container .project-content .right {
+    text-align: right; }
   .project-container .project-content .body-copy {
     margin-bottom: 2em; }
   .project-container .project-content .flex-column {
     display: flex;
     flex-flow: column; }
+
+.polar-bear {
+  cursor: pointer;
+  position: absolute;
+  width: 150px;
+  right: 350px; }
 
 .about {
   margin-top: 4em; }
