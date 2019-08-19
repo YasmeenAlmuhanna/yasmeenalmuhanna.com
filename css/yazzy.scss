@@ -212,7 +212,7 @@ header{
       text-transform: uppercase;
       font-size: 4em;
       line-height: 1em;
-      width: 200px;
+      width: 400px;
     }
     .project-intro{
       font-family: $roboto;
@@ -296,6 +296,9 @@ header{
       color: $yazzy-light-grey;
       padding-top: 0.5em;
     }
+    .right {
+        text-align: right;
+    }
     .body-copy{
       margin-bottom: 2em;
     }
@@ -304,6 +307,13 @@ header{
         flex-flow: column;
     }
   }
+}
+
+.polar-bear{
+    cursor: pointer;
+    position: absolute;
+    width: 150px;
+    right: 350px;
 }
 //******* End of Project Page Styling
 
