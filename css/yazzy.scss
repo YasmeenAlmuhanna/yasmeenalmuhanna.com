@@ -184,6 +184,9 @@ header{
 //******* End of Home Styling
 
 //******* Project Page Styling
+.grid-container {
+    position: relative;
+}
 .project-container{
   .project-header{
     padding-bottom: 3em;
@@ -221,10 +224,10 @@ header{
   .project-content{
     background-color: $pure-white;
     color: $yazzy-black;
-    padding: 0 5% 5% 5%;
+    padding: 0 5% 50px 5%;
     @media screen and (max-width: 40em) {
-      padding-top: 1em;
-      padding-bottom: 1em;
+    //   padding-top: 1em;
+    //   padding-bottom: 1em;
     }
     .flex {
         display: flex;
@@ -313,7 +316,16 @@ header{
     cursor: pointer;
     position: absolute;
     width: 150px;
-    right: 350px;
+    right: 20%;
+    bottom: -75px;
+}
+.desc-padding-right {
+    padding-right: 5%;
+}
+@media (max-width: 650px) {
+    .desc-padding-right {
+        padding-right: unset;
+    }
 }
 //******* End of Project Page Styling
 
