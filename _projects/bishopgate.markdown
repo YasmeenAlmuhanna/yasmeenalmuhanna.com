@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Bishopgate Goodsyard"
+title: "Bishopgate</br>Goodsyard"
 date: 2019-02-20
 category: Architecture
 thumbnail: bishopgate_goodsyard.svg

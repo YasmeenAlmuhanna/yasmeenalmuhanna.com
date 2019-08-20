@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Fuel Nutrition"
+title: "Fuel</br>Nutrition"
 date: 2019-02-22
 category: Design Strategy
 thumbnail: fuel_nutrition.svg
@@ -44,7 +44,7 @@ color: F87A3B
     </div>
     <img src="/img/fuelnutrition/material_board.png" alt="Barber Station Elevation Line Drawing" style="width:100%;">
     <div class="sub-section flex" style="margin-top: 4em">
-        <div class="sub-section-desc" style="width:50%">
+        <div class="sub-section-desc desc-padding-right" style="width:50%">
             <div class="sub-section-name">
                 <h3>The First<br/>Impression</h3>
                 <div class="sub-section-line" style="color: #F87A3B;"></div>
