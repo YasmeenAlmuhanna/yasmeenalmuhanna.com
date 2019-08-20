@@ -138,8 +138,7 @@ header {
     color: #ffffff;
     text-transform: uppercase;
     font-size: 4em;
-    line-height: 1em;
-    width: 400px; }
+    line-height: 1em; }
   .project-container .project-header .project-intro {
     font-family: "Roboto", sans-serif; }
 .project-container .project-content {

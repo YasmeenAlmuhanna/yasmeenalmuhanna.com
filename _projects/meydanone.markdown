@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Meydan One"
+title: "Meydan</br>One"
 category: Architecture
 thumbnail: meydan_one.svg
 color: 4790CC
