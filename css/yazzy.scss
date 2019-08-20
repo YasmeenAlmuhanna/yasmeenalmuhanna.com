@@ -187,6 +187,13 @@ header{
 .grid-container {
     position: relative;
 }
+.enlarge-icon {
+    position: absolute;
+    width: 50px;
+    bottom: -20px;
+    left: -20px;
+    cursor: pointer;
+}
 .project-container{
   .project-header{
     padding-bottom: 3em;
