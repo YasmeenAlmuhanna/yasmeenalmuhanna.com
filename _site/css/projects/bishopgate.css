@@ -1,0 +1,13 @@
+.bishop-section1 .bishop-subsection1 {
+  display: flex; }
+  .bishop-section1 .bishop-subsection1 .bishop-subsection1-column1 {
+    width: 50%; }
+  .bishop-section1 .bishop-subsection1 .bishop-subsection1-column2 {
+    width: 50%;
+    padding-left: 5%; }
+.bishop-section1 .bishop-section1-images {
+  position: relative; }
+  .bishop-section1 .bishop-section1-images .bishop-dark-future-img {
+    position: absolute;
+    width: 45%;
+    bottom: 50%; }

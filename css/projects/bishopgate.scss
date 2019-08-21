@@ -1,0 +1,27 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+.bishop-section1 {
+    .bishop-subsection1 {
+        display: flex;
+        .bishop-subsection1-column1 {
+            width: 50%;
+        }
+        .bishop-subsection1-column2 {
+            width: 50%;
+            padding-left: 5%;
+        }
+    }
+    .bishop-section1-images {
+        position: relative;
+        .bishop-dark-future-img {
+            position: absolute;
+            width: 45%;
+            bottom: 50%;
+        }
+    }
+}
+
+.bishop-section2 {
+    
+}

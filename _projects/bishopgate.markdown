@@ -9,20 +9,86 @@ color: 9A5AB9
 ---
 
 <div class="project-metadata grid-x">
-  <div class="metadata-object cell small-8 grid-x">
-    <div class="metadata-title cell small-6">
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
       Project Type
     </div>
-    <div class="metadata-value cell small-6">
-      Design Strategy
+    <div class="metadata-value cell auto">
+      Urban Masterplan + Architecture
     </div>
   </div>
-  <div class="metadata-object cell small-8 grid-x">
-    <div class="metadata-title cell small-6">
-      Time Frame
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Location
     </div>
-    <div class="metadata-value cell small-6">
-      1 Month
+    <div class="metadata-value cell auto">
+      Bishopsgate Goodsyard, London
     </div>
   </div>
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Collaborators
+    </div>
+    <div class="metadata-value cell auto">
+      Jenny Wong
+    </div>
+  </div>
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Advisor
+    </div>
+    <div class="metadata-value cell auto">
+      Jonathan Kline
+    </div>
+  </div>
+</div>
+
+<div class="project-intro">
+    <p>A product of the urban design studio at Carnegie Mellon University, this project was an opportunity to examine how architecture, infrastructure and the city intersect and transform one another through new hybrid typologies.</p>
+    <p>Sitting on a 4.4 hectare plot, the Goodsyard represents a scale where the architecture and urbanism blur.</p>
+</div>
+
+!~META
+
+<div class="bishop-section1">
+    <div class="section-header">
+        <span class="section-number">01</span>
+        <div class="section-name">
+            <h2><br/>Context</h2>
+            <div class="section-line" style="color: #9A5AB9;"></div>
+        </div>
+    </div>
+    <div class="bishop-subsection1">
+        <div class="bishop-subsection1-column1">
+            <p>The Goodsyard is a proposed development on the site of the former Bishopsgate Goods Yard in Shoreditch, London. At the moment, the site is a derelict station that spans four city blocks and covers an area of over 300,000 sq. meters. </p>
+        </div>
+        <div class="bishop-subsection1-column2">
+            <p>The joint venture proposal from Hammerson and Ballymore Group's for the development of the Bishopgate Goodsyard was met with much opposition by the public. </p>
+            <p>A report for the mayor by Greater London Authority planners said developer Hammerson’s proposal “would result in unacceptable and significant negative impacts”, and “not appropriate” for the 4.4-hectare site, near to Liverpool Street station and Brick Lane [1].</p>
+            <p>Of the several residential blocks proposed by the developers (two of which have than 40 storeys), only 10% had been allocated towards affordable housing. Not only is this significantly below the percentage allocated in the neighboring burrows of Tower Hamlets and Hackney, but points to the larger endemic of the housing crisis in London as more and more people are getting priced out.</p>
+        </div>
+    </div>
+    <div class="bishop-section1-images">
+        <img class="bishop-dark-future-img" src="\img\bishopgategoodsyard\darkFuture.svg">
+        <img src="\img\bishopgategoodsyard\Hackney.jpg">
+    </div>
+</div>
+
+<div class="bishop-section2">
+    <div class="section-header">
+        <span class="section-number">02</span>
+        <div class="section-name">
+            <h2>Urban<br/>Strategy</h2>
+            <div class="section-line" style="color: #9A5AB9;"></div>
+        </div>
+    </div>
+    <div>
+        <img src="\img\bishopgategoodsyard\diagram_programAxon.svg">
+    </div>
+    <div class="bishop-sub-section2">
+        <div class="bishop-sub-section2-column1">
+            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+        </div>
+        <div class="bishop-sub-section2-column2">
+    </div>
 </div>
