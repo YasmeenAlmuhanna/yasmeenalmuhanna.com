@@ -37,7 +37,9 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .hero-img { display: flex; align-items: center; }
 
-.tile-container { padding: 1em; text-decoration: none; }
+.project-tiles { display: flex; flex-flow: row wrap; justify-content: space-around; }
+
+.tile-container { padding: 1em; text-decoration: none; width: 400px; }
 
 .tile-container a:hover { text-decoration: none; }
 

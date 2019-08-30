@@ -135,9 +135,15 @@ header{
 
 
 //******* Home Styling
+.project-tiles {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
 .tile-container{
   padding: 1em;
   text-decoration: none;
+  width: 400px;
   a{
     &:hover{
       text-decoration: none;

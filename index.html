@@ -1,18 +1,19 @@
 ---
 layout: default
 ---
+{% include hero.html %}
 
-<div class="grid-x">
-    {% include hero.html %}
-
+<div class="project-tiles">
     {% assign project_order = site.projects | sort: 'order' %}
     {% for project in project_order %}
-    <div class="small-12 medium-4 tile-container">
+    <div class="tile-container">
         <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
             <div class="tile" style="background-color: #{{ project.color }}; color: #{{ project.color }}70;">
                 <span class="tile-title">{{ project.title }}</span>
-                <img class="tile-image" src="img/thumbnails/{{ project.thumbnail }}"
-                    alt="{{ project.tile-name }} Tile Image">
+                <div class="tile-image">
+                    <img class="img-img" src="img/thumbnails/{{ project.thumbnail }}"
+                        alt="{{ project.tile-name }} Tile Image">
+                </div>
                 <span class="tile-category">{{ project.category }}</span>
             </div>
         </a>
