@@ -3,18 +3,19 @@ layout: default
 ---
 
 <div class="grid-x">
-  {% include hero.html %}
-  
-  {% assign project_order = site.projects | sort: 'date' | reverse %}
+    {% include hero.html %}
+
+    {% assign project_order = site.projects | sort: 'order' %}
     {% for project in project_order %}
     <div class="small-12 medium-4 tile-container">
-      <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
-      <div class="tile" style="background-color: #{{ project.color }}; color: #{{ project.color }}70;">
-        <span class="tile-title">{{ project.title }}</span>
-        <img class="tile-image" src="img/thumbnails/{{ project.thumbnail }}" alt="{{ project.tile-name }} Tile Image">
-        <span class="tile-category">{{ project.category }}</span>
-      </div>
-      </a>
+        <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
+            <div class="tile" style="background-color: #{{ project.color }}; color: #{{ project.color }}70;">
+                <span class="tile-title">{{ project.title }}</span>
+                <img class="tile-image" src="img/thumbnails/{{ project.thumbnail }}"
+                    alt="{{ project.tile-name }} Tile Image">
+                <span class="tile-category">{{ project.category }}</span>
+            </div>
+        </a>
     </div>
     {% endfor %}
 </div>
