@@ -1,14 +1,4 @@
----
-layout: project
-title: "Meydan</br>One"
-category: Architecture
-thumbnail: meydan_one.svg
-color: 4790CC
-order: 2
-
----
-
-<div class="project-metadata grid-x">
+I"ø<div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
     <div class="metadata-title cell small-4">
       Project Type
@@ -40,13 +30,13 @@ order: 2
   <p>Although the work I did ranged from design, construction drawings, presentations, 3d modeling, and everything in between. I decided to present two tasks that I believe demonstrate the type of value I can bring to an organization.</p>
 </div>
 
-!~META
+<p>!~META</p>
 
 <div class="section">
     <div class="section-header">
         <span class="section-number">01</span>
         <div class="section-name">
-            <h2>Structural<br/>Requests</h2>
+            <h2>Structural<br />Requests</h2>
             <div class="section-line" style="color: #4790CC;"></div>
         </div>
     </div>
@@ -57,31 +47,31 @@ order: 2
             <h3>CONFLICT EXAMPLES</h3>
             <div class="sub-section-line" style="color: #4790CC;"></div>
         </div>
-        <img class="conflict-image" src="/img/meydanone/conflict1.png" alt="meydan conflict 2" style="width:100%;">
-        <img class="conflict-image" src="/img/meydanone/conflict2.png" alt="meydan conflict 2" style="width:100%;">
-        <img class="conflict-image" src="/img/meydanone/conflict3.png" alt="meydan conflict 3" style="width:100%;">
-        <img class="conflict-image" src="/img/meydanone/conflict4.png" alt="meydan conflict 4" style="width:100%;">
+        <img class="conflict-image" src="/img/meydanone/conflict1.png" alt="meydan conflict 2" style="width:100%;" />
+        <img class="conflict-image" src="/img/meydanone/conflict2.png" alt="meydan conflict 2" style="width:100%;" />
+        <img class="conflict-image" src="/img/meydanone/conflict3.png" alt="meydan conflict 3" style="width:100%;" />
+        <img class="conflict-image" src="/img/meydanone/conflict4.png" alt="meydan conflict 4" style="width:100%;" />
     </div>
 </div>
 <div class="section">
     <div class="section-header">
         <span class="section-number">02</span>
         <div class="section-name">
-            <h2>Sectional<br/>Details</h2>
+            <h2>Sectional<br />Details</h2>
             <div class="section-line" style="color: #4790CC;"></div>
         </div>
     </div>
     <div class="sub-section flex">
         <div class="sub-section-desc" style="width:40%">
             <div class="sub-section-name" style="width:200px">
-                <h3>CONNECTING<br/>THIS TO THAT</h3>
+                <h3>CONNECTING<br />THIS TO THAT</h3>
                 <div class="sub-section-line" style="color: #4790CC;"></div>
             </div>
             <p>The section to the right showcases a sample section that I was tasked to figure out the connection details for.</p>
             <p>The challenging part about this task was that I am not trained in structural details of construction. I looked at many construction details from past built projects and stitched together first draft solution.</p>
         </div>
-        <div class="sub-section-img"  style="width:60%">
-            <img src="/img/meydanone/bare section 1.png" alt="bare section">
+        <div class="sub-section-img" style="width:60%">
+            <img src="/img/meydanone/bare section 1.png" alt="bare section" />
         </div>
     </div>
     <div class="sub-section flex">
@@ -90,8 +80,9 @@ order: 2
             <p>Additionally, I had to communicate with various in-house teams of the project in order to understand how one component fit with another.</p>
         </div>  
         <div class="sub-section-img" style="width:60%">
-            <img src="/img/meydanone/finished section 1.png" alt="finished section">
+            <img src="/img/meydanone/finished section 1.png" alt="finished section" />
         </div>
     </div>
-    <img src="/img/meydanone/before+after.png" alt="before+after sections" style="width:100%;">
+    <img src="/img/meydanone/before+after.png" alt="before+after sections" style="width:100%;" />
 </div>
+:ET

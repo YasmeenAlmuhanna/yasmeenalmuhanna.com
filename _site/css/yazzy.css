@@ -1,371 +1,196 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald:400,500,600&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap");
-body {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 20px;
-  color: #262626;
-  background-color: #262626;
-  color: #ffffff; }
-  @media screen and (max-width: 40em) {
-    body {
-      font-size: 14px; } }
+body { font-family: "Roboto", sans-serif; font-weight: 400; font-size: 20px; color: #262626; background-color: #262626; color: #ffffff; }
 
-h1,
-h2,
-h3,
-h4 {
-  font-family: "Roboto", sans-serif;
-  color: #262626; }
+@media screen and (max-width: 40em) { body { font-size: 14px; } }
 
-header {
-  padding-top: 2em;
-  font-family: "Oswald", sans-serif; }
-  header .logo {
-    height: 4.5em; }
-  header nav {
-    color: #ffffff;
-    font-weight: 500;
-    text-align: right; }
-    @media screen and (max-width: 40em) {
-      header nav {
-        font-size: 1.4em; } }
-    header nav a {
-      padding-left: 0.5em;
-      padding-right: 0.5em;
-      padding-top: .3em;
-      padding-bottom: .3em;
-      color: inherit; }
-      header nav a:visited {
-        color: #ffffff; }
-      header nav a:hover {
-        text-decoration: none;
-        background-color: #383838; }
+h1, h2, h3, h4 { font-family: "Roboto", sans-serif; color: #262626; }
 
-.hero {
-  margin-bottom: 5em;
-  margin-top: 2em; }
-  .hero .hello {
-    font-size: 12em;
-    font-family: "Oswald", sans-serif;
-    font-weight: 600;
-    color: #383838;
-    line-height: 1em;
-    text-transform: uppercase; }
-    @media screen and (max-width: 40em) {
-      .hero .hello {
-        font-size: 8em; } }
-  .hero .overlay {
-    margin-top: -6em; }
-    @media screen and (max-width: 40em) {
-      .hero .overlay {
-        margin-top: -4em; } }
-  .hero .yasmeen {
-    color: #ffffff;
-    font-size: 3em;
-    font-family: "Oswald", sans-serif;
-    line-height: 1em; }
-  .hero .todo {
-    color: #ffffff;
-    font-size: 1.4em;
-    line-height: 1.3em;
-    font-family: "Roboto Condensed", sans-serif;
-    font-weight: 400; }
+header { padding-top: 2em; font-family: "Oswald", sans-serif; }
 
-.hero-img {
-  display: flex;
-  align-items: center; }
+header .logo { height: 4.5em; }
 
-.tile-container {
-  padding: 1em;
-  text-decoration: none; }
-  .tile-container a:hover {
-    text-decoration: none; }
-    .tile-container a:hover .tile {
-      box-shadow: 0.75em -0.75em 0px 0px; }
-  .tile-container .project-link {
-    font-size: 1.2em; }
-    .tile-container .project-link .tile {
-      padding: 1em;
-      position: relative;
-      box-shadow: 0.5em -0.5em 0px 0px; }
-      .tile-container .project-link .tile .tile-title {
-        font-family: "Oswald", sans-serif;
-        font-size: 1.3em;
-        font-weight: 500;
-        text-transform: uppercase;
-        position: absolute;
-        right: 1em;
-        left: 1em;
-        line-height: 1.3em;
-        color: #ffffff; }
-      .tile-container .project-link .tile .tile-image {
-        position: relative;
-        padding: 1em;
-        margin-top: 3em;
-        margin-bottom: 2.7em; }
-      .tile-container .project-link .tile .tile-category {
-        font-family: "Roboto", sans-serif;
-        color: #ffffff;
-        position: absolute;
-        left: 1em;
-        bottom: 1em; }
+header nav { color: #ffffff; font-weight: 500; text-align: right; }
 
-.grid-container {
-  position: relative; }
+@media screen and (max-width: 40em) { header nav { font-size: 1.4em; } }
 
-.enlarge-icon {
-  position: absolute;
-  width: 50px;
-  bottom: -20px;
-  left: -20px;
-  cursor: pointer; }
+header nav a { padding-left: 0.5em; padding-right: 0.5em; padding-top: .3em; padding-bottom: .3em; color: inherit; }
 
-.project-container .project-header {
-  padding-bottom: 3em; }
-  .project-container .project-header .project-words {
-    padding-right: 4em; }
-    @media screen and (max-width: 40em) {
-      .project-container .project-header .project-words {
-        padding-right: 0; } }
-    .project-container .project-header .project-words .project-time {
-      font-family: "Roboto", sans-serif;
-      color: #9F9F9F; }
-    .project-container .project-header .project-words .project-metadata {
-      font-family: "Roboto", sans-serif;
-      margin-bottom: 2em;
-      color: #9F9F9F; }
-      .project-container .project-header .project-words .project-metadata .metadata-title {
-        font-weight: 700; }
-  .project-container .project-header .project-title {
-    font-family: "Oswald", sans-serif;
-    font-weight: 600;
-    color: #ffffff;
-    text-transform: uppercase;
-    font-size: 4em;
-    line-height: 1em; }
-  .project-container .project-header .project-intro {
-    font-family: "Roboto", sans-serif; }
-.project-container .project-content {
-  background-color: #ffffff;
-  color: #262626;
-  padding: 0 5% 50px 5%; }
-  .project-container .project-content .flex {
-    display: flex; }
-  .project-container .project-content .section-header {
-    margin-bottom: 3em; }
-  .project-container .project-content .section-number {
-    font-family: "Oswald", sans-serif;
-    font-weight: 600;
-    font-size: 10em;
-    color: #E9E9E9;
-    margin-left: -0.3em; }
-  .project-container .project-content .section-name {
-    width: min-content;
-    margin-top: -8em; }
-  .project-container .project-content .section-line {
-    height: 2px;
-    border: 3px solid; }
-  .project-container .project-content .sub-section-line {
-    width: 50px;
-    border-bottom: 5px solid;
-    margin-bottom: 15px; }
-  .project-container .project-content .section-center {
-    display: flex;
-    justify-content: center;
-    flex-flow: column;
-    padding: 10%; }
-  .project-container .project-content .conflict-image {
-    padding: 2% 5% 0 5%; }
-  .project-container .project-content h2 {
-    font-family: "Oswald", sans-serif;
-    font-weight: 500;
-    text-transform: uppercase;
-    margin-top: -3em; }
-    @media screen and (max-width: 40em) {
-      .project-container .project-content h2 {
-        font-size: 2em; } }
-  .project-container .project-content h3 {
-    font-family: "Oswald", sans-serif;
-    font-weight: 500;
-    text-transform: uppercase; }
-  @media screen and (max-width: 40em) {
-    .project-container .project-content .row-item {
-      margin-bottom: 1em; } }
-  @media screen and (max-width: 40em) {
-    .project-container .project-content .text-item {
-      padding-left: 0;
-      padding-right: 0;
-      margin-bottom: 1em; } }
-  .project-container .project-content .caption {
-    font-weight: 400;
-    font-style: italic;
-    color: #9F9F9F;
-    padding-top: 0.5em; }
-  .project-container .project-content .right {
-    text-align: right; }
-  .project-container .project-content .body-copy {
-    margin-bottom: 2em; }
-  .project-container .project-content .flex-column {
-    display: flex;
-    flex-flow: column; }
+header nav a:visited { color: #ffffff; }
 
-.polar-bear {
-  cursor: pointer;
-  position: absolute;
-  width: 150px;
-  right: 20%;
-  bottom: -75px; }
+header nav a:hover { text-decoration: none; background-color: #383838; }
 
-.desc-padding-right {
-  padding-right: 5%; }
+.hero { margin-bottom: 5em; margin-top: 2em; }
 
-@media (max-width: 650px) {
-  .desc-padding-right {
-    padding-right: unset; } }
-.about {
-  margin-top: 4em; }
-  @media screen and (max-width: 40em) {
-    .about {
-      margin-top: 1em; } }
-  .about a {
-    color: inherit; }
-  .about .yazzy-line {
-    border-bottom: 5px solid #383838; }
-  .about .about-title {
-    font-family: "Oswald", sans-serif;
-    font-weight: 600;
-    color: #ffffff;
-    text-transform: uppercase;
-    font-size: 4em;
-    line-height: 1em; }
-  .about .about-header {
-    padding-right: 4em; }
-    @media screen and (max-width: 40em) {
-      .about .about-header {
-        padding-right: 0; } }
-    .about .about-header p {
-      margin-bottom: 1em; }
-  .about .button {
-    font-size: 1em;
-    text-transform: uppercase;
-    background-color: #383838;
-    border: 3px solid #ffffff; }
-    .about .button:hover {
-      background-color: #ffffff;
-      color: #262626; }
+.hero .hello { font-size: 12em; font-family: "Oswald", sans-serif; font-weight: 600; color: #383838; line-height: 1em; text-transform: uppercase; }
 
-.footer-buffer {
-  color: #262626;
-  background-color: #ffffff;
-  padding-top: 5em;
-  padding-bottom: 5em;
-  margin-top: 6em;
-  position: relative; }
-  @media screen and (max-width: 40em) {
-    .footer-buffer {
-      padding-left: 2em;
-      padding-right: 2em;
-      margin-top: 0; } }
-  .footer-buffer .quote {
-    font-family: "Roboto Condensed", sans-serif;
-    text-align: right;
-    font-size: 1.6em;
-    padding-right: 1em; }
-    @media screen and (max-width: 40em) {
-      .footer-buffer .quote {
-        padding-right: 0;
-        text-align: left;
-        font-size: 2.2em;
-        margin-bottom: 1em; } }
-    .footer-buffer .quote p {
-      margin-bottom: 0;
-      line-height: 1.3em; }
-  .footer-buffer .email {
-    padding-left: 1em; }
-    @media screen and (max-width: 40em) {
-      .footer-buffer .email {
-        padding-left: 0;
-        font-size: 1.3em; } }
-    .footer-buffer .email p {
-      margin-bottom: 0;
-      line-height: 1.3em; }
-    .footer-buffer .email a {
-      color: #262626;
-      text-decoration: underline; }
-      .footer-buffer .email a:hover {
-        background-color: #E9E9E9; }
-  .footer-buffer .easter-egg {
-    position: absolute;
-    bottom: -20px;
-    right: 200px;
-    width: 5em;
-    transform: rotate(-35deg);
-    animation-name: wave-animation;
-    /* Refers to the name of your @keyframes element below */
-    animation-duration: 5.5s;
-    /* Change to speed up or slow down */
-    animation-iteration-count: infinite;
-    /* Never stop waving :) */
-    transform-origin: 50% 80%;
-    /* Pivot around the bottom-left palm */
-    display: inline-block;
-    animation-delay: 3s;
-    z-index: 1; }
-    @media screen and (max-width: 40em) {
-      .footer-buffer .easter-egg {
-        display: none; } }
+@media screen and (max-width: 40em) { .hero .hello { font-size: 8em; } }
 
-.footer-buffer-home .footer-buffer {
-  color: #ffffff;
-  background-color: #262626; }
-  .footer-buffer-home .footer-buffer .email a {
-    color: #ffffff; }
-    .footer-buffer-home .footer-buffer .email a:hover {
-      background-color: #383838; }
+.hero .overlay { margin-top: -6em; }
 
-footer {
-  color: #aaa;
-  padding-top: 2em;
-  padding-bottom: 2em;
-  position: relative;
-  z-index: 2;
-  background: inherit; }
-  footer .signature {
-    text-align: right; }
-    footer .signature .rehan-logo {
-      height: 18px; }
-    @media screen and (max-width: 40em) {
-      footer .signature {
-        text-align: center; } }
-  @media screen and (max-width: 40em) {
-    footer .copyright {
-      text-align: center; } }
-  footer .logo {
-    text-align: center; }
-    footer .logo img {
-      height: 2em; }
-  footer .easter-egg {
-    display: none; }
+@media screen and (max-width: 40em) { .hero .overlay { margin-top: -4em; } }
 
-.footer-home footer {
-  background-color: #383838; }
+.hero .yasmeen { color: #ffffff; font-size: 3em; font-family: "Oswald", sans-serif; line-height: 1em; }
 
-@keyframes wave-animation {
-  0% {
-    transform: rotate(-35deg); }
-  10% {
-    transform: rotate(-40deg); }
+.hero .todo { color: #ffffff; font-size: 1.4em; line-height: 1.3em; font-family: "Roboto Condensed", sans-serif; font-weight: 400; }
+
+.hero-img { display: flex; align-items: center; }
+
+.tile-container { padding: 1em; text-decoration: none; }
+
+.tile-container a:hover { text-decoration: none; }
+
+.tile-container a:hover .tile { box-shadow: 0.75em -0.75em 0px 0px; }
+
+.tile-container .project-link { font-size: 1.2em; }
+
+.tile-container .project-link .tile { padding: 1em; position: relative; box-shadow: 0.5em -0.5em 0px 0px; }
+
+.tile-container .project-link .tile .tile-title { font-family: "Oswald", sans-serif; font-size: 1.3em; font-weight: 500; text-transform: uppercase; position: absolute; right: 1em; left: 1em; line-height: 1.3em; color: #ffffff; }
+
+.tile-container .project-link .tile .tile-image { position: relative; padding: 1em; margin-top: 3em; margin-bottom: 2.7em; }
+
+.tile-container .project-link .tile .tile-category { font-family: "Roboto", sans-serif; color: #ffffff; position: absolute; left: 1em; bottom: 1em; }
+
+.grid-container { position: relative; }
+
+.enlarge-icon { position: absolute; width: 50px; bottom: -20px; left: -20px; cursor: pointer; }
+
+.project-container .project-header { padding-bottom: 3em; }
+
+.project-container .project-header .project-words { padding-right: 4em; }
+
+@media screen and (max-width: 40em) { .project-container .project-header .project-words { padding-right: 0; } }
+
+.project-container .project-header .project-words .project-time { font-family: "Roboto", sans-serif; color: #9F9F9F; }
+
+.project-container .project-header .project-words .project-metadata { font-family: "Roboto", sans-serif; margin-bottom: 2em; color: #9F9F9F; }
+
+.project-container .project-header .project-words .project-metadata .metadata-title { font-weight: 700; }
+
+.project-container .project-header .project-title { font-family: "Oswald", sans-serif; font-weight: 600; color: #ffffff; text-transform: uppercase; font-size: 4em; line-height: 1em; }
+
+.project-container .project-header .project-intro { font-family: "Roboto", sans-serif; }
+
+.project-container .project-content { background-color: #ffffff; color: #262626; padding: 0 5% 50px 5%; }
+
+.project-container .project-content .flex { display: flex; }
+
+.project-container .project-content .section-header { margin-bottom: 3em; }
+
+.project-container .project-content .section-number { font-family: "Oswald", sans-serif; font-weight: 600; font-size: 10em; color: #E9E9E9; margin-left: -0.3em; }
+
+.project-container .project-content .section-name { width: min-content; margin-top: -8em; }
+
+.project-container .project-content .section-line { height: 2px; border: 3px solid; }
+
+.project-container .project-content .sub-section-line { width: 50px; border-bottom: 5px solid; margin-bottom: 15px; }
+
+.project-container .project-content .section-center { display: flex; justify-content: center; flex-flow: column; padding: 10%; }
+
+.project-container .project-content .conflict-image { padding: 2% 5% 0 5%; }
+
+.project-container .project-content h2 { font-family: "Oswald", sans-serif; font-weight: 500; text-transform: uppercase; margin-top: -3em; }
+
+@media screen and (max-width: 40em) { .project-container .project-content h2 { font-size: 2em; } }
+
+.project-container .project-content h3 { font-family: "Oswald", sans-serif; font-weight: 500; text-transform: uppercase; }
+
+@media screen and (max-width: 40em) { .project-container .project-content .row-item { margin-bottom: 1em; } }
+
+@media screen and (max-width: 40em) { .project-container .project-content .text-item { padding-left: 0; padding-right: 0; margin-bottom: 1em; } }
+
+.project-container .project-content .caption { font-weight: 400; font-style: italic; color: #9F9F9F; padding-top: 0.5em; }
+
+.project-container .project-content .right { text-align: right; }
+
+.project-container .project-content .body-copy { margin-bottom: 2em; }
+
+.project-container .project-content .flex-column { display: flex; flex-flow: column; }
+
+.polar-bear { cursor: pointer; position: absolute; width: 150px; right: 20%; bottom: -75px; }
+
+.desc-padding-right { padding-right: 5%; }
+
+@media (max-width: 650px) { .desc-padding-right { padding-right: unset; } }
+
+.about { margin-top: 4em; }
+
+@media screen and (max-width: 40em) { .about { margin-top: 1em; } }
+
+.about a { color: inherit; }
+
+.about .yazzy-line { border-bottom: 5px solid #383838; }
+
+.about .about-title { font-family: "Oswald", sans-serif; font-weight: 600; color: #ffffff; text-transform: uppercase; font-size: 4em; line-height: 1em; }
+
+.about .about-header { padding-right: 4em; }
+
+@media screen and (max-width: 40em) { .about .about-header { padding-right: 0; } }
+
+.about .about-header p { margin-bottom: 1em; }
+
+.about .button { font-size: 1em; text-transform: uppercase; background-color: #383838; border: 3px solid #ffffff; }
+
+.about .button:hover { background-color: #ffffff; color: #262626; }
+
+.footer-buffer { color: #262626; background-color: #ffffff; padding-top: 5em; padding-bottom: 5em; margin-top: 6em; position: relative; }
+
+@media screen and (max-width: 40em) { .footer-buffer { padding-left: 2em; padding-right: 2em; margin-top: 0; } }
+
+.footer-buffer .quote { font-family: "Roboto Condensed", sans-serif; text-align: right; font-size: 1.6em; padding-right: 1em; }
+
+@media screen and (max-width: 40em) { .footer-buffer .quote { padding-right: 0; text-align: left; font-size: 2.2em; margin-bottom: 1em; } }
+
+.footer-buffer .quote p { margin-bottom: 0; line-height: 1.3em; }
+
+.footer-buffer .email { padding-left: 1em; }
+
+@media screen and (max-width: 40em) { .footer-buffer .email { padding-left: 0; font-size: 1.3em; } }
+
+.footer-buffer .email p { margin-bottom: 0; line-height: 1.3em; }
+
+.footer-buffer .email a { color: #262626; text-decoration: underline; }
+
+.footer-buffer .email a:hover { background-color: #E9E9E9; }
+
+.footer-buffer .easter-egg { position: absolute; bottom: -20px; right: 200px; width: 5em; transform: rotate(-35deg); animation-name: wave-animation; /* Refers to the name of your @keyframes element below */ animation-duration: 5.5s; /* Change to speed up or slow down */ animation-iteration-count: infinite; /* Never stop waving :) */ transform-origin: 50% 80%; /* Pivot around the bottom-left palm */ display: inline-block; animation-delay: 3s; z-index: 1; }
+
+@media screen and (max-width: 40em) { .footer-buffer .easter-egg { display: none; } }
+
+.footer-buffer-home .footer-buffer { color: #ffffff; background-color: #262626; }
+
+.footer-buffer-home .footer-buffer .email a { color: #ffffff; }
+
+.footer-buffer-home .footer-buffer .email a:hover { background-color: #383838; }
+
+footer { color: #aaa; padding-top: 2em; padding-bottom: 2em; position: relative; z-index: 2; background: inherit; }
+
+footer .signature { text-align: right; }
+
+footer .signature .rehan-logo { height: 18px; }
+
+@media screen and (max-width: 40em) { footer .signature { text-align: center; } }
+
+@media screen and (max-width: 40em) { footer .copyright { text-align: center; } }
+
+footer .logo { text-align: center; }
+
+footer .logo img { height: 2em; }
+
+footer .easter-egg { display: none; }
+
+.footer-home footer { background-color: #383838; }
+
+@keyframes wave-animation { 0% { transform: rotate(-35deg); }
+  10% { transform: rotate(-40deg); }
   /* The following four values can be played with to make the waving more or less extreme */
-  20% {
-    transform: rotate(-30deg); }
-  30% {
-    transform: rotate(-37deg); }
-  40% {
-    transform: rotate(-32deg); }
-  50% {
-    transform: rotate(-35deg); }
+  20% { transform: rotate(-30deg); }
+  30% { transform: rotate(-37deg); }
+  40% { transform: rotate(-32deg); }
+  50% { transform: rotate(-35deg); }
   /* Reset for the last half to pause */
-  100% {
-    transform: rotate(-35deg); } }
+  100% { transform: rotate(-35deg); } }
+
+/*# sourceMappingURL=yazzy.css.map */
