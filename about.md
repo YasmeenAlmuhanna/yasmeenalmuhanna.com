@@ -19,6 +19,6 @@ permalink: /about/
     </a>
   </div>
   <div class="cell small-12 medium-6">
-    <img src="/img/yasmeen.png" alt="Photo of Yasmeen">
+    <img src="/img/yasmeenwithfriends.jpg" alt="Photo of Yasmeen">
   </div>
 </div>
