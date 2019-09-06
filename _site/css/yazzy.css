@@ -157,9 +157,11 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .footer-buffer .email a:hover { background-color: #E9E9E9; }
 
-.footer-buffer .easter-egg { position: absolute; bottom: -20px; right: 200px; width: 5em; transform: rotate(-35deg); animation-name: wave-animation; /* Refers to the name of your @keyframes element below */ animation-duration: 5.5s; /* Change to speed up or slow down */ animation-iteration-count: infinite; /* Never stop waving :) */ transform-origin: 50% 80%; /* Pivot around the bottom-left palm */ display: inline-block; animation-delay: 3s; z-index: 1; }
+.footer-buffer .easter-egg-grass { position: absolute; right: 15%; width: 12em; bottom: 0px; z-index: 2; }
 
-@media screen and (max-width: 40em) { .footer-buffer .easter-egg { display: none; } }
+@media screen and (max-width: 40em) { .footer-buffer .easter-egg-grass { display: none; } }
+
+.footer-buffer .easter-egg { position: absolute; bottom: -40px; width: 3.5em; z-index: -1; right: 35%; transform: rotate(-35deg); animation-name: wave-animation; /* Refers to the name of your @keyframes element below */ animation-duration: 5.5s; /* Change to speed up or slow down */ animation-iteration-count: infinite; /* Never stop waving :) */ transform-origin: 50% 80%; /* Pivot around the bottom-left palm */ display: inline-block; animation-delay: 3s; }
 
 .footer-buffer-home .footer-buffer { color: #ffffff; background-color: #262626; }
 
