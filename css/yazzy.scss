@@ -432,11 +432,22 @@ header{
       }
     }
   }
+  .easter-egg-grass {
+    position: absolute;
+    right: 15%;
+    width: 12em;
+    bottom: 0px;
+    z-index: 2;
+    @media screen and (max-width: 40em) {
+        display: none;
+      }
+  }
   .easter-egg{
     position: absolute;
-    bottom: -20px;
-    right: 200px;
-    width: 5em;
+    bottom: -40px;
+    width: 3.5em;
+    z-index: -1;
+    right: 35%;
     transform: rotate(-35deg);
     animation-name: wave-animation;/* Refers to the name of your @keyframes element below */
     animation-duration: 5.5s;/* Change to speed up or slow down */
@@ -444,10 +455,6 @@ header{
     transform-origin: 50% 80%;/* Pivot around the bottom-left palm */
     display: inline-block;
     animation-delay: 3s;
-    z-index: 1;
-    @media screen and (max-width: 40em) {
-      display: none;
-    }
   }
 }
 .footer-buffer-home{
