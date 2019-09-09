@@ -9,12 +9,12 @@ layout: default
     <div class="tile-container">
         <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
             <div class="tile" style="background-color: #{{ project.color }}; color: #{{ project.color }}70;">
-                <span class="tile-title">{{ project.title }}</span>
+                <span class="tile-title">{{ project.category }}</span>
                 <div class="tile-image">
                     <img class="img-img" src="img/thumbnails/{{ project.thumbnail }}"
                         alt="{{ project.tile-name }} Tile Image">
                 </div>
-                <span class="tile-category">{{ project.category }}</span>
+                <span class="tile-category">{{ project.title }}</span>
             </div>
         </a>
     </div>
