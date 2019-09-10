@@ -2,7 +2,7 @@
 layout: project
 title: "Fuel</br>Nutrition"
 date: 2019-02-22
-category: Design Strategy
+category: Design + Business Consulting
 thumbnail: fuel_nutrition.svg
 color: F87A3B
 order: 1
@@ -15,7 +15,7 @@ order: 1
       Project Type
     </div>
     <div class="metadata-value cell small-6">
-      Design Strategy
+      Design + Business Consulting
     </div>
   </div>
   <div class="metadata-object cell small-8 grid-x">
