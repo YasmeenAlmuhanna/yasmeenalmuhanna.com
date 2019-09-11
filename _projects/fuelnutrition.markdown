@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Fuel</br>Nutrition"
+title: "Fuel</br>Plus Co."
 date: 2019-02-22
 category: Design + Business Consulting
 thumbnail: fuel_nutrition.svg
@@ -14,8 +14,16 @@ order: 1
     <div class="metadata-title cell small-6">
       Project Type
     </div>
-    <div class="metadata-value cell small-6">
+    <div class="metadata-value cell auto">
       Design + Business Consulting
+    </div>
+  </div>
+  <div class="metadata-object cell small-8 grid-x">
+    <div class="metadata-title cell small-6">
+      Company
+    </div>
+    <div class="metadata-value cell small-6">
+      Fuel Plus Co.
     </div>
   </div>
   <div class="metadata-object cell small-8 grid-x">
@@ -50,7 +58,7 @@ order: 1
                 <h3>The First<br/>Impression</h3>
                 <div class="sub-section-line" style="color: #F87A3B;"></div>
             </div>
-            <p>Material consistency needs to be maintained within the spaces. Visual and functional connectivity would be advantageous for product and Fuel-Bar sales.</p>
+            <p>The client and I agreed that customers' first interaction with the space will be through the reception - waiting room and fuel bar. Material consistency should to be maintained within the spaces. Visual and functional connectivity between those 3 spaces would be advantageous for product sales.</p>
         </div>
         <div class="sub-section-img"  style="width:50%">
             <img src="/img/fuelnutrition/trinity.png" alt="Areas of Interest">
@@ -66,7 +74,7 @@ order: 1
                 <h3>Barber<br/>Station</h3>
                 <div class="sub-section-line" style="color: #F87A3B;"></div>
             </div>
-            <p>Barber station aesthetic mimics utility gym shelving. Potential to be free standing element or against wall.</p>
+            <p>Barber station's look will mimic utility gym shelving. Potential to use reclaimed gym materials to build the stations. After researching dimensional requirements for salons I drafted a potential configuration. </p>
         </div>
     </div>
     <img src="/img/fuelnutrition/barber_station_elevation.svg" alt="Barber Station Elevation Line Drawing" style="width:100%;">
