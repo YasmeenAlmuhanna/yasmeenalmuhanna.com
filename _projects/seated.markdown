@@ -49,44 +49,32 @@ order: 2
 
     <img src="/img/seatedapp/3screens.svg" alt="mobile design preview" style="width:100%;">
     <div class="sub-section flex" style="margin-top: 4em">
+
+    </div>
+    <p>Given that major events in multiplexes are capable of attracting significant public interest on their own, HotSeat will be serving events that are relatively smaller in size and popularity. Businesses will have the option of limiting the number of tickets that are available on HotSeat in order to discourage customers from abusing the system by waiting till the last hour to get the tickets at a discounted price.</p>
+    <div class="sub-section" style="margin-top: 4em">
+
+    <img src="/img/seatedapp/feedexample.png" alt="mobile design preview" style="width:100%;">
+    <div class="sub-section flex" style="margin-top: 4em">
+
         <div class="sub-section-desc desc-padding-right" style="width:50%">
             <div class="sub-section-name">
-                <h3>The First<br/>Impression</h3>
+                <h3>Using<br/>Public API's</h3>
                 <div class="sub-section-line" style="color: #D43015;"></div>
             </div>
-            <p>The client and I agreed that customers' first interaction with the space will be through the reception - waiting room and fuel bar. Material consistency should to be maintained within the spaces. Visual and functional connectivity between those 3 spaces would be advantageous for product sales.</p>
+            <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
         </div>
         <div class="sub-section-img"  style="width:50%">
-            <img src="/img/fuelnutrition/trinity.png" alt="Areas of Interest">
+            <img src="/img/seatedapp/APIplaceholder.png" alt="APIs used">
         </div>
     </div>
-    <div class="sub-section flex">
-        <div class="sub-section-img"  style="width:50%">
-            <img src="/img/fuelnutrition/concept.png" alt="Concept Inspiration">
-            <p class="caption">Conceptual Inspiration</p>
-        </div>
-        <div class="sub-section-desc section-center" style="width:50%">
-            <div class="sub-section-name">
-                <h3>Barber<br/>Station</h3>
-                <div class="sub-section-line" style="color: #D43015;"></div>
-            </div>
-            <p>Barber station's look will mimic utility gym shelving. Potential to use reclaimed gym materials to build the stations. After researching dimensional requirements for salons I drafted a potential configuration. </p>
-        </div>
-    </div>
-    <img src="/img/fuelnutrition/barber_station_elevation.svg" alt="Barber Station Elevation Line Drawing" style="width:100%;">
-    <p class="caption">Barber Station Interior Elevation</p>
-    <img src="/img/fuelnutrition/barber_station_plan.svg" alt="Barber Station Plan Line Drawing" style="width:100%;">
-    <p class="caption">Barber Station Plan</p>
-    <p class="body-copy">Since the client had yet to hone in on a location, the configuration of the stations will have to come later. They can either line the middle of the space or attach to walls.</p>
-    <img src="/img/fuelnutrition/barber_station_wall.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
-    <img src="/img/fuelnutrition/barber_station_center.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
 </div>
 
 <div class="section">
     <div class="section-header">
         <span class="section-number">02</span>
         <div class="section-name">
-            <h2>Business<br/>Strategies</h2>
+            <h2>Design<br/>Process</h2>
             <div class="section-line" style="color: #D43015;"></div>
         </div>
     </div>
@@ -103,5 +91,5 @@ order: 2
             <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
         </div>
     </div>
-    <img src="/img/fuelnutrition/hero.png" alt="Final Hero Render">
+    <img src="/img/seatedapp/hero.png" alt="hero image">
 </div>
