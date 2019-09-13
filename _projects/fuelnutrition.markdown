@@ -42,11 +42,6 @@ order: 1
 </div>
 
 
-<div class="project-intro">
-  <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
-  <p>Although I was hired to put together a design concept package, this project evolved to include a set of business strategies and  action items for the client to consider in order to strengthen the Fuel Nutrition brand image.</p>
-</div>
-
 !~META
 
 <div class="section">
@@ -87,6 +82,20 @@ order: 1
     <p class="caption">Barber Station Interior Elevation</p>
     <img src="/img/fuelnutrition/barber_station_plan.svg" alt="Barber Station Plan Line Drawing" style="width:100%;">
     <p class="caption">Barber Station Plan</p>
+
+    <div class="sub-section flex" style="margin-top: 4em">
+        <div class="sub-section-desc desc-padding-right" style="width:50%">
+            <div class="sub-section-name">
+                <h3>Station<br/>Layout</h3>
+                <div class="sub-section-line" style="color: #F87A3B;"></div>
+            </div>
+            <p>Since the client wants a 'cross-fit' feel to the salon, I used the gym setting as inspiration. The floor treatment of the barber station echoes space markers in a traditional cross-fit gym. In an effort to draw on as much elements from the brand as possible, the floor treatment of the station is set at the same angle as the Fuel+ logo.</p>
+        </div>
+        <div class="sub-section-img"  style="width:50%">
+            <img src="/img/fuelnutrition/crossfitinspo.svg" alt="Areas of Interest">
+        </div>
+    </div>
+
     <p class="body-copy">Since the client had yet to hone in on a location, the configuration of the stations will have to come later. They can either line the middle of the space or attach to walls.</p>
     <img src="/img/fuelnutrition/barber_station_wall.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
     <img src="/img/fuelnutrition/barber_station_center.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
