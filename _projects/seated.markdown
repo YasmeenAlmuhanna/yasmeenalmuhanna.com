@@ -48,7 +48,6 @@ order: 2
 </div>
   <p>Seated is platform that allows all businesses to list all the unsold tickets at the last minute. Consumers, using their mobile app, will be able to see the discounted tickets available for all the events happening in the vicinity at a given time, and will be able to make purchases within the app. The incentive for the customers is the discounted price at short notice. (think Friday Forty at London's Palace Theater).</p>
   <div class="sub-section" style="margin-top: 4em">
-
   <img src="/img/seatedapp/3screens.svg" alt="mobile design preview" style="width:100%;">
   <div class="sub-section flex" style="margin-top: 4em">
 </div>
@@ -79,6 +78,11 @@ order: 2
       <h2>Design<br/>Process</h2>
       <div class="section-line" style="color: #D43015;"></div>
     </div>
+</div>
+
+<div class="sub-section" style="margin-top: 4em">
+<img src="/img/seatedapp/colortheme.svg" alt="seated color scheme" style="width:100%;">
+<div class="sub-section flex" style="margin-top: 4em">
 </div>
 
 <div class="sub-section flex" style="margin-top: 4em">
