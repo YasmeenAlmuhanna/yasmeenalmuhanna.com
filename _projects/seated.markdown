@@ -37,41 +37,38 @@ order: 2
 !~META
 
 <div class="section">
-    <div class="section-header">
-        <span class="section-number">01</span>
-        <div class="section-name">
-            <h2>Quick<br/>Overview</h2>
-            <div class="section-line" style="color: #D43015;"></div>
-        </div>
+  <div class="section-header">
+    <span class="section-number">01</span>
+    <div class="section-name">
+    <h2>Quick<br/>Overview</h2>
+    <div class="section-line" style="color: #D43015;"></div>
     </div>
+</div>
 
-    </div>
-    <p>Seated is platform that allows all businesses to list all the unsold tickets at the last minute. Consumers, using their mobile app, will be able to see the discounted tickets available for all the events happening in the vicinity at a given time, and will be able to make purchases within the app. The incentive for the customers is the discounted price at short notice. (think Friday Forty at London's Palace Theater).</p>
-    <div class="sub-section" style="margin-top: 4em">
+</div>
+  <p>Seated is platform that allows all businesses to list all the unsold tickets at the last minute. Consumers, using their mobile app, will be able to see the discounted tickets available for all the events happening in the vicinity at a given time, and will be able to make purchases within the app. The incentive for the customers is the discounted price at short notice. (think Friday Forty at London's Palace Theater).</p>
+  <div class="sub-section" style="margin-top: 4em">
 
-    <img src="/img/seatedapp/3screens.svg" alt="mobile design preview" style="width:100%;">
-    <div class="sub-section flex" style="margin-top: 4em">
+  <img src="/img/seatedapp/3screens.svg" alt="mobile design preview" style="width:100%;">
+  <div class="sub-section flex" style="margin-top: 4em">
+</div>
 
-    </div>
-    <p>Given that major events in multiplexes are capable of attracting significant public interest on their own, HotSeat will be serving events that are relatively smaller in size and popularity. Businesses will have the option of limiting the number of tickets that are available on HotSeat in order to discourage customers from abusing the system by waiting till the last hour to get the tickets at a discounted price.</p>
-    <div class="sub-section" style="margin-top: 4em">
+<p>Given that major events in multiplexes are capable of attracting significant public interest on their own, HotSeat will be serving events that are relatively smaller in size and popularity. Businesses will have the option of limiting the number of tickets that are available on HotSeat in order to discourage customers from abusing the system by waiting till the last hour to get the tickets at a discounted price.</p>
 
-    <img src="/img/seatedapp/feedexample.png" alt="mobile design preview" style="width:100%;">
-    <div class="sub-section flex" style="margin-top: 4em">
-
-    <div class="sub-section-desc desc-padding-right" style="width:50%">
-      <div class="sub-section-name">
-      <h3>Using<br/>Public API's</h3>
-      <div class="sub-section-line" style="color: #D43015;"></div>
-      </div>
-
-      <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
-      </div>
-
-      <div class="sub-section-img"  style="width:50%">
-      <img src="/img/seatedapp/apiplaceholder.png" alt="apiplaceholder">
-      </div>
-    </div>
+<div class="sub-section" style="margin-top: 4em">
+  <img src="/img/seatedapp/feedexample.png" alt="mobile design preview" style="width:100%;">
+  <div class="sub-section flex" style="margin-top: 4em">
+  <div class="sub-section-desc desc-padding-right" style="width:50%">
+  <div class="sub-section-name">
+  <h3>Using<br/>Public API's</h3>
+  <div class="sub-section-line" style="color: #D43015;"></div>
+  </div>
+  <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
+  </div>
+  <div class="sub-section-img"  style="width:50%">
+  <img src="/img/seatedapp/apiplaceholder.png" alt="apiplaceholder">
+  </div>
+  </div>
 </div>
 
 
@@ -89,12 +86,11 @@ order: 2
   <div class="sub-section-name">
   <h3>Social Media<br/>Movement</h3>
   <div class="sub-section-line" style="color: #D43015;"></div>
+  </div>
+  <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
 </div>
 
-  <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
-  </div>
-
-  <div class="sub-section-img section-center"  style="width:70%">
+<div class="sub-section-img section-center"  style="width:70%">
     <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration">
     <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
     </div>
