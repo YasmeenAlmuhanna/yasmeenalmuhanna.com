@@ -42,12 +42,17 @@ order: 2
             <div class="section-line" style="color: #D43015;"></div>
         </div>
     </div>
-    <img src="/img/fuelnutrition/material_board.png" alt="Barber Station Elevation Line Drawing" style="width:100%;">
+
+    </div>
+    <p>Seated is platform that allows all businesses to list all the unsold tickets at the last minute. Consumers, using their mobile app, will be able to see the discounted tickets available for all the events happening in the vicinity at a given time, and will be able to make purchases within the app. The incentive for the customers is the discounted price at short notice. (think Friday Forty at London's Palace Theater).</p>
+    <div class="sub-section" style="margin-top: 4em">
+
+    <img src="/img/seatedapp/3screens.svg" alt="mobile design preview" style="width:100%;">
     <div class="sub-section flex" style="margin-top: 4em">
         <div class="sub-section-desc desc-padding-right" style="width:50%">
             <div class="sub-section-name">
                 <h3>The First<br/>Impression</h3>
-                <div class="sub-section-line" style="color: #F87A3B;"></div>
+                <div class="sub-section-line" style="color: #D43015;"></div>
             </div>
             <p>The client and I agreed that customers' first interaction with the space will be through the reception - waiting room and fuel bar. Material consistency should to be maintained within the spaces. Visual and functional connectivity between those 3 spaces would be advantageous for product sales.</p>
         </div>
@@ -63,7 +68,7 @@ order: 2
         <div class="sub-section-desc section-center" style="width:50%">
             <div class="sub-section-name">
                 <h3>Barber<br/>Station</h3>
-                <div class="sub-section-line" style="color: #F87A3B;"></div>
+                <div class="sub-section-line" style="color: #D43015;"></div>
             </div>
             <p>Barber station's look will mimic utility gym shelving. Potential to use reclaimed gym materials to build the stations. After researching dimensional requirements for salons I drafted a potential configuration. </p>
         </div>
@@ -82,14 +87,14 @@ order: 2
         <span class="section-number">02</span>
         <div class="section-name">
             <h2>Business<br/>Strategies</h2>
-            <div class="section-line" style="color: #F87A3B;"></div>
+            <div class="section-line" style="color: #D43015;"></div>
         </div>
     </div>
     <div class="sub-section flex" style="margin-top: 4em">
         <div class="sub-section-desc" style="width:30%">
             <div class="sub-section-name">
                 <h3>Social Media<br/>Movement</h3>
-                <div class="sub-section-line" style="color: #F87A3B;"></div>
+                <div class="sub-section-line" style="color: #D43015;"></div>
             </div>
             <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
         </div>
