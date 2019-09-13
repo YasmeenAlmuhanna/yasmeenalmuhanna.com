@@ -13,10 +13,10 @@ order: 2
   <div class="metadata-object cell small-8 grid-x">
     <div class="metadata-title cell small-6">
       Project Type
-    </div>
-    <div class="metadata-value cell auto">
-      Brand, UX & Design
-    </div>
+      </div>
+      <div class="metadata-value cell auto">
+        Brand, UX & Design
+      </div>
   <div class="metadata-object cell small-8 grid-x">
     <div class="metadata-title cell small-6">
       Time Frame
@@ -29,7 +29,7 @@ order: 2
 
 <div class="project-intro">
   <p>When I was enrolled in Business Systems Platforms at the university of Pittsburgh we spent a week going over public API's and how one can use them.
-3 peers and myself wrote a report on API's and their use in real and hypothetical scenarios. Months after the course was over I decided to design an application that applied those concepts and here it is, a case study on my portfolio. After laying out how the app would work, I gave myself a 2 day deadline to design and layout the application.</p>
+  3 peers and myself wrote a report on API's and their use in real and hypothetical scenarios. Months after the course was over I decided to design an application that applied those concepts and here it is, a case study on my portfolio. After laying out how the app would work, I gave myself a 2 day deadline to design and layout the application.</p>
 </div>
 
 !~META

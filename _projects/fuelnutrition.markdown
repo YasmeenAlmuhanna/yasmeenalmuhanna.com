@@ -13,11 +13,11 @@ order: 1
   <div class="metadata-object cell small-8 grid-x">
     <div class="metadata-title cell small-6">
       Project Type
+      </div>
+      <div class="metadata-value cell auto">
+        Design + Business Consulting
+      </div>
     </div>
-    <div class="metadata-value cell auto">
-      Design + Business Consulting
-    </div>
-  </div>
   <div class="metadata-object cell small-8 grid-x">
     <div class="metadata-title cell small-6">
       Company
