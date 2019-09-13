@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Bishopgate</br>Goodsyard"
-date: 2019-02-20
+date: 2020-02-20
 category: Architecture
 thumbnail: bishopgate_goodsyard.svg
 color: 9A5AB9
