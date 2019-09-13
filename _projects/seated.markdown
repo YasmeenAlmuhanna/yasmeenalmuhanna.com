@@ -29,7 +29,9 @@ order: 2
 
 <div class="project-intro">
   <p>When I was enrolled in Business Systems Platforms at the university of Pittsburgh we spent a week going over public API's and how one can use them.
-  3 peers and myself wrote a report on API's and their use in real and hypothetical scenarios. Months after the course was over I decided to design an application that applied those concepts and here it is, a case study on my portfolio. After laying out how the app would work, I gave myself a 2 day deadline to design and layout the application.</p>
+  3 peers and myself wrote a report on API's and their use in real and hypothetical scenarios.</p>
+  <p>Months after the course was over I decided to design an application that applied those concepts and here it is, a case study on my portfolio.</p>
+  <p>After laying out how the app would work, I gave myself a 2 day deadline to design and layout the application.</p>
 </div>
 
 !~META
@@ -57,38 +59,44 @@ order: 2
     <img src="/img/seatedapp/feedexample.png" alt="mobile design preview" style="width:100%;">
     <div class="sub-section flex" style="margin-top: 4em">
 
-        <div class="sub-section-desc desc-padding-right" style="width:50%">
-            <div class="sub-section-name">
-                <h3>Using<br/>Public API's</h3>
-                <div class="sub-section-line" style="color: #D43015;"></div>
-            </div>
-            <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
-        </div>
-        <div class="sub-section-img"  style="width:50%">
-            <img src="/img/seatedapp/apiplaceholder.png" alt="APIs used">
-        </div>
+    <div class="sub-section-desc desc-padding-right" style="width:50%">
+      <div class="sub-section-name">
+      <h3>Using<br/>Public API's</h3>
+      <div class="sub-section-line" style="color: #D43015;"></div>
+      </div>
+
+      <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
+      </div>
+
+      <div class="sub-section-img"  style="width:50%">
+      <img src="/img/seatedapp/apiplaceholder.png" alt="apiplaceholder">
+      </div>
     </div>
 </div>
 
+
 <div class="section">
     <div class="section-header">
-        <span class="section-number">02</span>
-        <div class="section-name">
-            <h2>Design<br/>Process</h2>
-            <div class="section-line" style="color: #D43015;"></div>
-        </div>
+      <span class="section-number">02</span>
+      <div class="section-name">
+      <h2>Design<br/>Process</h2>
+      <div class="section-line" style="color: #D43015;"></div>
     </div>
-    <div class="sub-section flex" style="margin-top: 4em">
-        <div class="sub-section-desc" style="width:30%">
-            <div class="sub-section-name">
-                <h3>Social Media<br/>Movement</h3>
-                <div class="sub-section-line" style="color: #D43015;"></div>
-            </div>
-            <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
-        </div>
-        <div class="sub-section-img section-center"  style="width:70%">
-            <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration">
-            <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
-        </div>
+</div>
+
+<div class="sub-section flex" style="margin-top: 4em">
+  <div class="sub-section-desc" style="width:30%">
+  <div class="sub-section-name">
+  <h3>Social Media<br/>Movement</h3>
+  <div class="sub-section-line" style="color: #D43015;"></div>
+</div>
+
+  <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
+  </div>
+
+  <div class="sub-section-img section-center"  style="width:70%">
+    <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration">
+    <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
+    </div>
     </div>
 </div>
