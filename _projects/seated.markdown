@@ -65,7 +65,7 @@ order: 2
             <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
         </div>
         <div class="sub-section-img"  style="width:50%">
-            <img src="/img/seatedapp/APIplaceholder.png" alt="APIs used">
+            <img src="/img/seatedapp/apiplaceholder.png" alt="APIs used">
         </div>
     </div>
 </div>
@@ -91,5 +91,4 @@ order: 2
             <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
         </div>
     </div>
-    <img src="/img/seatedapp/hero.png" alt="hero image">
 </div>
