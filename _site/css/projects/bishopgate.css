@@ -1,30 +1,24 @@
-.bishop-section1 .bishop-subsection1 { display: flex; }
+.columns { display: flex; }
 
-.bishop-section1 .bishop-subsection1 .bishop-subsection1-column1 { width: 50%; }
+.columns .left-column-text { width: 50%; display: flex; flex-flow: column; justify-content: center; }
 
-.bishop-section1 .bishop-subsection1 .bishop-subsection1-column2 { width: 50%; padding-left: 5%; }
+.columns .left-column-text ._95-percent { width: 95%; }
 
-.bishop-section1 .bishop-section1-images { position: relative; }
+.columns .left-column-text ._70-percent { width: 70%; }
 
-.bishop-section1 .bishop-section1-images .bishop-dark-future-img { position: absolute; width: 45%; bottom: 50%; }
+.columns .left-column-img { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; align-items: flex-start; }
 
-.bishop-section2 .section2-header-images { position: relative; }
+.columns .right-column-text { width: 50%; display: flex; flex-flow: column; justify-content: center; padding-left: 10px; }
 
-.bishop-section2 .section2-header-images .section2-header-image2 { position: absolute; bottom: 0; left: 0; width: 40%; }
+.columns .right-column-img { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; }
 
-.bishop-section2 .bishop-section2-part1 { padding-top: 50px; display: flex; }
+.bishop-section1-images { position: relative; }
 
-.bishop-section2 .bishop-section2-part1 .bishop-section2-part1-column1 { width: 50%; display: flex; flex-flow: column; justify-content: center; }
+.bishop-section1-images .bishop-dark-future-img { position: absolute; width: 45%; bottom: 50%; }
 
-.bishop-section2 .bishop-section2-part1 .bishop-section2-part1-column1 p { width: 70%; }
+.section2-header-images { position: relative; }
 
-.bishop-section2 .bishop-section2-part1 .bishop-section2-part1-column2 { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; }
-
-.bishop-section2 .bishop-section2-part2 { display: flex; }
-
-.bishop-section2 .bishop-section2-part2 .bishop-section2-part2-column1 { display: flex; width: 50%; }
-
-.bishop-section2 .bishop-section2-part2 .bishop-section2-part2-column2 { width: 50%; display: flex; flex-flow: column; justify-content: center; padding-left: 10px; }
+.section2-header-images .section2-header-image2 { position: absolute; bottom: 0; left: 0; width: 40%; }
 
 .bishop-section3 { position: relative; }
 

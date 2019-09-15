@@ -6,22 +6,24 @@ category: Brand, UX & Design
 thumbnail: seated.svg
 color: D43015
 order: 2
+hero: "/img/seatedapp/hero.png"
 
 ---
 
 <div class="project-metadata grid-x">
-  <div class="metadata-object cell small-8 grid-x">
-    <div class="metadata-title cell small-6">
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
       Project Type
-      </div>
-      <div class="metadata-value cell auto">
-        Brand, UX & Design
-      </div>
-  <div class="metadata-object cell small-8 grid-x">
-    <div class="metadata-title cell small-6">
+    </div>
+    <div class="metadata-value cell auto">
+      Brand, UX & Design
+    </div>
+  </div>
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
       Time Frame
     </div>
-    <div class="metadata-value cell small-6">
+    <div class="metadata-value cell auto">
       2 days
     </div>
   </div>

@@ -39,6 +39,8 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .project-tiles { display: flex; flex-flow: row wrap; justify-content: space-around; }
 
+.img-img { max-height: 214px; }
+
 .tile-container { padding: 1em; text-decoration: none; width: 350px; }
 
 .tile-container a:hover { text-decoration: none; }
