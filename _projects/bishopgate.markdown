@@ -1,13 +1,13 @@
----
+<!-- ---
 layout: project
 title: "Bishopgate</br>Goodsyard"
-date: 2020-02-20
+date: 2019-02-20
 category: Architecture
 thumbnail: bishopgate_goodsyard.svg
 color: 9A5AB9
 order: 5
 
----
+--- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
