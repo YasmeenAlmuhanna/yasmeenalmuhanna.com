@@ -6,6 +6,7 @@ category: Architecture
 thumbnail: bishopgate_goodsyard.svg
 color: 9A5AB9
 order: 5
+hero: "/img/bishopgategoodsyard/hero.png"
 
 --- -->
 

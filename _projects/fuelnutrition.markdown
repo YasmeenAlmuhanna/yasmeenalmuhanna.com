@@ -6,6 +6,7 @@ category: Design + Business Consulting
 thumbnail: fuel_nutrition.svg
 color: F87A3B
 order: 1
+hero: "/img/fuelnutrition/hero.png"
 
 ---
 

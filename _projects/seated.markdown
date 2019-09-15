@@ -6,6 +6,7 @@ category: Brand, UX & Design
 thumbnail: seated.svg
 color: D43015
 order: 2
+hero: "/img/seatedapp/hero.png"
 
 ---
 

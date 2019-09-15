@@ -5,6 +5,7 @@ category: Design Competition
 thumbnail: polar_bear.svg
 color: ECD05E
 order: 4
+hero: "/img/tactileflux/hero.png"
 
 ---
 

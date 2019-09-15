@@ -5,6 +5,7 @@ category: Architecture
 thumbnail: meydan_one.svg
 color: 4790CC
 order: 3
+hero: "/img/meydanone/hero.png"
 
 ---
 
