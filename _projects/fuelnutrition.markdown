@@ -101,7 +101,7 @@ hero: "/img/fuelnutrition/hero.png"
         <p>Since the client wants a 'cross-fit' feel to the salon, I used the gym setting as inspiration. The floor treatment of the barber station echoes space markers in a traditional cross-fit gym. In an effort to draw on as much elements from the brand as possible, the floor treatment of the station is set at the same angle as the Fuel+ logo.</p>
     </div>
     <div class="right-column-img">
-        <img src="/img/fuelnutrition/crossfitinspo.svg" alt="Areas of Interest">
+        <img src="/img/fuelnutrition/crossFitInspo.svg" alt="Areas of Interest">
     </div>
 </div>
 
