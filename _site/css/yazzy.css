@@ -57,6 +57,28 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .tile-container .project-link .tile .tile-category { font-family: "Roboto", sans-serif; color: #ffffff; position: absolute; left: 1em; bottom: 1em; }
 
+.columns { display: flex; padding: 20px 0; }
+
+.columns .reg-column { width: 50%; }
+
+.columns .left-column-text { width: 50%; display: flex; flex-flow: column; justify-content: center; }
+
+.columns .left-column-text p { width: 70%; }
+
+.columns .left-column-img { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; align-items: flex-start; }
+
+.columns .right-column-text { width: 50%; display: flex; flex-flow: column; justify-content: center; padding-left: 15%; }
+
+.columns .right-column-img { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; }
+
+@media (max-width: 650px) { .columns { flex-flow: column; }
+  .columns .left-column-text { width: 100%; }
+  .columns .left-column-text p { width: 100%; }
+  .columns .left-column-img { width: 100%; }
+  .columns .right-column-text { width: 100%; padding-left: unset; }
+  .columns .right-column-img { width: 100%; }
+  .columns .reg-column { width: 100%; } }
+
 .grid-container { position: relative; }
 
 .enlarge-icon { position: absolute; width: 50px; bottom: -20px; left: -20px; cursor: pointer; }
