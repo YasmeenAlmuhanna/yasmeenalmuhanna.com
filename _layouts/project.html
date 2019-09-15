@@ -29,13 +29,13 @@ layout:
             <div class="cell small-12 medium-6 hero-img">
                 {% if page.title == 'Tactile Flux' %}
                 <div style="position: relative;">
-                    <img src="/img/{{page.title | downcase | remove: "</br>" | remove: " "}}/hero.png">
+                    <img src="{{page.hero}}">
                     <a href="/img/tactileflux/presentationBoard.pdf" target="_blank"><img id="enlarge-icon-img"
                             class="enlarge-icon" src="/img/tactileflux/enlargeIcon.svg">
                     </a>
                 </div>
                 {% else %}
-                <img src="/img/{{page.title | downcase | remove: "</br>" | remove: " "}}/hero.png">
+                <img src="{{page.hero}}">
                 {% endif %}
             </div>
         </header>

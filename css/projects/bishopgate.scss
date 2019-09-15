@@ -2,72 +2,24 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-.bishop-section1 {
-    .bishop-subsection1 {
-        display: flex;
-        .bishop-subsection1-column1 {
-            width: 50%;
-        }
-        .bishop-subsection1-column2 {
-            width: 50%;
-            padding-left: 5%;
-        }
+.bishop-section1-images {
+    position: relative;
+    .bishop-dark-future-img {
+        position: absolute;
+        width: 45%;
+        bottom: 50%;
     }
-    .bishop-section1-images {
-        position: relative;
-        .bishop-dark-future-img {
-            position: absolute;
-            width: 45%;
-            bottom: 50%;
-        }
+}
+.section2-header-images {
+    position: relative;
+    .section2-header-image2{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 40%;
     }
 }
 
-.bishop-section2 {
-    .section2-header-images {
-        position: relative;
-
-        .section2-header-image2{
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 40%;
-        }
-    }
-    .bishop-section2-part1 {
-        padding-top: 50px;
-        display: flex;
-        .bishop-section2-part1-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                width: 70%;
-            }
-        }
-        .bishop-section2-part1-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-        }
-    }
-    .bishop-section2-part2 {
-        display: flex;
-        .bishop-section2-part2-column1{
-            display: flex;
-            width: 50%;
-        }
-        .bishop-section2-part2-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            padding-left: 10px;
-        }
-    }
-}
 .bishop-section3 {
     position: relative;
     .section3-pre-image {
@@ -98,92 +50,16 @@
                 justify-content: space-around;
             }
         }
-    }
-    .bishop-section3-part2 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section3-part2-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-        }
-        .bishop-section3-part2-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            padding-left: 200px;
-        }
-    }
-    .bishop-section3-part3 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section3-part3-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                width: 70%;
-            }
-        }
-        .bishop-section3-part3-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-        }
-    }
+    } 
 }
-.bishop-section4 {
-    .bishop-section4-part1 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section4-part1-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                // width: 70%;
-            }
-        }
-        .bishop-section4-part1-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-            padding-left: 200px;
-        }
-    }
-    .bishop-section4-part2 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section4-part2-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                width: 70%;
-            }
-        }
-        .bishop-section4-part2-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-        }
-    }
-    .bishop-section4-part3 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section4-part3-column1{
-            width: 50%;
-        }
-        .bishop-section4-part3-column2{
-            width: 50%;
+
+@media (max-width: 650px) {
+    .bishop-section1-images {
+        position: relative;
+        .bishop-dark-future-img {
+            position: relative;
+            width: 100%;
+            padding-bottom: 20px;
         }
     }
 }

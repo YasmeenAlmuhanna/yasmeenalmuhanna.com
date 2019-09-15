@@ -1,13 +1,14 @@
----
+<!-- ---
 layout: project
 title: "Bishopgate</br>Goodsyard"
-date: 2020-02-20
+date: 2019-02-20
 category: Architecture
 thumbnail: bishopgate_goodsyard.svg
 color: 9A5AB9
 order: 5
+hero: "/img/bishopgategoodsyard/hero.png"
 
----
+--- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
@@ -51,66 +52,62 @@ order: 5
 
 !~META
 
-<div class="bishop-section1">
-    <div class="section-header">
-        <span class="section-number">01</span>
-        <div class="section-name">
-            <h2><br/>Context</h2>
-            <div class="section-line" style="color: #9A5AB9;"></div>
-        </div>
-    </div>
-    <div class="bishop-subsection1">
-        <div class="bishop-subsection1-column1">
-            <p>The Goodsyard is a proposed development on the site of the former Bishopsgate Goods Yard in Shoreditch, London. At the moment, the site is a derelict station that spans four city blocks and covers an area of over 300,000 sq. meters. </p>
-        </div>
-        <div class="bishop-subsection1-column2">
-            <p>The joint venture proposal from Hammerson and Ballymore Group's for the development of the Bishopgate Goodsyard was met with much opposition by the public. </p>
-            <p>A report for the mayor by Greater London Authority planners said developer Hammerson’s proposal “would result in unacceptable and significant negative impacts”, and “not appropriate” for the 4.4-hectare site, near to Liverpool Street station and Brick Lane [1].</p>
-            <p>Of the several residential blocks proposed by the developers (two of which have than 40 storeys), only 10% had been allocated towards affordable housing. Not only is this significantly below the percentage allocated in the neighboring burrows of Tower Hamlets and Hackney, but points to the larger endemic of the housing crisis in London as more and more people are getting priced out.</p>
-        </div>
-    </div>
-    <div class="bishop-section1-images">
-        <img class="bishop-dark-future-img" src="\img\bishopgategoodsyard\darkFuture.svg">
-        <img src="\img\bishopgategoodsyard\Hackney.jpg">
+<div class="section-header">
+    <span class="section-number">01</span>
+    <div class="section-name">
+        <h2><br/>Context</h2>
+        <div class="section-line" style="color: #9A5AB9;"></div>
     </div>
 </div>
+<div class="columns">
+    <div class="reg-column">
+        <p>The Goodsyard is a proposed development on the site of the former Bishopsgate Goods Yard in Shoreditch, London. At the moment, the site is a derelict station that spans four city blocks and covers an area of over 300,000 sq. meters. </p>
+    </div>
+    <div class="reg-column">
+        <p>The joint venture proposal from Hammerson and Ballymore Group's for the development of the Bishopgate Goodsyard was met with much opposition by the public. </p>
+        <p>A report for the mayor by Greater London Authority planners said developer Hammerson’s proposal “would result in unacceptable and significant negative impacts”, and “not appropriate” for the 4.4-hectare site, near to Liverpool Street station and Brick Lane [1].</p>
+        <p>Of the several residential blocks proposed by the developers (two of which have than 40 storeys), only 10% had been allocated towards affordable housing. Not only is this significantly below the percentage allocated in the neighboring burrows of Tower Hamlets and Hackney, but points to the larger endemic of the housing crisis in London as more and more people are getting priced out.</p>
+    </div>
+</div>
+<div class="bishop-section1-images">
+    <img class="bishop-dark-future-img" src="\img\bishopgategoodsyard\darkFuture.svg">
+    <img src="\img\bishopgategoodsyard\Hackney.jpg">
+</div>
 
-<div class="bishop-section2">
-    <div class="section-header">
-        <span class="section-number">02</span>
-        <div class="section-name">
-            <h2>Urban<br/>Strategy</h2>
-            <div class="section-line" style="color: #9A5AB9;"></div>
-        </div>
+<div class="section-header">
+    <span class="section-number">02</span>
+    <div class="section-name">
+        <h2>Urban<br/>Strategy</h2>
+        <div class="section-line" style="color: #9A5AB9;"></div>
     </div>
-    <div class="section2-header-images">
-        <img src="\img\bishopgategoodsyard\diagram_programAxon.svg">
-        <img class="section2-header-image2" src="\img\bishopgategoodsyard\programKey.svg">
+</div>
+<div class="section2-header-images">
+    <img src="\img\bishopgategoodsyard\diagram_programAxon.svg">
+    <img class="section2-header-image2" src="\img\bishopgategoodsyard\programKey.svg">
+</div>
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
+        </div>
+        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
     </div>
-    <div class="bishop-section2-part1">
-        <div class="bishop-section2-part1-column1">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-        </div>
-        <div class="bishop-section2-part1-column2">
-            <img src="\img\bishopgategoodsyard\diagram_circulationWithText.svg">
-            <img src="\img\bishopgategoodsyard\diagram_structureWithText.svg">
-        </div>
+    <div class="right-column-img">
+        <img src="\img\bishopgategoodsyard\diagram_circulationWithText.svg">
+        <img src="\img\bishopgategoodsyard\diagram_structureWithText.svg">
     </div>
-    <div class="bishop-section2-part2">
-        <div class="bishop-section2-part2-column1">
-            <img src="\img\bishopgategoodsyard\plan_overall.svg">
+</div>
+<div class="columns">
+    <div class="left-column-img">
+        <img src="\img\bishopgategoodsyard\plan_overall.svg">
+    </div>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <div class="bishop-section2-part2-column2">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-        </div>
+        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
     </div>
 </div>
 
@@ -137,77 +134,77 @@ order: 5
         </div>
     </div>
     <img class="section3-post-image" src="\img\bishopgategoodsyard\axonSwath_flip.svg">
-    <div class="bishop-section3-part2">
-        <div class="bishop-section3-part2-column1">
-            <img src="\img\bishopgategoodsyard\plan_zoomedSwath.svg">
-        </div>
-        <div class="bishop-section3-part2-column2">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-        </div>
+</div>
+
+<div class="columns">
+    <div class="left-column-img">
+        <img src="\img\bishopgategoodsyard\plan_zoomedSwath.svg">
     </div>
-    <img src="\img\bishopgategoodsyard\render_ArchesTop.jpg" style="padding-top: 50px">
-    <div class="bishop-section3-part3">
-        <div class="bishop-section3-part3-column1">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <div class="bishop-section3-part3-column2">
-            <img src="\img\bishopgategoodsyard\render_bottomOfArches.svg">
-            <img src="\img\bishopgategoodsyard\render_raingarden.svg" style="padding-top: 50px;">
-        </div>
+        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
     </div>
 </div>
-<div class="bishop-section4">
-    <div class="section-header">
-        <span class="section-number">04</span>
-        <div class="section-name">
-            <h2>Residential<br/>Townhouses</h2>
-            <div class="section-line" style="color: #9A5AB9;"></div>
+<img src="\img\bishopgategoodsyard\render_ArchesTop.jpg" style="padding-top: 50px">
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
+        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
     </div>
-    <div class="bishop-section4-part1">
-        <div class="bishop-section4-part1-column1">
-            <img src="\img\bishopgategoodsyard\modelPhoto1.svg">
-        </div>
-        <div class="bishop-section4-part1-column2">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-        </div>
+    <div class="right-column-img">
+        <img src="\img\bishopgategoodsyard\render_bottomOfArches.svg">
+        <img src="\img\bishopgategoodsyard\render_raingarden.svg" style="padding-top: 50px;">
     </div>
-    <div class="bishop-section4-part2">
-        <div class="bishop-section4-part2-column1">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-        </div>
-        <div class="bishop-section4-part2-column2">
-            <img src="\img\bishopgategoodsyard\modelPhoto2.svg">
-        </div>
-    </div>
-    <img src="\img\bishopgategoodsyard\render_townhouseStairs.jpg">
-    <img src="\img\bishopgategoodsyard\diagram_water.svg">
-    <div class="bishop-section4-part3">
-        <div class="bishop-section4-part3-column1">
-        </div>
-        <div class="bishop-section4-part3-column2">
-            <div class="sub-section-name">
-                <h3>Some<br/>Title</h3>
-                <div class="sub-section-line" style="color: #9A5AB9;"></div>
-            </div>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.</p>
-        </div>
-    </div>
-    <img src="\img\bishopgategoodsyard\heroSectionWithPlan.svg">
 </div>
+
+<div class="section-header">
+    <span class="section-number">04</span>
+    <div class="section-name">
+        <h2>Residential<br/>Townhouses</h2>
+        <div class="section-line" style="color: #9A5AB9;"></div>
+    </div>
+</div>
+<div class="columns">
+    <div class="left-column-img">
+        <img src="\img\bishopgategoodsyard\modelPhoto1.svg">
+    </div>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
+        </div>
+        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+    </div>
+</div>
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
+        </div>
+        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+    </div>
+    <div class="right-column-img">
+        <img src="\img\bishopgategoodsyard\modelPhoto2.svg">
+    </div>
+</div>
+<img src="\img\bishopgategoodsyard\render_townhouseStairs.jpg">
+<img src="\img\bishopgategoodsyard\diagram_water.svg">
+<div class="columns">
+    <div class="left-column-img">
+    </div>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>Some<br/>Title</h3>
+            <div class="sub-section-line" style="color: #9A5AB9;"></div>
+        </div>
+        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.</p>
+    </div>
+</div>
+<img src="\img\bishopgategoodsyard\heroSectionWithPlan.svg">
