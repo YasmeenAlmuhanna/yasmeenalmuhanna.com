@@ -192,6 +192,26 @@ header{
 //******* End of Home Styling
 
 //******* Project Page Styling
+
+.proj-quote {
+    max-width: max-content;
+    font-family: "Oswald", sans-serif;
+    padding-top: 30px;
+    .quote-body {
+        text-transform: uppercase;
+        font-size: 1.5em;
+    }
+    .quote-source {
+        text-align: right;
+    }
+}
+.red {
+    color: red;
+}
+.center-bucket {
+    display: flex;
+    justify-content: center;
+}
 .columns {
     display: flex;
     padding: 20px 0;

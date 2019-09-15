@@ -1,0 +1,106 @@
+I"9<div class="project-metadata grid-x">
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Project Type
+    </div>
+    <div class="metadata-value cell auto">
+      Brand, UX &amp; Design
+    </div>
+  </div>
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Time Frame
+    </div>
+    <div class="metadata-value cell auto">
+      2 days
+    </div>
+  </div>
+</div>
+
+<div class="project-intro">
+  <p>When I was enrolled in Business Systems Platforms at the university of Pittsburgh we spent a week going over public API's and how one can use them.
+  3 peers and myself wrote a report on API's and their use in real and hypothetical scenarios.</p>
+  <p>Months after the course was over I decided to design an application that applied those concepts and here it is, a case study on my portfolio.</p>
+  <p>After laying out how the app would work, I gave myself a 2 day deadline to design and layout the application.</p>
+</div>
+
+<p>!~META</p>
+
+<div class="section-header">
+    <span class="section-number">01</span>
+    <div class="section-name">
+        <h2>Quick<br />Overview</h2>
+        <div class="section-line" style="color: #D43015;">
+    </div>
+</div>
+
+<div class="proj-quote">
+    <p><span class="red">40%</span> of concert tickets &amp; <span class="red">30%</span> of sporting event tickets routinely go unsold.</p>
+    <p>- Wall Street Journal</p>
+</div>
+
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>What is<br />Seated</h3>
+            <div class="sub-section-line" style="color: #D43015;"></div>
+        </div>
+        <p>Seated is platform that allows all businesses to list all the unsold tickets at the last minute. Consumers, using their mobile app, will be able to see the discounted tickets available for all the events happening in the vicinity at a given time, and will be able to make purchases within the app. The incentive for the customers is the discounted price at short notice. (think Friday Forty at London's Palace Theater).</p>
+    </div>
+    <div class="right-column-img">
+        <img src="/img/seatedapp/loginpage.svg" alt="Ticketmatic" />
+    </div>
+</div>
+
+<img src="/img/seatedapp/3screens.svg" alt="mobile design preview" style="width:100%;" />
+
+<p>Given that major events in multiplexes are capable of attracting significant public interest on their own, HotSeat will be serving events that are relatively smaller in size and popularity. Businesses will have the option of limiting the number of tickets that are available on HotSeat in order to discourage customers from abusing the system by waiting till the last hour to get the tickets at a discounted price.</p>
+
+<div class="sub-section" style="margin-top: 4em">
+  <img src="/img/seatedapp/feedexample.png" alt="mobile design preview" style="width:100%;" />
+  <div class="sub-section flex" style="margin-top: 4em">
+  <div class="sub-section-desc desc-padding-right" style="width:50%">
+  <div class="sub-section-name">
+  <h3>Using<br />Public API's</h3>
+  <div class="sub-section-line" style="color: #D43015;"></div>
+  </div>
+  <p>‘HotSeat’ would utilize public APIs, public data, and proprietary data from the enterprises and users to run the application. The following API’s will be used to execute the HotSeat application.</p>
+  </div>
+  <div class="sub-section-img" style="width:50%">
+  <img src="/img/seatedapp/apiplaceholder.png" alt="apiplaceholder" />
+  </div>
+  </div>
+</div>
+
+
+<div class="section">
+    <div class="section-header">
+      <span class="section-number">02</span>
+      <div class="section-name">
+      <h2>Design<br />Process</h2>
+      <div class="section-line" style="color: #D43015; background: #D43015;"></div>
+    </div>
+</div>
+
+<div class="sub-section" style="margin-top: 4em">
+<img src="/img/seatedapp/colortheme.svg" alt="seated color scheme" style="width:100%;" />
+<div class="sub-section flex" style="margin-top: 4em">
+</div>
+
+<div class="sub-section flex" style="margin-top: 4em">
+  <div class="sub-section-desc" style="width:30%">
+  <div class="sub-section-name">
+  <h3>Social Media<br />Movement</h3>
+  <div class="sub-section-line" style="color: #D43015;"></div>
+  </div>
+  <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
+</div>
+
+<div class="sub-section-img section-center" style="width:70%">
+    <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration" />
+    <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
+    </div>
+    </div>
+</div>
+</div></div>
+:ET
