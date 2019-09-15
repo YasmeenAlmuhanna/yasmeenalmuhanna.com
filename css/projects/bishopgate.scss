@@ -2,41 +2,6 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-.columns {
-    display: flex;
-    .left-column-text {
-        width: 50%;       
-        display: flex;
-        flex-flow: column;
-        justify-content: center;
-        ._95-percent {
-            width: 95%;
-        }
-        ._70-percent {
-            width: 70%;
-        }
-    }
-    .left-column-img {
-        width: 50%;
-        display: flex;
-        flex-flow: column;
-        justify-content: space-evenly;
-        align-items: flex-start;
-    }
-    .right-column-text {
-        width: 50%;
-        display: flex;
-        flex-flow: column;
-        justify-content: center;
-        padding-left: 10px;
-    }
-    .right-column-img{
-        width: 50%;
-        display: flex;
-        flex-flow: column;
-        justify-content: space-evenly;
-    }
-}
 .bishop-section1-images {
     position: relative;
     .bishop-dark-future-img {
@@ -54,8 +19,6 @@
         width: 40%;
     }
 }
-
-
 
 .bishop-section3 {
     position: relative;
@@ -87,92 +50,16 @@
                 justify-content: space-around;
             }
         }
-    }
-    .bishop-section3-part2 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section3-part2-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-        }
-        .bishop-section3-part2-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            padding-left: 200px;
-        }
-    }
-    .bishop-section3-part3 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section3-part3-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                width: 70%;
-            }
-        }
-        .bishop-section3-part3-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-        }
-    }
+    } 
 }
-.bishop-section4 {
-    .bishop-section4-part1 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section4-part1-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                // width: 70%;
-            }
-        }
-        .bishop-section4-part1-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-            padding-left: 200px;
-        }
-    }
-    .bishop-section4-part2 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section4-part2-column1{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: center;
-            p {
-                width: 70%;
-            }
-        }
-        .bishop-section4-part2-column2{
-            width: 50%;
-            display: flex;
-            flex-flow: column;
-            justify-content: space-evenly;
-        }
-    }
-    .bishop-section4-part3 {
-        display: flex;
-        padding-top: 50px;
-        .bishop-section4-part3-column1{
-            width: 50%;
-        }
-        .bishop-section4-part3-column2{
-            width: 50%;
+
+@media (max-width: 650px) {
+    .bishop-section1-images {
+        position: relative;
+        .bishop-dark-future-img {
+            position: relative;
+            width: 100%;
+            padding-bottom: 20px;
         }
     }
 }
