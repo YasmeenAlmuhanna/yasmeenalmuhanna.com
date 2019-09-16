@@ -38,21 +38,12 @@ hero: "/img/seatedapp/hero.png"
 
 !~META
 
-<<<<<<< HEAD
 <div class="section">
     <div class="section-header">
       <span class="section-number">02</span>
       <div class="section-name">
       <h2>Quick<br/>Overview</h2>
       <div class="section-line" style="color: #D43015; background: #D43015;"></div>
-=======
-
-<div class="section-header">
-    <span class="section-number">01</span>
-    <div class="section-name">
-        <h2>Quick<br/>Overview</h2>
-        <div class="section-line" style="color: #D43015;">
->>>>>>> 079c20c002a4999234088077ae47c2ab65f055fd
     </div>
 </div>
 
