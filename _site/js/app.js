@@ -7,3 +7,10 @@ $('#enlarge-icon-img').hover(
         $('#enlarge-icon-img').attr('src', '/img/tactileflux/enlargeIcon.svg');
     }
 );
+
+$('.api-img').hover(function () {
+    $(this).addClass('transition');
+
+}, function () {
+    $(this).removeClass('transition');
+});

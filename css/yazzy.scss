@@ -192,6 +192,26 @@ header{
 //******* End of Home Styling
 
 //******* Project Page Styling
+
+.proj-quote {
+    max-width: max-content;
+    font-family: "Oswald", sans-serif;
+    padding-top: 30px;
+    .quote-body {
+        text-transform: uppercase;
+        font-size: 1.5em;
+    }
+    .quote-source {
+        text-align: right;
+    }
+}
+.red {
+    color: red;
+}
+.center-bucket {
+    display: flex;
+    justify-content: center;
+}
 .columns {
     display: flex;
     padding: 20px 0;
@@ -300,6 +320,7 @@ header{
     background-color: $pure-white;
     color: $yazzy-black;
     padding: 0 5% 50px 5%;
+    position: relative;
     @media screen and (max-width: 40em) {
     //   padding-top: 1em;
     //   padding-bottom: 1em;
@@ -397,9 +418,18 @@ header{
 .desc-padding-right {
     padding-right: 5%;
 }
+.card {
+    border-radius: 20px;
+}
+.card-pad-left {
+    margin-left: 15px;
+}
 @media (max-width: 650px) {
     .desc-padding-right {
         padding-right: unset;
+    }
+    .card-pad-left {
+        margin-left: unset;
     }
 }
 //******* End of Project Page Styling
