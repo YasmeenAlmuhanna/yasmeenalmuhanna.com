@@ -1,0 +1,88 @@
+I"o<div class="project-metadata grid-x">
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Project Type
+    </div>
+    <div class="metadata-value cell auto">
+      Architectural Design + Drawing
+    </div>
+  </div>
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Plot Size
+    </div>
+    <div class="metadata-value cell auto">
+      343.7 hectares | 849 acres
+    </div>
+  </div>
+  <div class="metadata-object cell grid-x">
+    <div class="metadata-title cell small-4">
+      Gross Floor Area
+    </div>
+    <div class="metadata-value cell auto">
+      5,500,000 m2 | 59,201,507 ft2
+    </div>
+  </div>
+</div>
+
+<div class="project-intro">
+  <p>During my time at Ae7, I was primarily a member of the 'Shell team' that oversaw all the exterior and interior façade elements of the project. I worked on a myriad of areas both in the Shell team and others.</p>
+  <p>Although the work I did ranged from design, construction drawings, presentations, 3d modeling, and everything in between. I decided to present two tasks that I believe demonstrate the type of value I can bring to an organization.</p>
+</div>
+
+<p>!~META</p>
+
+<div class="section-header">
+    <span class="section-number">01</span>
+    <div class="section-name">
+        <h2>How it<br />works</h2>
+        <div class="section-line" style="color: #EBA08F;"></div>
+    </div>
+</div>
+
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name" style="width:200px">
+            <h3>COOKIE<br />CARICATURE</h3>
+            <div class="sub-section-line" style="color: #EBA08F;"></div>
+        </div>
+        <p>Our first step was to understand the angles that the Envista Taperdeck™️ allowed between panels. From that understanding, we developed a connection detail to hold each panel in place. </p>
+    </div>
+    <div class="right-column-img">
+        <img src="/img/meydanone/bernie1.jpg" alt="bernie 1" />
+    </div>
+</div>
+
+<div class="section">
+    <div class="section-header">
+        <span class="section-number">01</span>
+        <div class="section-name">
+            <h2>How it<br />works</h2>
+            <div class="section-line" style="color: #EBA08F;"></div>
+        </div>
+    </div>
+    <div class="sub-section flex">
+        <div class="sub-section-desc" style="width:40%">
+            <div class="sub-section-name" style="width:200px">
+                <h3>CONNECTING<br />THIS TO THAT</h3>
+                <div class="sub-section-line" style="color: #EBA08F;"></div>
+            </div>
+            <p>The section to the right showcases a sample section that I was tasked to figure out the connection details for.</p>
+            <p>The challenging part about this task was that I am not trained in structural details of construction. I looked at many construction details from past built projects and stitched together first draft solution.</p>
+        </div>
+        <div class="sub-section-img" style="width:60%">
+            <img src="/img/meydanone/bare section 1.png" alt="bare section" />
+        </div>
+    </div>
+    <div class="sub-section flex">
+        <div class="sub-section-desc" style="width:40%">
+            <p>Having done the structural coordination request package earlier allowed me to get acquainted with some of the structural members in the Dubai office. This enabled me to directly email some members my detail proposal and get feedback from them by the following morning.</p>
+            <p>Additionally, I had to communicate with various in-house teams of the project in order to understand how one component fit with another.</p>
+        </div>  
+        <div class="sub-section-img" style="width:60%">
+            <img src="/img/meydanone/finished section 1.png" alt="finished section" />
+        </div>
+    </div>
+    <img src="/img/meydanone/before+after.png" alt="before+after sections" style="width:100%;" />
+</div>
+:ET

@@ -109,7 +109,7 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .project-container .project-header .project-intro { font-family: "Roboto", sans-serif; }
 
-.project-container .project-content { background-color: #ffffff; color: #262626; padding: 0 5% 50px 5%; }
+.project-container .project-content { background-color: #ffffff; color: #262626; padding: 0 5% 50px 5%; position: relative; }
 
 .project-container .project-content .flex { display: flex; }
 
@@ -148,6 +148,8 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 .polar-bear { cursor: pointer; position: absolute; width: 150px; right: 20%; bottom: -75px; }
 
 .desc-padding-right { padding-right: 5%; }
+
+.card { border-radius: 20px; margin: 10px; }
 
 @media (max-width: 650px) { .desc-padding-right { padding-right: unset; } }
 

@@ -320,6 +320,7 @@ header{
     background-color: $pure-white;
     color: $yazzy-black;
     padding: 0 5% 50px 5%;
+    position: relative;
     @media screen and (max-width: 40em) {
     //   padding-top: 1em;
     //   padding-bottom: 1em;
@@ -416,6 +417,10 @@ header{
 }
 .desc-padding-right {
     padding-right: 5%;
+}
+.card {
+    border-radius: 20px;
+    margin: 10px;
 }
 @media (max-width: 650px) {
     .desc-padding-right {

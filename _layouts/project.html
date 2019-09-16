@@ -41,6 +41,11 @@ layout:
         </header>
 
         <div class="project-content" itemprop="articleBody">
+            {% if page.title == 'Cookie</br>Caricature' %}
+            <div style="position: absolute; top: 0; right: 0;">
+                <img src="/img/cookiecaricatures/crumbs.png" alt="crumbs">
+            </div>
+            {% endif %}
             <div class="grid-container">
                 {{ blocks[1] }}
             </div>
