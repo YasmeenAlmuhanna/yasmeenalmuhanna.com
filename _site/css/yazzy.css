@@ -153,7 +153,8 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .card-pad-left { margin-left: 15px; }
 
-@media (max-width: 650px) { .desc-padding-right { padding-right: unset; } }
+@media (max-width: 650px) { .desc-padding-right { padding-right: unset; }
+  .card-pad-left { margin-left: unset; } }
 
 .about { margin-top: 4em; }
 
