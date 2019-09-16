@@ -1,15 +1,4 @@
----
-layout: project
-title: "Cookie</br>Caricature"
-category: 3D Modeling + Printing
-thumbnail: cookie_caricature.svg
-color: EBA08F
-order: 6
-hero: "/img/cookiecaricatures/hero.png"
-
----
-
-<div class="project-metadata grid-x">
+I"�<div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
     <div class="metadata-title cell small-4">
       Project Type
@@ -41,12 +30,12 @@ hero: "/img/cookiecaricatures/hero.png"
   <p>Although the work I did ranged from design, construction drawings, presentations, 3d modeling, and everything in between. I decided to present two tasks that I believe demonstrate the type of value I can bring to an organization.</p>
 </div>
 
-!~META
+<p>!~META</p>
 
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>How it<br/>works</h2>
+        <h2>How it<br />works</h2>
         <div class="section-line" style="color: #EBA08F;"></div>
     </div>
 </div>
@@ -54,21 +43,22 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name" style="width:200px">
-            <h3>COOKIE<br/>CARICATURE</h3>
+            <h3>COOKIE<br />CARICATURE</h3>
             <div class="sub-section-line" style="color: #EBA08F;"></div>
         </div>
         <p>Our first step was to understand the angles that the Envista Taperdeck™️ allowed between panels. From that understanding, we developed a connection detail to hold each panel in place. </p>
     </div>
     <div class="right-column-img card">
-        <img src="/img/cookiecaricatures/bernie1.jpg" alt="bernie 1">
+        <img src="/img/cookiecaricatures/bernie1.jpg" alt="bernie 1" />
     </div>
 </div>
 
 <div class="columns">
     <div class="left-column-img card">
-        <img src="/img/cookiecaricatures/bernie2.png" alt="bernie 2">
+        <img src="/img/cookiecaricatures/bernie2.png" alt="bernie 2" />
     </div>
     <div class="right-column-img card">
-        <img src="/img/cookiecaricatures/bernie3.png" alt="bernie 3">
+        <img src="/img/cookiecaricatures/bernie3.png" alt="bernie 3" />
     </div>
 </div>
+:ET
