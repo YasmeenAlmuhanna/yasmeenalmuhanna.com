@@ -420,7 +420,9 @@ header{
 }
 .card {
     border-radius: 20px;
-    margin: 10px;
+}
+.card-pad-left {
+    margin-left: 15px;
 }
 @media (max-width: 650px) {
     .desc-padding-right {
