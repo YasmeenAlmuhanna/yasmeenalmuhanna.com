@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Fuel</br>Plus Co."
+title: "Fuel</br>Nutrition Group"
 date: 2019-02-22
 category: Design + Business Consulting
 thumbnail: fuel_nutrition.svg
@@ -24,7 +24,7 @@ hero: "/img/fuelnutrition/hero.png"
       Company
     </div>
     <div class="metadata-value cell auto">
-      Fuel Plus Co.
+      Fuel Nutrition Group
     </div>
   </div>
   <div class="metadata-object cell grid-x">
@@ -39,7 +39,7 @@ hero: "/img/fuelnutrition/hero.png"
 
 <div class="project-intro">
   <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
-  <p>Although I was hired to put together a design concept package, this project evolved to include a set of business strategies and action items for the client to consider in order to strengthen the Fuel Nutrition brand image.</p>
+  <p>Although I was hired to put together an interior design concept for the salon, this project evolved to include a set of business strategies and action items for the client to consider in order to strengthen the brand's image and increase business.</p>
 </div>
 
 
@@ -49,7 +49,7 @@ hero: "/img/fuelnutrition/hero.png"
     <span class="section-number">01</span>
     <div class="section-name">
         <h2>Design<br/>Recommendations</h2>
-        <div class="section-line" style="color: #F87A3B;"></div>
+        <div class="section-line" style="color: #F87A3B; background: #F87A3B;"></div>
     </div>
 </div>
 
@@ -130,7 +130,7 @@ hero: "/img/fuelnutrition/hero.png"
     <span class="section-number">02</span>
     <div class="section-name">
         <h2>Business<br/>Strategies</h2>
-        <div class="section-line" style="color: #F87A3B;"></div>
+        <div class="section-line" style="color: #F87A3B; background: #F87A3B;"></div>
     </div>
 </div>
 
