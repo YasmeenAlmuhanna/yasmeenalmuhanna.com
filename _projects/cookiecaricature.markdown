@@ -47,7 +47,7 @@ hero: "/img/cookiecaricatures/hero.png"
     <span class="section-number">01</span>
     <div class="section-name">
         <h2>How it<br/>works</h2>
-        <div class="section-line" style="color: #EBA08F;"></div>
+        <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
 
@@ -103,5 +103,24 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
     <div class="right-column-img card card-pad-left">
         <img src="/img/cookiecaricatures/bernie3.png" alt="bernie 3">
+    </div>
+</div>
+
+<div class="section-header">
+    <span class="section-number">01</span>
+    <div class="section-name">
+        <h2>Process</h2>
+        <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
+    </div>
+</div>
+
+<img src="/img/cookiecaricatures/rhinoprocess.png" alt="Rhino Process" style="width:100%;">
+
+<div class="columns">
+    <div class="left-column-img">
+        <img src="/img/fuelnutrition/logoAngles.svg" style="padding-bottom: 20px">
+    </div>
+    <div class="right-column-img">
+        <img src="/img/fuelnutrition/stationplanfullopacity.svg">
     </div>
 </div>
