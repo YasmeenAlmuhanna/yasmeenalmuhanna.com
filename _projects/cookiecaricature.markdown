@@ -68,6 +68,22 @@ hero: "/img/cookiecaricatures/hero.png"
 <img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:100%;">
 
 <div class="columns">
+  <div class="left-column-img">
+      <div>
+          <img src="/img/cookiecaricatures/hilaryaxon.svg" alt="Hilary Axon">
+        </div>
+    </div>
+  <div class="right-column-text">
+      <div class="sub-section-name">
+          <h3>Barber<br/>Station</h3>
+          <div class="sub-section-line" style="color: #F87A3B;"></div>
+      </div>
+      <p>The 3d model of the cutter is divided into 3 components: the outline, interior strokes, and structural bracing to hold the curves in place.
+      </p>
+  </div>
+</div>
+
+<div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name" style="width:200px">
             <h3>COOKIE<br/>CARICATURE</h3>
