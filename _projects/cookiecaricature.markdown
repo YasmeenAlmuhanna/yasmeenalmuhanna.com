@@ -70,7 +70,7 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="columns">
   <div class="left-column-img">
       <div>
-      <img src="/img/cookiecaricatures/hilaryaxon.svg" alt="Hilary Axon">
+      <img src="/img/cookiecaricatures/ClintonCutter.png" alt="Hilary Axon">
       </div>
 </div>
 
