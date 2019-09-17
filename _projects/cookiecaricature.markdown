@@ -52,6 +52,20 @@ hero: "/img/cookiecaricatures/hero.png"
 </div>
 
 <div class="columns">
+  <div class="left-column-text">
+      <div class="sub-section-name" style="width:200px">
+          <h3>Political<br/>Party</h3>
+          <div class="sub-section-line" style="color: #EBA08F;"></div>
+      </div>
+      <p>I selected photos of the top presidential candidates of 2016 and traced an outline of their face using Rhino. Results are shown below.
+      </p>
+  </div>
+    <div class="right-column-img card card-pad-left">
+        <img src="/img/cookiecaricatures/thepoliticians.jpg" alt="politicians">
+    </div>
+</div>
+
+<div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name" style="width:200px">
             <h3>COOKIE<br/>CARICATURE</h3>
