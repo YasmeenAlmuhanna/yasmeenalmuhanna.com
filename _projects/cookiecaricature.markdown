@@ -70,16 +70,17 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="columns">
   <div class="left-column-img">
       <div>
-          <img src="/img/cookiecaricatures/hilaryaxon.svg" alt="Hilary Axon">
-        </div>
-    </div>
-  <div class="right-column-text">
-      <div class="sub-section-name">
-          <h3>Barber<br/>Station</h3>
-          <div class="sub-section-line" style="color: #F87A3B;"></div>
+      <img src="/img/cookiecaricatures/hilaryaxon.svg" alt="Hilary Axon">
       </div>
-      <p>The 3d model of the cutter is divided into 3 components: the outline, interior strokes, and structural bracing to hold the curves in place.
-      </p>
+</div>
+
+<div class="right-column-text">
+    <div class="sub-section-name">
+        <h3>Cutter<br/>Components</h3>
+        <div class="sub-section-line" style="color: #EBA08F;"></div>
+    </div>
+    <p>The 3d model of the cutter is divided into 3 components: the outline, interior strokes, and structural bracing to hold the curves in place.
+    </p>
   </div>
 </div>
 
