@@ -65,6 +65,8 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
 </div>
 
+<img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:100%;">
+
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name" style="width:200px">
