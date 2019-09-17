@@ -65,7 +65,7 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
 </div>
 
-<img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:100%;">
+<img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:75%;">
 
 <div class="columns">
   <div class="left-column-img">
@@ -109,7 +109,7 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="section-header">
     <span class="section-number">02</span>
     <div class="section-name">
-        <h2>Process<br/>Pictures</h2>
+        <h2>Process</h2>
         <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
@@ -119,9 +119,9 @@ hero: "/img/cookiecaricatures/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/cookiecaricatures/cutter1.jpg" style="padding-bottom: 20px">
+        <img src="/img/cookiecaricatures/printedhilary.jpg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/cookiecaricatures/cutter2.jpg">
+        <img src="/img/cookiecaricatures/printedbernie.jpg">
     </div>
 </div>

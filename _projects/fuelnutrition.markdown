@@ -32,7 +32,7 @@ hero: "/img/fuelnutrition/hero.png"
       Time Frame
     </div>
     <div class="metadata-value cell auto">
-      1 month
+      2 months
     </div>
   </div>
 </div>
