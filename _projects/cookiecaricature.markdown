@@ -57,7 +57,7 @@ hero: "/img/cookiecaricatures/hero.png"
           <h3>Political<br/>Party</h3>
           <div class="sub-section-line" style="color: #EBA08F;"></div>
       </div>
-      <p>I selected photos of the top presidential candidates of 2016 and traced an outline of their face using Rhino. Results are shown below.
+      <p>I selected photos of the top presidential candidates of 2016 and traced an outline of their face using Rhino 3d modeling software. Results are shown below.
       </p>
   </div>
     <div class="right-column-img card card-pad-left">
@@ -107,20 +107,21 @@ hero: "/img/cookiecaricatures/hero.png"
 </div>
 
 <div class="section-header">
-    <span class="section-number">01</span>
+    <span class="section-number">02</span>
     <div class="section-name">
-        <h2>Process</h2>
+        <h2>Process<br/>Pictures</h2>
         <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
+
 
 <img src="/img/cookiecaricatures/rhinoprocess.png" alt="Rhino Process" style="width:100%;">
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/fuelnutrition/logoAngles.svg" style="padding-bottom: 20px">
+        <img src="/img/cookiecaricatures/cutter1.jpg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/fuelnutrition/stationplanfullopacity.svg">
+        <img src="/img/cookiecaricatures/cutter2.jpg">
     </div>
 </div>
