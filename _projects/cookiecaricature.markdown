@@ -109,7 +109,7 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>How it<br/>works</h2>
+        <h2>process</h2>
         <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
