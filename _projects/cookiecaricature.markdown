@@ -119,9 +119,9 @@ hero: "/img/cookiecaricatures/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/fuelnutrition/logoAngles.svg" style="padding-bottom: 20px">
+        <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/fuelnutrition/stationplanfullopacity.svg">
+        <img src="/img/cookiecaricatures/printedbernie.svg">
     </div>
 </div>
