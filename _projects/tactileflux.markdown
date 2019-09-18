@@ -109,10 +109,10 @@ hero: "/img/tactileflux/hero.png"
     </div>
     <div class="right-column-text">
         <div class="sub-section-name">
-            <h3>Barber<br/>Station</h3>
+            <h3>The<br/>Plinth</h3>
             <div class="sub-section-line" style="color: #ECD05E;"></div>
         </div>
-        <p>Barber station aesthetic mimics utility gym shelving. Potential to be free standing element or against wall.</p>
+        <p>A bench element acts as a plinth to the changing hut; anchoring it down to the site.</p>
     </div>
 </div>
 
