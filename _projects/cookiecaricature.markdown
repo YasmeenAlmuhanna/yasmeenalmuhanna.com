@@ -122,6 +122,6 @@ hero: "/img/cookiecaricatures/hero.png"
         <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/cookiecaricatures/printedbernie.svg">
+        <img src="/img/cookiecaricatures/printedbernie.svg" style="padding-bottom: 20px">
     </div>
 </div>
