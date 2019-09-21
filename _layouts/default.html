@@ -1,36 +1,34 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
     <div class="grid-container">
-      {% include header.html %}
+        {% include header.html %}
     </div>
 
     <div class="grid-container">
-      {{ content }}
+        {{ content }}
     </div>
-
     {% if page.url == '/' %}
-      <div class="footer-buffer-home">
+    <div class="footer-buffer-home">
         {% include footer-buffer.html %}
-      </div>
+    </div>
     {% else %}
-      {% include footer-buffer.html %}
+    {% include footer-buffer.html %}
     {% endif %}
-
 
     {% if page.url == '/' %}
-      <div class="footer-home">
+    <div class="footer-home">
         {% include footer.html %}
-      </div>
+    </div>
     {% else %}
-      {% include footer.html %}
+    {% include footer.html %}
     {% endif %}
 
 
-  </body>
+</body>
 
 </html>

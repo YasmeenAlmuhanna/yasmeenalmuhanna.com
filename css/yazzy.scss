@@ -54,9 +54,12 @@ h4 {
 
 
 //******* Header Styling
-header{
-  padding-top: 2em;
+.top-site-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   font-family: $oswald;
+  height: 6em;
   .logo{
     height: 4.5em;
   }
@@ -192,7 +195,19 @@ header{
 //******* End of Home Styling
 
 //******* Project Page Styling
-
+.mywebsite-title-container {
+    width: fit-content;
+    padding: 2em 0;
+    .mywebsite-title {
+        
+        font-family: $oswald;
+        font-weight: $oswald-semibold;
+        color: black;
+        text-transform: uppercase;
+        font-size: 4em;
+        line-height: 1em;
+    }
+}
 .proj-quote {
     max-width: max-content;
     font-family: "Oswald", sans-serif;
@@ -246,6 +261,17 @@ header{
         display: flex;
         flex-flow: column;
         justify-content: space-evenly;
+    }
+    .img-padding {
+        padding: 10px 25px;
+    }
+}
+.two-images-row {
+    display: flex;
+    flex-flow: row nowrap;
+    img {
+        width: 50%;
+        padding: 10px;
     }
 }
 @media (max-width: 650px) {
@@ -392,6 +418,14 @@ header{
     .caption{
       font-weight: $roboto-regular;
       font-style: italic;
+      color: $yazzy-light-grey;
+      padding-top: 0.5em;
+    }
+    .text-right {
+        text-align: right;
+    }
+    .date-caption{
+      font-weight: $roboto-regular;
       color: $yazzy-light-grey;
       padding-top: 0.5em;
     }

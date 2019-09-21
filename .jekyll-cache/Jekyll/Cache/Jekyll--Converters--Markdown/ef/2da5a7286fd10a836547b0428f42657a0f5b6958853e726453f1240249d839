@@ -1,0 +1,11 @@
+I"ê<article class="project-container" itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="project-content" itemprop="articleBody">
+        <div class="grid-container">
+            <div class="project-header">
+            <h1 class="project-title">MY WEBSITE</h1>
+            <div style="border-bottom: 5px solid #9F9F9F"></div>
+            </div>
+        </div>
+    </div>
+</article>
+:ET
