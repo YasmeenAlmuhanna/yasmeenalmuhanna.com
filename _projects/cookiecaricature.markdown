@@ -37,7 +37,7 @@ hero: "/img/cookiecaricatures/hero.png"
 </div>
 
 <div class="project-intro">
-  <p>This was a fun little project I did during the 2016 primaries. I drew the faces from photos and used a 3d printer to print the cookie cutters. These turned out to be such a success that I received requests to create customized cutters for christmas presents!
+  <p>This was a fun little project I did before the 2015 primary debates. I drew the faces from photos and used a 3d printer to print the cookie cutters. These turned out to be such a success that I received requests to create customized cutters for Christmas presents!
 </p>
 </div>
 
@@ -109,7 +109,7 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>process</h2>
+        <h2>Process<br/>Snapshots</h2>
         <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
