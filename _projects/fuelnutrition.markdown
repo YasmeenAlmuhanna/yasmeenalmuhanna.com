@@ -24,7 +24,7 @@ hero: "/img/fuelnutrition/hero.png"
       Company
     </div>
     <div class="metadata-value cell auto">
-      Fuel Nutrition Group
+      <a href="http://fuelplusco.com/" target="_blank">Fuel Nutrition Group</a>
     </div>
   </div>
   <div class="metadata-object cell grid-x">
@@ -36,6 +36,7 @@ hero: "/img/fuelnutrition/hero.png"
     </div>
   </div>
 </div>
+
 
 <div class="project-intro">
   <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
