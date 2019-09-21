@@ -85,7 +85,7 @@ h1, h2, h3, h4 { font-family: "Roboto", sans-serif; color: #262626; }
 
 .columns .right-column-img { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; }
 
-.columns .img-padding { padding: 10px 25px; }
+.columns .img-padding { padding: 10px 35px; }
 
 .two-images-row { display: flex; flex-flow: row nowrap; }
 

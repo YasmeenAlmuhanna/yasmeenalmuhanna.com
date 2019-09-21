@@ -75,19 +75,7 @@ permalink: /mywebsite/
                     <div class="section-line" style="color: #9F9F9F; background: #9F9F9F;"></div>
                 </div>
             </div>
-            <div class="columns">
-                <div class="left-column-img">
-                    <div class="two-images-row">
-                        <img src="/img/mywebsite/Web Elements 1.png" alt="Web Elements 1">
-                        <img src="/img/mywebsite/Web Elements 2.png" alt="Web Elements 2">
-                    </div>
-                </div>
-                <div class="right-column-img">
-                    <div class="two-images-row">
-                        <img src="/img/mywebsite/Web Elements 3.png" alt="Web Elements 3">
-                    </div>
-                </div>
-            </div>
+            <img src="/img/mywebsite/webelements.svg" alt="Web Elements">
             <div class="section-header">
                 <span class="section-number">03</span>
                 <div class="section-name">
@@ -96,7 +84,7 @@ permalink: /mywebsite/
                 </div>
             </div>     
             <p>Once I was satisfied with the look of the site I shared my wireframes with the developer via Adobe XD and Figma. The scaffolding was built by <a target="_blank" href="https://rehanbutt.com/">Rehan Butt</a> using Jekyll and the Foundation CSS framework. Once the framework was established I was able to make minor edits and additions since a lot of the design components are repetitive across the projects. </p>
-            <img src="/img/mywebsite/adobeScreenshot.png" alt="Adobe XD Chart">
+            <img src="/img/mywebsite/adobeScreenshot.svg" alt="Adobe XD Chart">
             <p>Complex issues with coding were outsourced to <a target="_blank" href="https://davidmbaker.dev/">David Baker</a>  via sharing the website's repository. 
             Most of our communication happens through Github's interface. </p>
             <div class="columns">
