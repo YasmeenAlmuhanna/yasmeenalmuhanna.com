@@ -109,7 +109,7 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>Process<br/>Snapshots</h2>
+        <h2><br/>Process</h2>
         <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
@@ -118,10 +118,10 @@ hero: "/img/cookiecaricatures/hero.png"
 <img src="/img/cookiecaricatures/rhinoprocess.png" alt="Rhino Process" style="width:100%;">
 
 <div class="columns">
-    <div class="left-column-img">
+    <div class="left-column-img img-padding">
         <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
     </div>
-    <div class="right-column-img">
+    <div class="right-column-img img-padding">
         <img src="/img/cookiecaricatures/printedbernie.svg" style="padding-bottom: 20px">
     </div>
 </div>
