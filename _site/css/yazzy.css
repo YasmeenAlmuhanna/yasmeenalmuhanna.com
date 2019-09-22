@@ -190,6 +190,8 @@ h1, h2, h3, h4 { font-family: "Roboto", sans-serif; color: #262626; }
 
 .about .button:hover { background-color: #ffffff; color: #262626; }
 
+.white-link { color: #ffffff !important; }
+
 .footer-buffer { color: #262626; background-color: #ffffff; padding-top: 5em; padding-bottom: 5em; margin-top: 6em; position: relative; }
 
 @media screen and (max-width: 40em) { .footer-buffer { padding-left: 2em; padding-right: 2em; margin-top: 0; } }
