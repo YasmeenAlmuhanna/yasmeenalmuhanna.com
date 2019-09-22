@@ -7,19 +7,19 @@ body { font-family: "Roboto", sans-serif; font-weight: 400; font-size: 20px; col
 
 h1, h2, h3, h4 { font-family: "Roboto", sans-serif; color: #262626; }
 
-header { padding-top: 2em; font-family: "Oswald", sans-serif; }
+.top-site-header { display: flex; justify-content: space-between; align-items: center; font-family: "Oswald", sans-serif; height: 6em; }
 
-header .logo { height: 4.5em; }
+.top-site-header .logo { height: 4.5em; }
 
-header nav { color: #ffffff; font-weight: 500; text-align: right; }
+.top-site-header nav { color: #ffffff; font-weight: 500; text-align: right; }
 
-@media screen and (max-width: 40em) { header nav { font-size: 1.4em; } }
+@media screen and (max-width: 40em) { .top-site-header nav { font-size: 1.4em; } }
 
-header nav a { padding-left: 0.5em; padding-right: 0.5em; padding-top: .3em; padding-bottom: .3em; color: inherit; }
+.top-site-header nav a { padding-left: 0.5em; padding-right: 0.5em; padding-top: .3em; padding-bottom: .3em; color: inherit; }
 
-header nav a:visited { color: #ffffff; }
+.top-site-header nav a:visited { color: #ffffff; }
 
-header nav a:hover { text-decoration: none; background-color: #383838; }
+.top-site-header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .hero { margin-bottom: 5em; margin-top: 2em; }
 
@@ -57,6 +57,10 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 
 .tile-container .project-link .tile .tile-category { font-family: "Roboto", sans-serif; color: #ffffff; position: absolute; left: 1em; bottom: 1em; }
 
+.mywebsite-title-container { width: fit-content; padding: 2em 0; }
+
+.mywebsite-title-container .mywebsite-title { font-family: "Oswald", sans-serif; font-weight: 600; color: black; text-transform: uppercase; font-size: 4em; line-height: 1em; }
+
 .proj-quote { max-width: max-content; font-family: "Oswald", sans-serif; padding-top: 30px; }
 
 .proj-quote .quote-body { text-transform: uppercase; font-size: 1.5em; }
@@ -80,6 +84,12 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 .columns .right-column-text { width: 50%; display: flex; flex-flow: column; justify-content: center; padding-left: 15%; }
 
 .columns .right-column-img { width: 50%; display: flex; flex-flow: column; justify-content: space-evenly; }
+
+.columns .img-padding { padding: 10px 35px; }
+
+.two-images-row { display: flex; flex-flow: row nowrap; }
+
+.two-images-row img { width: 50%; padding: 10px; }
 
 @media (max-width: 650px) { .columns { flex-flow: column; }
   .columns .left-column-text { width: 100%; }
@@ -138,6 +148,10 @@ header nav a:hover { text-decoration: none; background-color: #383838; }
 @media screen and (max-width: 40em) { .project-container .project-content .text-item { padding-left: 0; padding-right: 0; margin-bottom: 1em; } }
 
 .project-container .project-content .caption { font-weight: 400; font-style: italic; color: #9F9F9F; padding-top: 0.5em; }
+
+.project-container .project-content .text-right { text-align: right; }
+
+.project-container .project-content .date-caption { font-weight: 400; color: #9F9F9F; padding-top: 0.5em; }
 
 .project-container .project-content .right { text-align: right; }
 
