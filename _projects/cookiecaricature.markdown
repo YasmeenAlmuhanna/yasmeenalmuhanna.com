@@ -5,7 +5,7 @@ category: 3D Modeling + Printing
 thumbnail: cookie_caricature.svg
 color: EBA08F
 order: 6
-hero: "/img/cookiecaricatures/hero.png"
+hero: "/img/cookiecaricature/hero.png"
 
 ---
 
@@ -61,16 +61,16 @@ hero: "/img/cookiecaricatures/hero.png"
       </p>
   </div>
     <div class="right-column-img card card-pad-left">
-        <img src="/img/cookiecaricatures/thepoliticians.jpg" alt="politicians">
+        <img src="/img/cookiecaricature/thepoliticians.jpg" alt="politicians">
     </div>
 </div>
 
-<img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:75%;">
+<img src="/img/cookiecaricature/thepoliticianslines.svg" alt="politicians line drawings" style="width:75%;">
 
 <div class="columns">
   <div class="left-column-img">
       <div>
-      <img src="/img/cookiecaricatures/ClintonCutter.png" alt="Hilary Axon">
+      <img src="/img/cookiecaricature/hilaryaxon.svg" alt="Hilary Axon">
       </div>
 </div>
 
@@ -93,16 +93,16 @@ hero: "/img/cookiecaricatures/hero.png"
         <p>Our first step was to understand the angles that the Envista Taperdeck™️ allowed between panels. From that understanding, we developed a connection detail to hold each panel in place. </p>
     </div>
     <div class="right-column-img card card-pad-left">
-        <img src="/img/cookiecaricatures/bernie1.jpg" alt="bernie 1">
+        <img src="/img/cookiecaricature/bernie1.jpg" alt="bernie 1">
     </div>
 </div>
 
 <div class="columns">
     <div class="left-column-img card">
-        <img src="/img/cookiecaricatures/bernie2.png" alt="bernie 2">
+        <img src="/img/cookiecaricature/bernie2.png" alt="bernie 2">
     </div>
     <div class="right-column-img card card-pad-left">
-        <img src="/img/cookiecaricatures/bernie3.png" alt="bernie 3">
+        <img src="/img/cookiecaricature/bernie3.png" alt="bernie 3">
     </div>
 </div>
 
@@ -115,13 +115,13 @@ hero: "/img/cookiecaricatures/hero.png"
 </div>
 
 
-<img src="/img/cookiecaricatures/rhinoprocess.png" alt="Rhino Process" style="width:100%;">
+<img src="/img/cookiecaricature/rhinoprocess.png" alt="Rhino Process" style="width:100%;">
 
 <div class="columns">
     <div class="left-column-img img-padding">
-        <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
+        <img src="/img/cookiecaricature/printedhilary.svg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img img-padding">
-        <img src="/img/cookiecaricatures/printedbernie.svg" style="padding-bottom: 20px">
+        <img src="/img/cookiecaricature/printedbernie.svg" style="padding-bottom: 20px">
     </div>
 </div>
