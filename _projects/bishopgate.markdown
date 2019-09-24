@@ -88,10 +88,10 @@ hero: "/img/bishopgategoodsyard/hero.png"
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
+            <h3>Circulation &<br/>Structure</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+        <p>"Due to the complexity and sheer size of the site, a thorough study of load bearing and access points were done prior to architectural design.</p>
     </div>
     <div class="right-column-img">
         <img src="\img\bishopgategoodsyard\diagram_circulationWithText.svg">
@@ -104,10 +104,10 @@ hero: "/img/bishopgategoodsyard/hero.png"
     </div>
     <div class="right-column-text">
         <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
+            <h3>Selected<br/>Swath</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+        <p>The highlighted portion on the following plan was selected to explore in depth.</p>
     </div>
 </div>
 
@@ -124,10 +124,10 @@ hero: "/img/bishopgategoodsyard/hero.png"
         <div class="bishop-section3-part1">
             <div class="bishop-section3-part1-column1">
                 <div class="sub-section-name">
-                    <h3>Some<br/>Title</h3>
+                    <h3>Exploded<br/>Axonometric</h3>
                     <div class="sub-section-line" style="color: #9A5AB9;"></div>
                 </div>
-                <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+                <p>The arches are utilized as shopping spaces servicing the residents of the grounds.</p>
             </div>
             <div class="bishop-section3-part1-column2">
             </div>
