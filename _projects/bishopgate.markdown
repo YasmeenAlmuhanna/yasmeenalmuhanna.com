@@ -91,7 +91,7 @@ hero: "/img/bishopgategoodsyard/hero.png"
             <h3>Circulation &<br/>Structure</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <p>"Due to the complexity and sheer size of the site, a thorough study of load bearing and access points were done prior to architectural design.</p>
+        <p>Due to the complexity and sheer size of the site, a thorough study of load bearing and access points were done prior to architectural design.</p>
     </div>
     <div class="right-column-img">
         <img src="\img\bishopgategoodsyard\diagram_circulationWithText.svg">
@@ -155,7 +155,7 @@ hero: "/img/bishopgategoodsyard/hero.png"
             <h3>Ground Level<br/>Renderings</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+        <p>The following renderings depict the look and feel of the multiple grounds of the public realm.</p>
     </div>
     <div class="right-column-img">
         <img src="\img\bishopgategoodsyard\render_bottomOfArches.svg">
@@ -167,7 +167,7 @@ hero: "/img/bishopgategoodsyard/hero.png"
     <span class="section-number">04</span>
     <div class="section-name">
         <h2>Residential<br/>Townhouses</h2>
-    <div class="section-line" style="color: #9A5AB9;"></div>
+    <div class="section-line" style="color: #9A5AB9; background: #9A5AB9;"></div>
 </div>
 
 <div class="columns">
