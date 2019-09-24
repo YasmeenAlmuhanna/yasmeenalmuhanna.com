@@ -127,7 +127,7 @@ hero: "/img/bishopgategoodsyard/hero.png"
                     <h3>Exploded<br/>Axonometric</h3>
                     <div class="sub-section-line" style="color: #9A5AB9;"></div>
                 </div>
-                <p>The arches are utilized as shopping spaces servicing the residents of the grounds.</p>
+                <p>The arches are utilized as shopping spaces servicing the residents of the grounds. Public access points to the top of the arches serve as an entry to a long walkway (think NYC highline). Spanning over the arches are our townhouse superstructures for families. The high-rise building over the tube have smaller apartments and office spaces.</p>
             </div>
             <div class="bishop-section3-part1-column2">
             </div>
