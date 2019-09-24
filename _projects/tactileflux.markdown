@@ -4,7 +4,7 @@ title: "Tactile Flux"
 category: Design Competition
 thumbnail: polar_bear.svg
 color: ECD05E
-order: 4
+order: 3
 hero: "/img/tactileflux/hero.png"
 
 ---

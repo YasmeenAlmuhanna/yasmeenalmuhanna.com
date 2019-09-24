@@ -5,7 +5,7 @@ date: 2019-02-22
 category: Brand, UX & Design
 thumbnail: seated.svg
 color: D43015
-order: 2
+order: 4
 hero: "/img/seatedapp/hero.png"
 
 ---
