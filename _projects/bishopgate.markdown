@@ -174,26 +174,14 @@ hero: "/img/bishopgategoodsyard/hero.png"
     <div class="left-column-img">
         <img src="\img\bishopgategoodsyard\modelPhoto1.svg">
     </div>
-    <div class="right-column-text">
-        <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
-            <div class="sub-section-line" style="color: #9A5AB9;"></div>
-        </div>
-        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-    </div>
 </div>
+
 <div class="columns">
-    <div class="left-column-text">
-        <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
-            <div class="sub-section-line" style="color: #9A5AB9;"></div>
-        </div>
-        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
-    </div>
     <div class="right-column-img">
         <img src="\img\bishopgategoodsyard\modelPhoto2.svg">
     </div>
 </div>
+
 <img src="\img\bishopgategoodsyard\render_townhouseStairs.jpg">
 <img src="\img\bishopgategoodsyard\diagram_water.svg">
 <div class="columns">
@@ -201,10 +189,10 @@ hero: "/img/bishopgategoodsyard/hero.png"
     </div>
     <div class="right-column-text">
         <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
+            <h3>Townhouse<br/>Superstructure</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.</p>
+        <p>The townhouses stretch over the historical arches, delineating spaces underneath for the public. Each structure has a rain water collection and treatment system that goes back into the apartments and feeds into the rain gardens underneath.</p>
     </div>
 </div>
 <img src="\img\bishopgategoodsyard\heroSectionWithPlan.svg">
