@@ -24,7 +24,7 @@ hero: "/img/fuelnutrition/hero.png"
       Company
     </div>
     <div class="metadata-value cell auto">
-      <a href="http://fuelplusco.com/" target="_blank">Fuel Nutrition Group</a>
+      <a href="http://fuelplusco.com/"  style="color:white" target="_blank">Fuel Nutrition Group</a>
     </div>
   </div>
   <div class="metadata-object cell grid-x">
