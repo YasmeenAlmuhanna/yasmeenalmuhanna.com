@@ -1,4 +1,3 @@
-<!-- ---
 layout: project
 title: "Bishopgate</br>Goodsyard"
 date: 2019-02-20
@@ -7,8 +6,6 @@ thumbnail: bishopgate_goodsyard.svg
 color: 9A5AB9
 order: 5
 hero: "/img/bishopgategoodsyard/hero.png"
-
---- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
