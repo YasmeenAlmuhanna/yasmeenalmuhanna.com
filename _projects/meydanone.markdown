@@ -4,7 +4,7 @@ title: "Meydan</br>One"
 category: Architecture
 thumbnail: meydan_one.svg
 color: 4790CC
-order: 3
+order: 2
 hero: "/img/meydanone/hero.png"
 
 ---
