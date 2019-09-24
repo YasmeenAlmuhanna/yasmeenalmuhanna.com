@@ -167,18 +167,17 @@ hero: "/img/bishopgategoodsyard/hero.png"
     <span class="section-number">04</span>
     <div class="section-name">
         <h2>Residential<br/>Townhouses</h2>
-        <div class="section-line" style="color: #9A5AB9;"></div>
-    </div>
+    <div class="section-line" style="color: #9A5AB9;"></div>
+</div>
 
-    <div class="columns">
-        <div class="reg-column">
-            <img src="\img\bishopgategoodsyard\modelPhoto1.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
-        </div>
-        <div class="reg-column">
-            <img src="\img\bishopgategoodsyard\modelPhoto2.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
-        </div>
+<div class="columns">
+    <div class="reg-column">
+        <img src="\img\bishopgategoodsyard\modelPhoto1.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
     </div>
-    
+    <div class="reg-column">
+        <img src="\img\bishopgategoodsyard\modelPhoto2.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
+    </div>
+</div>
 
 <img src="\img\bishopgategoodsyard\render_townhouseStairs.jpg">
 <img src="\img\bishopgategoodsyard\diagram_water.svg">
