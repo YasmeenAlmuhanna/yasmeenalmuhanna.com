@@ -127,4 +127,4 @@ hero: "/img/seatedapp/hero.png"
 
 <img src="/img/seatedapp/colortheme.svg" alt="seated color scheme" style="padding-top: 100px;">
 <img src="/img/seatedapp/fontVariations.svg" alt="font Variations" style="padding-top: 100px;">
-<img src="/img/seatedapp/XDprocess.png" alt="font Variations" style="padding-top: 100px;">
+<img src="/img/seatedapp/XDprocess.png" alt="XDprocess" style="padding-top: 100px;">
