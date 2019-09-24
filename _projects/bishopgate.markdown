@@ -127,7 +127,7 @@ hero: "/img/bishopgategoodsyard/hero.png"
                     <h3>Exploded<br/>Axonometric</h3>
                     <div class="sub-section-line" style="color: #9A5AB9;"></div>
                 </div>
-                <p>The arches are utilized as shopping spaces servicing the residents of the grounds. Public access points to the top of the arches serve as an entry to a long walkway (think NYC highline). Spanning over the arches are our townhouse superstructures for families. The high-rise building over the tube have smaller apartments and office spaces.</p>
+                <p>The arches are utilized as shopping spaces servicing the residents of the grounds. Public access points to the top of the arches serve as an entry to a long walkway (think NYC highline). Spanning over the arches are our townhouse superstructures for families. The high-rise building over the train tracks contains smaller apartments and office spaces.</p>
             </div>
             <div class="bishop-section3-part1-column2">
             </div>
@@ -142,17 +142,17 @@ hero: "/img/bishopgategoodsyard/hero.png"
     </div>
     <div class="right-column-text">
         <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
+            <h3>Ground<br/>Level</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
-        <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+        <p>Spaces under the historic arches will be leased to restaurants and retail stores. A large supermarket is attached to the elevated train's entrance, catering to the people who work around the area and might want to do some shopping before commuting home. The opposite, more private side of the site caters to the residents. More space is designated for landscaping and rain gardens.</p>
     </div>
 </div>
 <img src="\img\bishopgategoodsyard\render_ArchesTop.jpg" style="padding-top: 50px">
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name">
-            <h3>Some<br/>Title</h3>
+            <h3>Ground Level<br/>Renderings</h3>
             <div class="sub-section-line" style="color: #9A5AB9;"></div>
         </div>
         <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
@@ -169,18 +169,16 @@ hero: "/img/bishopgategoodsyard/hero.png"
         <h2>Residential<br/>Townhouses</h2>
         <div class="section-line" style="color: #9A5AB9;"></div>
     </div>
-</div>
-<div class="columns">
-    <div class="left-column-img">
-        <img src="\img\bishopgategoodsyard\modelPhoto1.svg">
-    </div>
-</div>
 
-<div class="columns">
-    <div class="right-column-img">
-        <img src="\img\bishopgategoodsyard\modelPhoto2.svg">
+    <div class="columns">
+        <div class="reg-column">
+            <img src="\img\bishopgategoodsyard\modelPhoto1.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
+        </div>
+        <div class="reg-column">
+            <img src="\img\bishopgategoodsyard\modelPhoto2.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
+        </div>
     </div>
-</div>
+    
 
 <img src="\img\bishopgategoodsyard\render_townhouseStairs.jpg">
 <img src="\img\bishopgategoodsyard\diagram_water.svg">
