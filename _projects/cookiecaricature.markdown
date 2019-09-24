@@ -119,9 +119,11 @@ hero: "/img/cookiecaricatures/hero.png"
 
 <div class="columns">
     <div class="left-column-img img-padding">
-        <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
-    </div>
-    <div class="right-column-img img-padding">
         <img src="/img/cookiecaricatures/printedbernie.svg" style="padding-bottom: 20px">
     </div>
+    <div class="right-column-img img-padding">
+        <img src="/img/cookiecaricatures/printedhilarysvg" style="padding-bottom: 20px">
+    </div>
 </div>
+
+<img src="/img/cookiecaricatures/bandhcooked.jpg" alt="baked cookies" style="width:100%;">
