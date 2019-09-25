@@ -5,7 +5,7 @@ date: 2019-02-22
 category: Brand, UX & Design
 thumbnail: seated.svg
 color: D43015
-order: 3
+order: 4
 hero: "/img/seatedapp/hero.png"
 
 ---
@@ -127,4 +127,4 @@ hero: "/img/seatedapp/hero.png"
 
 <img src="/img/seatedapp/colortheme.svg" alt="seated color scheme" style="padding-top: 100px;">
 <img src="/img/seatedapp/fontVariations.svg" alt="font Variations" style="padding-top: 100px;">
-<img src="/img/seatedapp/XDprocess.svg" alt="XDprocess.svg" style="padding-top: 100px;">
+<img src="/img/seatedapp/wireframeprocess.svg" alt="XDprocess" style="padding-top: 100px;">
