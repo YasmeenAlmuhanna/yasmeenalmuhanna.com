@@ -126,4 +126,4 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
 </div>
 
-<img src="/img/cookiecaricatures/bandhcooked.jpg" alt="baked cookies" style="width:100%;">
+<img src="/img/cookiecaricatures/bandhcooked.svg" alt="baked cookies" style="width:100%;">
