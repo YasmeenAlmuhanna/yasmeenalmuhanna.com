@@ -18,22 +18,6 @@ hero: "/img/cookiecaricatures/hero.png"
       3D modeling + Printing
     </div>
   </div>
-  <div class="metadata-object cell grid-x">
-    <div class="metadata-title cell small-4">
-      Plot Size
-    </div>
-    <div class="metadata-value cell auto">
-      343.7 hectares | 849 acres
-    </div>
-  </div>
-  <div class="metadata-object cell grid-x">
-    <div class="metadata-title cell small-4">
-      Gross Floor Area
-    </div>
-    <div class="metadata-value cell auto">
-      5,500,000 m2 | 59,201,507 ft2
-    </div>
-  </div>
 </div>
 
 <div class="project-intro">
