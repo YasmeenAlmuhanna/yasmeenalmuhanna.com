@@ -39,8 +39,8 @@ hero: "/img/fuelnutrition/hero.png"
 
 
 <div class="project-intro">
-  <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand.</p>
-  <p>Although I was hired to put together an interior design concept for the salon, this project evolved to include a set of business strategies and action items for the client to consider in order to strengthen the brand's image and increase business.</p>
+  <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand and reached out to me for help on putting together an interior design concept for the salon..</p>
+  <p>The project ended up evolving to include a set of business and marketing strategies in order to strengthen the brand's image and increase business.</p>
 </div>
 
 
