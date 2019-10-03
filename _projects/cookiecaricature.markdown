@@ -87,10 +87,10 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name" style="width:200px">
-            <h3>COOKIE<br/>CARICATURE</h3>
+            <h3>Makin' Some<br/>Money</h3>
             <div class="sub-section-line" style="color: #EBA08F;"></div>
         </div>
-        <p>Our first step was to understand the angles that the Envista Taperdeck™️ allowed between panels. From that understanding, we developed a connection detail to hold each panel in place. </p>
+        <p>The idea was that eventually one would be able to upload a photo onto CookieCaricature's website and select a cutter size to be printed and delivered. Being so swamped with schoolwork, the website never made it to fruition. Here's a little draft of it though.</p>
     </div>
     <div class="right-column-img card card-pad-left">
         <img src="/img/cookiecaricatures/bernie1.jpg" alt="bernie 1">
