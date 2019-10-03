@@ -1,4 +1,4 @@
----!!!
+<!-- ---
 layout: project
 title: "Seated App"
 date: 2019-02-22
@@ -8,7 +8,7 @@ color: D43015
 order:
 hero: "/img/seatedapp/hero.png"
 
----!!!
+--- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
