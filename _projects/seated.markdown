@@ -1,14 +1,14 @@
----
+---!!!
 layout: project
 title: "Seated App"
 date: 2019-02-22
 category: Brand, UX & Design
 thumbnail: seated.svg
 color: D43015
-order: 4
+order:
 hero: "/img/seatedapp/hero.png"
 
----
+---!!!
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
