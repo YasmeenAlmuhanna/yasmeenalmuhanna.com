@@ -4,7 +4,7 @@ title: "Cookie</br>Caricature"
 category: 3D Modeling + Printing
 thumbnail: cookie_caricature.svg
 color: EBA08F
-order: 5
+order: 6
 hero: "/img/cookiecaricatures/hero.png"
 
 ---

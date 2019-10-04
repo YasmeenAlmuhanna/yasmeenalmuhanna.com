@@ -5,7 +5,7 @@ date: 2019-02-22
 category: Design + Business Consulting
 thumbnail: fuel_nutrition.svg
 color: F87A3B
-order: 1
+order: 2
 hero: "/img/fuelnutrition/hero.png"
 
 ---
@@ -25,14 +25,6 @@ hero: "/img/fuelnutrition/hero.png"
     </div>
     <div class="metadata-value cell auto">
       <a href="http://fuelplusco.com/"  style="color:white" target="_blank">Fuel Nutrition Group</a>
-    </div>
-  </div>
-  <div class="metadata-object cell grid-x">
-    <div class="metadata-title cell small-4">
-      Time Frame
-    </div>
-    <div class="metadata-value cell auto">
-      2 months
     </div>
   </div>
 </div>

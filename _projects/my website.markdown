@@ -1,7 +1,13 @@
 ---
-layout: simple
-title: My Website
-permalink: /mywebsite/
+layout: project
+title: "My Website"
+date: 2019-02-22
+category: Web Design + Branding
+thumbnail: fuel_nutrition.svg
+color: 9F9F9F
+order: 1
+hero: "/img/fuelnutrition/hero.png"
+
 ---
 
 <article class="project-container" itemscope itemtype="http://schema.org/BlogPosting">
