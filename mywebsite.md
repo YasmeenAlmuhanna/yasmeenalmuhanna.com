@@ -97,16 +97,9 @@ permalink: /mywebsite/
             </div>
             <p class="body-copy">After the website went live for a few weeks, I utilized web analytics to help inform how I improved/modified the site. For example, my cookie cutter project was one of the last pages I uploaded chronologically, however it had the most page visits overall. So I added more images and info onto that page to demonstrate additional skills to the visitor.</p>  
 
-            <div class="columns">
-                <div class="left-column-img img-padding">
-                    <img src="/img/mywebsite/timeofday.svg" alt="Time of Day">
-                </div>
-                <div class="right-column-img img-padding">
-                    <img src="/img/mywebsite/devicetype.svg" alt="Device Type">
-                </div>
             </div>
-            <img src="/img/mywebsite/userflowanalytics.svg" alt="user flow">  
-            <img src="/img/mywebsite/regionanalytics.svg" alt="region analytics"> 
+            <img src="/img/mywebsite/userflow.svg" alt="user flow">  
+            <img src="/img/mywebsite/regionanalytics.svg" alt="region analytics">
         </div>
     </div>
 </article>
