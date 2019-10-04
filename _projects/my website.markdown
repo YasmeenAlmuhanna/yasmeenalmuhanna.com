@@ -1,12 +1,11 @@
 ---
-layout: project
+layout: simple
 title: "My Website"
 date: 2019-02-22
 category: Web Design + Branding
-thumbnail: fuel_nutrition.svg
+thumbnail: my_website.svg
 color: 9F9F9F
 order: 1
-hero: "/img/fuelnutrition/hero.png"
 
 ---
 
