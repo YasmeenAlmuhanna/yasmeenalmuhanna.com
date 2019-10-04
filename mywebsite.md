@@ -104,9 +104,9 @@ permalink: /mywebsite/
                 <div class="right-column-img img-padding">
                     <img src="/img/mywebsite/devicetype.svg" alt="Device Type">
                 </div>
-              <img src="/img/mywebsite/userflowanalytics.svg" alt="user flow">  
-              <img src="/img/mywebsite/regionanalytics.svg" alt="region analytics">
-            </div>  
+            </div>
+            <img src="/img/mywebsite/userflowanalytics.svg" alt="user flow">  
+            <img src="/img/mywebsite/regionanalytics.svg" alt="region analytics"> 
         </div>
     </div>
 </article>
