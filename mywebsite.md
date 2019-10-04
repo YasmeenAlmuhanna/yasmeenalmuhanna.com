@@ -93,8 +93,8 @@ permalink: /mywebsite/
                 </div>
                 <div class="right-column-img img-padding">
                     <img src="/img/mywebsite/Atom.png" alt="Code Img">
-                <p>After the website went live for a few weeks, I utilized web analytics to help inform how I improved/modified the site. For example, my cookie cutter project was one of the last pages I uploaded chronologically, however it had the most page visits overall. So I added more images and info onto that page to demonstrate additional skills to the visitor.</p>
                 </div>
+            <p>After the website went live for a few weeks, I utilized web analytics to help inform how I improved/modified the site. For example, my cookie cutter project was one of the last pages I uploaded chronologically, however it had the most page visits overall. So I added more images and info onto that page to demonstrate additional skills to the visitor.</p>
             </div>      
         </div>
     </div>
