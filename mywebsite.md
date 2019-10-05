@@ -96,8 +96,7 @@ permalink: /mywebsite/
                 </div>
             </div>
             <p class="body-copy">After the website went live for a few weeks, I utilized web analytics to help inform how I improved/modified the site. For example, my cookie cutter project was one of the last pages I uploaded chronologically, however it had the most page visits overall. So I added more images and info onto that page to demonstrate additional skills to the visitor.</p>  
-            </div>
-            
+
             <div class="columns">
                 <div class="left-column-img img-padding">
                     <img src="/img/mywebsite/Github.png" alt="Github Img">
@@ -111,6 +110,10 @@ permalink: /mywebsite/
             <p class="caption">User Behavior Flow</p>
             <img src="/img/mywebsite/regionanalytics.svg" alt="region analytics" style="width:100%;>
             <p class="caption">Regional Analytics</p>
+
+            </div>
+
+
         </div>
     </div>
 </article>
