@@ -105,7 +105,8 @@ permalink: /mywebsite/
                     <img src="/img/mywebsite/devicetype.svg" alt="Code Img">
                 </div>
             </div>
-
+            <img src="/img/mywebsite/userflow.svg" alt="userflow">
+            <img src="/img/mywebsite/regionanalytics.svg" alt="regional traffic">
             </div>
 
 
