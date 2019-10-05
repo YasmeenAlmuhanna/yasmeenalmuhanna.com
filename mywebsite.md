@@ -99,17 +99,12 @@ permalink: /mywebsite/
 
             <div class="columns">
                 <div class="left-column-img img-padding">
-                    <img src="/img/mywebsite/Github.png" alt="Github Img">
+                    <img src="/img/mywebsite/timeofday.svg" alt="Github Img">
                 </div>
                 <div class="right-column-img img-padding">
-                    <img src="/img/mywebsite/Atom.png" alt="Code Img">
+                    <img src="/img/mywebsite/devicetype.svg" alt="Code Img">
                 </div>
             </div>
-
-            <img src="/img/mywebsite/userflow.svg" alt="user flow" style="width:100%;>  
-            <p class="caption">User Behavior Flow</p>
-            <img src="/img/mywebsite/regionanalytics.svg" alt="region analytics" style="width:100%;>
-            <p class="caption">Regional Analytics</p>
 
             </div>
 
