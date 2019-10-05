@@ -99,7 +99,21 @@ order: 1
                 <div class="right-column-img img-padding">
                     <img src="/img/mywebsite/Atom.png" alt="Code Img">
                 </div>
-            </div>   
+            </div>  
+            <p class="body-copy">After the website went live for a few weeks, I utilized web analytics to help inform how I improved/modified the site. For example, my cookie cutter project was one of the last pages I uploaded chronologically, however it had the most page visits overall. So I added more images and info onto that page to demonstrate additional skills to the visitor.</p>  
+            <div class="columns">
+                <div class="left-column-img img-padding">
+                    <img src="/img/mywebsite/timeofday.svg" alt="Github Img">
+                </div>
+                <div class="right-column-img img-padding">
+                    <img src="/img/mywebsite/devicetype.svg" alt="Code Img">
+                </div>
+            </div>
+            <img src="/img/mywebsite/userflow.svg" alt="userflow">
+              <p class="caption text-right">User Flow</p>
+            <img src="/img/mywebsite/regionanalytics.svg" alt="regional traffic">
+              <p class="caption text-right">Regional Traffic</p>
+            </div> 
         </div>
     </div>
 </article>
