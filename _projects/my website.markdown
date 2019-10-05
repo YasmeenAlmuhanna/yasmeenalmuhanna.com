@@ -99,7 +99,7 @@ order: 1
                 <div class="right-column-img img-padding">
                     <img src="/img/mywebsite/Atom.png" alt="Code Img">
                 </div>
-              </div>   
+            </div>   
         </div>
     </div>
 </article>
