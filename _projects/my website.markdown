@@ -5,7 +5,7 @@ date: 2019-02-22
 category: Web Design + Branding
 thumbnail: my_website.svg
 color: 9F9F9F
-order: 1
+order: 2
 
 ---
 
@@ -113,7 +113,7 @@ order: 1
               <p class="caption text-right">User Flow</p>
             <img src="/img/mywebsite/regionanalytics.svg" alt="regional traffic">
               <p class="caption text-right">Regional Traffic</p>
-            </div> 
+            </div>
         </div>
     </div>
 </article>
