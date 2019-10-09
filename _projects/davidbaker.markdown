@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: "David M.</br>Baker"
 category: Web Design </br> (In Progress)
@@ -7,7 +7,7 @@ color: 008465
 order: 1
 hero: "/img/davidbaker/hero.png"
 
----
+--- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
@@ -42,7 +42,7 @@ hero: "/img/davidbaker/hero.png"
         <span class="section-number">01</span>
         <div class="section-name">
               <h2><br/>Concept</h2>
-            <div class="section-line" style="color: #008465;"></div>
+            <div class="section-line" style="color: #008465; background: #008465;"></div>
         </div>
     </div>
 
@@ -58,6 +58,7 @@ hero: "/img/davidbaker/hero.png"
         <div class="right-column-img">
             <div>
                 <img src="/img/davidbaker/graphicinspo.svg" alt="Inspiration">
+                <p class="caption right">Graphical Inspiration</p>
             </div>
         </div>
     </div>
