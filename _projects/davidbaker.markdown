@@ -37,28 +37,19 @@ hero: "/img/davidbaker/hero.png"
 
 !~META
 
-<div class="section">
-    <div class="section-header">
-        <span class="section-number">01</span>
-        <div class="section-name">
-              <h2><br/>Concept</h2>
-            <div class="section-line" style="color: #008465; background: #008465;"></div>
-        </div>
-    </div>
-
-    <div class="columns">
-        <div class="left-column-text">
-            <div class="sub-section-name">
-                <h3>The<br/>Inspiration</h3>
-                <div class="sub-section-line" style="color: #008465;"></div>
-            </div>
-            <p>David expressed that he wanted his personal site to reflect his love of hiking and the outdoors.</p>
-            <p>I had the idea of making his site one long hiking scene and started to experiment with the in my sketchbook.</p>
-        </div>
-        <div class="right-column-img">
-            <div>
-                <img src="/img/davidbaker/graphicinspo.svg" alt="Inspiration">
-                <p class="caption right">Graphical Inspiration</p>
-            </div>
-        </div>
-    </div>
+  <div class="columns">
+      <div class="left-column-text">
+          <div class="sub-section-name">
+              <h3>The<br/>Inspiration</h3>
+              <div class="sub-section-line" style="color: #008465;"></div>
+          </div>
+          <p>David expressed that he wanted his personal site to reflect his love of hiking and the outdoors.</p>
+          <p>I had the idea of making his site one long hiking scene and started to experiment in my sketchbook.</p>
+      </div>
+      <div class="right-column-img">
+          <div>
+              <img src="/img/davidbaker/Sketch1.jpg" alt="Inspiration">
+              <p class="caption right">Graphical Inspiration</p>
+          </div>
+      </div>
+  </div>
