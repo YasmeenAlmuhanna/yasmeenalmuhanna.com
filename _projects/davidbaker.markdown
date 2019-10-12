@@ -48,8 +48,8 @@ hero: "/img/davidbaker/hero.png"
       </div>
       <div class="right-column-img">
           <div>
-              <img src="/img/davidbaker/Sketch1.jpg" alt="Inspiration">
-              <p class="caption right">Graphical Inspiration</p>
+              <img src="/img/davidbaker/Sketch1.jpg" alt="Sketchbook">
+              <p class="caption right">Sketchbook</p>
           </div>
       </div>
   </div>
