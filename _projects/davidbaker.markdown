@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: project
 title: "David M.</br>Baker"
 category: Web Design </br> (In Progress)
@@ -7,7 +7,7 @@ color: 008465
 order: 1
 hero: "/img/davidbaker/hero.png"
 
---- -->
+---
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
