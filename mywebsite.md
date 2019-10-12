@@ -108,9 +108,6 @@ permalink: /mywebsite/
               <p class="caption text-right">User Flow</p>
             <img src="/img/mywebsite/regionanalytics.svg" alt="regional traffic">
               <p class="caption text-right">Regional Traffic</p>
-            </div>
-
-
         </div>
     </div>
 </article>
