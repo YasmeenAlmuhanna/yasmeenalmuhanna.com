@@ -44,7 +44,8 @@ hero: "/img/davidbaker/hero.png"
               <div class="sub-section-line" style="color: #008465;"></div>
           </div>
           <p>David expressed that he wanted his personal site to reflect his love of hiking and the outdoors.</p>
-          <p>I had the idea of making his site one long hiking scene and started to experiment in my sketchbook.</p>
+          <p>The idea is to map a hiking scene along one long continuous page as opposed to a landing page that leads to several other unique pages.</p>
+          <p>There will still be a menu bar, but instead of going to a whole new page, it just scrolls down quickly to the corresponding section.</p>
       </div>
       <div class="right-column-img">
           <div>
