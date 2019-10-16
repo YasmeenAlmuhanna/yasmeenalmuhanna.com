@@ -81,7 +81,7 @@ hero: "/img/davidbaker/hero.png"
 <div class="columns">
     <div class="left-column-img">
         <div>
-            <img src="/img/davidbaker/colors.jpg" alt="Color Scheme">
+            <img src="/img/davidbaker/colors.svg" alt="Color Scheme">
         </div>
     </div>
     <div class="right-column-text">
