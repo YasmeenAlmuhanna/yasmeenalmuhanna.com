@@ -74,3 +74,6 @@ hero: "/img/davidbaker/hero.png"
 
 <img src="/img/davidbaker/inspiration.svg" alt="inspirational precedents" style="width:100%;">
 <p class="caption">Precedents</p>
+
+<p>The first inspirational image above is an example of a backdrop that utilizes different shades of one color vs the second image which uses two colors. The third picture uses complementary colors, which I personally like the most but I don't think it reflects David's personality.</p>
+<p>The fourth image I feel is a good compromise between all the options. I would make the last part with the trees green though.</p>
