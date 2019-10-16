@@ -77,3 +77,18 @@ hero: "/img/davidbaker/hero.png"
 
 <p>The first inspirational image above is an example of a backdrop that utilizes different shades of one color vs the second image which uses two colors. The third picture uses complementary colors, which I personally like the most but I don't think it reflects David's personality.</p>
 <p>The fourth image I feel is a good compromise between all the options. I would make the last part with the trees green though.</p>
+
+<div class="columns">
+    <div class="left-column-img">
+        <div>
+            <img src="/img/davidbaker/colors.jpg" alt="Color Scheme">
+        </div>
+    </div>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>Color<br/>Scheme</h3>
+            <div class="sub-section-line" style="color: #008465;"></div>
+        </div>
+        <p>I considered making the website  just shades of blue/green that David likes, but I feel like it would be too boring. Also it would be difficult to get that layered effect with the mountains and trees with just one color scheme. A complementary color scheme would be much more interesting.</p>
+    </div>
+</div>
