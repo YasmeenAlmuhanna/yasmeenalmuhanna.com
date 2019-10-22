@@ -91,7 +91,5 @@ hero: "/img/davidbaker/hero.png"
         </div>
         <p>I considered making the website  just shades of blue/green that David likes, but I feel like it would be too boring. Also it would be difficult to get that layered effect with the mountains and trees with just one color scheme. A complementary color scheme would be much more interesting.</p>
     </div>
-    
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7qSvN2zzLVqUjjkMpKv6Ap%2FGif-starter-template-Copy%3Fnode-id%3D0%253A383%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 </div>
