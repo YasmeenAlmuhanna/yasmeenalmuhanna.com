@@ -89,17 +89,34 @@ hero: "/img/davidbaker/hero.png"
 <p>The fourth image I feel is a good compromise between all the options. I would make the last part with the trees green though.</p>
 
 <div class="columns">
-    <div class="left-column-img">
-        <div>
-            <img src="/img/davidbaker/colors.png" alt="Color Scheme">
-        </div>
+  <div class="left-column-img">
+  <div>
+    <img src="/img/davidbaker/colors.png" alt="Color Scheme">
+  </div>
+  </div>
+  <div class="right-column-text">
+      <div class="sub-section-name">
+      <h3>Color<br/>Scheme</h3>
+      <div class="sub-section-line" style="color: #008465;"></div>
+  </div>
+    <p>I considered making the website  just shades of blue/green that David likes, but I feel like it would be too boring. Also it would be difficult to get that layered effect with the mountains and trees with just one color scheme. A complementary color scheme would be much more interesting.</p>
+</div>
+
+<p>In my first digital iterations below , I didn't think that salmon color of the sky in the landing page reflected David's personality. (His favorite colors are 'stormy blue' and 'forest green).</p>
+
+<p>Because his site visitors will spend the most time on Work (section C), and Blog (section D), I wanted the latter part of the site to also reflect his personality and preferences. The idea is to inject the color blue when the mountains appear under the Work section and end the page with a green forest and path.</p>
+
+<img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Draft" style="width:75%;">
+<p class="caption">Digital Draft</p>
+
+<div class="section-header">
+    <span class="section-number">03</span>
+    <div class="section-name">
+        <h2>Website<br/>Sections</h2>
+        <div class="section-line" style="color: #008465; background: #008465;"></div>
     </div>
-    <div class="right-column-text">
-        <div class="sub-section-name">
-            <h3>Color<br/>Scheme</h3>
-            <div class="sub-section-line" style="color: #008465;"></div>
-        </div>
-        <p>I considered making the website  just shades of blue/green that David likes, but I feel like it would be too boring. Also it would be difficult to get that layered effect with the mountains and trees with just one color scheme. A complementary color scheme would be much more interesting.</p>
-    </div>
+</div>
+
+
 
 </div>
