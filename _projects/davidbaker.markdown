@@ -66,10 +66,10 @@ hero: "/img/davidbaker/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/davidbaker/Sketch2.jpg" style="transform:rotate(90deg);">
+        <img src="/img/davidbaker/Sketch2.jpg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/davidbaker/Sketch3.jpg" style="transform:rotate(90deg);">
+        <img src="/img/davidbaker/Sketch3.jpg" style="padding-bottom: 20px">
     </div>
 </div>
 
@@ -106,7 +106,7 @@ hero: "/img/davidbaker/hero.png"
 
 <p>Because his site visitors will spend the most time on Work (section C), and Blog (section D), I wanted the latter part of the site to also reflect his personality and preferences. The idea is to inject the color blue when the mountains appear under the Work section and end the page with a green forest and path.</p>
 
-<img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Draft" style="width:75%;">
+<img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Draft" style="width:100%;">
 <p class="caption">Digital Draft</p>
 
 <div class="section-header">
@@ -116,7 +116,6 @@ hero: "/img/davidbaker/hero.png"
         <div class="section-line" style="color: #008465; background: #008465;"></div>
     </div>
 </div>
-
 
 
 </div>
