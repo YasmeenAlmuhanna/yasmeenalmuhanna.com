@@ -108,14 +108,3 @@ hero: "/img/davidbaker/hero.png"
 
 <img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Draft" style="width:100%;">
 <p class="caption">Digital Draft</p>
-
-<div class="section-header">
-    <span class="section-number">03</span>
-    <div class="section-name">
-        <h2>Website<br/>Sections</h2>
-        <div class="section-line" style="color: #008465; background: #008465;"></div>
-    </div>
-</div>
-
-
-</div>
