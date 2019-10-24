@@ -100,6 +100,7 @@ hero: "/img/davidbaker/hero.png"
       <div class="sub-section-line" style="color: #008465;"></div>
   </div>
     <p>I considered making the website  just shades of blue/green that David likes, but I feel like it would be too boring. Also it would be difficult to get that layered effect with the mountains and trees with just one color scheme. A complementary color scheme would be much more interesting.</p>
+    </div>
 </div>
 
 <p>In my first digital iterations below , I didn't think that salmon color of the sky in the landing page reflected David's personality. (His favorite colors are 'stormy blue' and 'forest green).</p>
