@@ -69,7 +69,7 @@ hero: "/img/davidbaker/hero.png"
         <img src="/img/davidbaker/Sketch2.jpg" style="transform:rotate(90deg);">
     </div>
     <div class="right-column-img">
-        <img src="/img/davidbaker/Sketch3.jpg" style="padding-bottom: 20px">
+        <img src="/img/davidbaker/Sketch3.jpg" style="transform:rotate(90deg);">
     </div>
 </div>
 
@@ -107,5 +107,5 @@ hero: "/img/davidbaker/hero.png"
 
 <p>Because his site visitors will spend the most time on Work (section C), and Blog (section D), I wanted the latter part of the site to also reflect his personality and preferences. The idea is to inject the color blue when the mountains appear under the Work section and end the page with a green forest and path.</p>
 
-<img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Process" style="width:75%;">
+<img align="middle" src="/img/davidbaker/AdobeProcess1.png" alt="Digital Process" style="width:75%;">
 <p class="caption">Digital Draft</p>
