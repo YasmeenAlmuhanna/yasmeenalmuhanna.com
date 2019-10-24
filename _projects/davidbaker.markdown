@@ -64,8 +64,18 @@ hero: "/img/davidbaker/hero.png"
     </div>
 </div>
 
+<div class="columns">
+    <div class="left-column-img">
+        <img src="/img/davidbaker/Sketch2.jpg" style="padding-bottom: 20px">
+    </div>
+    <div class="right-column-img">
+        <img src="/img/davidbaker/Sketch3.jpg" style="padding-bottom: 20px">
+    </div>
+</div>
+
+
 <div class="section-header">
-    <span class="section-number">01</span>
+    <span class="section-number">02</span>
     <div class="section-name">
         <h2>Color<br/>Scheme</h2>
         <div class="section-line" style="color: #008465; background: #008465;"></div>
