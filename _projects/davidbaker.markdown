@@ -108,7 +108,6 @@ hero: "/img/davidbaker/hero.png"
 <p>Because his site visitors will spend the most time on Work (section C), and Blog (section D), I wanted the latter part of the site to also reflect his personality and preferences. The idea is to inject the color blue when the mountains appear under the Work section and end the page with a green forest and path.</p>
 
 <p style="text-align:center;"> <img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Process" style="width:75%;">
-<p class="caption">Digital Draft</p>
 
 <div class="section-header">
     <span class="section-number">03</span>
@@ -128,8 +127,7 @@ hero: "/img/davidbaker/hero.png"
     </div>
     <div class="right-column-img">
         <div>
-            <img src="/img/davidbaker/landingpage.svg" alt="Sketchbook">
-            <p class="caption right">Sketchbook</p>
+            <img src="/img/davidbaker/landingpage.svg" alt="Landing Page">
         </div>
     </div>
 </div>
