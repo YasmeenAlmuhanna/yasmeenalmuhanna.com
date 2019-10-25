@@ -66,10 +66,10 @@ hero: "/img/davidbaker/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/davidbaker/Sketch2.jpg" style="transform:rotate(90deg);">
+        <img src="/img/davidbaker/Sketch2.jpg" style="transform:rotate(90deg);" style="width:50%;">
     </div>
     <div class="right-column-img">
-        <img src="/img/davidbaker/Sketch3.jpg" style="transform:rotate(90deg);">
+        <img src="/img/davidbaker/Sketch3.jpg" style="transform:rotate(90deg);" style="width:50%;">
     </div>
 </div>
 
@@ -107,5 +107,29 @@ hero: "/img/davidbaker/hero.png"
 
 <p>Because his site visitors will spend the most time on Work (section C), and Blog (section D), I wanted the latter part of the site to also reflect his personality and preferences. The idea is to inject the color blue when the mountains appear under the Work section and end the page with a green forest and path.</p>
 
-<img align="middle" src="/img/davidbaker/AdobeProcess1.png" alt="Digital Process" style="width:75%;">
+<p style="text-align:center;"> <img src="/img/davidbaker/AdobeProcess1.png" alt="Digital Process" style="width:75%;">
 <p class="caption">Digital Draft</p>
+
+<div class="section-header">
+    <span class="section-number">03</span>
+    <div class="section-name">
+        <h2>Web<br/>Sections</h2>
+        <div class="section-line" style="color: #008465; background: #008465;"></div>
+    </div>
+</div>
+
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>Landing<br/>Screen</h3>
+            <div class="sub-section-line" style="color: #008465;"></div>
+        </div>
+        <p>Looking at sunsets, I noticed that you can sometimes see the stars at the top of the sky. I decided to incorporate that element into the landing page.</p>
+    </div>
+    <div class="right-column-img">
+        <div>
+            <img src="/img/davidbaker/landingpage.svg" alt="Sketchbook">
+            <p class="caption right">Sketchbook</p>
+        </div>
+    </div>
+</div>
