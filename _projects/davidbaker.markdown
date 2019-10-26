@@ -64,6 +64,7 @@ hero: "/img/davidbaker/hero.png"
     </div>
 </div>
 
+<!-- ---
 <div class="columns">
     <div class="left-column-img">
         <img src="/img/davidbaker/Sketch2.jpg"
@@ -74,6 +75,7 @@ hero: "/img/davidbaker/hero.png"
         style="width:50%;">
     </div>
 </div>
+--- -->
 
 
 <div class="section-header">
