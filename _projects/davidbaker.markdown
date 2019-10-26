@@ -66,10 +66,12 @@ hero: "/img/davidbaker/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/davidbaker/Sketch2.jpg" style="transform:rotate(90deg);" style="width:50%;">
+        <img src="/img/davidbaker/Sketch2.jpg"
+        style="width:50%;">
     </div>
     <div class="right-column-img">
-        <img src="/img/davidbaker/Sketch3.jpg" style="transform:rotate(90deg);" style="width:50%;">
+        <img src="/img/davidbaker/Sketch3.jpg"
+        style="width:50%;">
     </div>
 </div>
 
