@@ -184,7 +184,7 @@ h4 {
         //opacity: 0.5;
       }
       .tile-category{
-        font-family: $roboto;
+        font-family: $roboto-condensed;
         color: $pure-white;
         position: absolute;
         left: 1em;
@@ -200,7 +200,7 @@ h4 {
     width: fit-content;
     padding: 2em 0;
     .mywebsite-title {
-        
+
         font-family: $oswald;
         font-weight: $oswald-semibold;
         color: black;
@@ -235,7 +235,7 @@ h4 {
         width: 50%;
     }
     .left-column-text {
-        width: 50%;       
+        width: 50%;
         display: flex;
         flex-flow: column;
         justify-content: center;
@@ -287,7 +287,7 @@ h4 {
         }
         .left-column-img {
             width: 100%;
-        } 
+        }
         .right-column-text {
             width: 100%;
             padding-left: unset;
@@ -478,7 +478,7 @@ h4 {
     margin-top: 1em;
   }
   a {
-    color: inherit; 
+    color: inherit;
   }
   .yazzy-line{
       border-bottom: 5px solid $yazzy-grey;
