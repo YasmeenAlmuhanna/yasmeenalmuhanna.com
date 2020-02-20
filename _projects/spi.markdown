@@ -37,7 +37,7 @@ hero: "/img/spi/hero.png"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2><br/>Concept</h2>
+        <h2>Stationary<br/>Set</h2>
         <div class="section-line" style="color: #C9AFDE; background: #C9AFDE;"></div>
     </div>
 </div>
@@ -61,18 +61,6 @@ hero: "/img/spi/hero.png"
     </div>
 </div>
 
-<!-- ---
-<div class="columns">
-    <div class="left-column-img">
-        <img src="/img/davidbaker/Sketch2.jpg"
-        style="width:50%;">
-    </div>
-    <div class="right-column-img">
-        <img src="/img/davidbaker/Sketch3.jpg"
-        style="width:50%;">
-    </div>
-</div>
---- -->
 
 
 <div class="section-header">
