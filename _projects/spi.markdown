@@ -80,5 +80,20 @@ hero: "/img/spi/hero.png"
     </div>
 </div>
 
-<img src="/img/davidbaker/inspiration.svg" alt="inspirational precedents" style="width:100%;">
-<p class="caption">Precedents</p>
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>Many<br/>Iterations</h3>
+            <div class="sub-section-line" style="color: #C9AFDE;"></div>
+        </div>
+        <p>After sketching out some ideas by hand, I moved onto the computer to try out my concept using Affinity Designer.</p>
+        <p>Many different iterations were tested before landing on the final font pairing and stationary layout.</p>
+    </div>
+    <div class="right-column-img">
+        <div>
+            <img src="/img/spi/logoProcess2.jpg" alt="Letterhead">
+        </div>
+    </div>
+</div>
+
+<p style="text-align:center;"> <img src="/img/spi/process.jpg" alt="Digital Process" style="width:75%;">
