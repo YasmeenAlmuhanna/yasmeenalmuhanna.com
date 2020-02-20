@@ -32,7 +32,6 @@ hero: "/img/davidbaker/hero.png"
   <p>David Baker is a US-based software engineer who spends most of his free time hiking and doing all things outdoor-related.</p>
   <p>David approached me to create a simple new site to showcase his personality and work.</p>
   <p>I am in the process of designing the site, from concept to creation of graphics, to hover effects.</p>
-  <p>Stay tuned to see how it develops!</p>
 </div>
 
 !~META
