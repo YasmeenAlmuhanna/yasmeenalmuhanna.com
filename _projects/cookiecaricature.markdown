@@ -3,7 +3,7 @@ layout: project
 title: "Cookie</br>Caricature"
 category: 3D Modeling + Printing
 thumbnail: cookie_caricature.svg
-color: DC5656
+color: EBA08F
 order: 8
 hero: "/img/cookiecaricatures/hero.png"
 
@@ -31,7 +31,7 @@ hero: "/img/cookiecaricatures/hero.png"
     <span class="section-number">01</span>
     <div class="section-name">
         <h2>How it<br/>works</h2>
-        <div class="section-line" style="color: #DC5656; background: #DC5656;"></div>
+        <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
 
@@ -39,7 +39,7 @@ hero: "/img/cookiecaricatures/hero.png"
   <div class="left-column-text">
       <div class="sub-section-name" style="width:200px">
           <h3>Political<br/>Party</h3>
-          <div class="sub-section-line" style="color: #DC5656;"></div>
+          <div class="sub-section-line" style="color: #EBA08F;"></div>
       </div>
       <p>I selected photos of the top presidential candidates of 2016 and traced an outline of their face using Rhino 3d modeling software. Results are shown below.
       </p>
@@ -61,7 +61,7 @@ hero: "/img/cookiecaricatures/hero.png"
 <div class="right-column-text">
     <div class="sub-section-name">
         <h3>Cutter<br/>Components</h3>
-        <div class="sub-section-line" style="color: #DC5656;"></div>
+        <div class="sub-section-line" style="color: #EBA08F;"></div>
     </div>
     <p>The 3d model of the cutter is divided into 3 components: the outline, interior strokes, and structural bracing to hold the curves in place.
     </p>
@@ -72,7 +72,7 @@ hero: "/img/cookiecaricatures/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name" style="width:200px">
             <h3>Makin' Some<br/>Money</h3>
-            <div class="sub-section-line" style="color: #DC5656;"></div>
+            <div class="sub-section-line" style="color: #EBA08F;"></div>
         </div>
         <p>The idea was that eventually one would be able to upload a photo onto CookieCaricature's website and select a cutter size to be printed and delivered. Being so swamped with schoolwork, the website never made it to fruition. Here's a little draft of it though.</p>
     </div>
@@ -94,7 +94,7 @@ hero: "/img/cookiecaricatures/hero.png"
     <span class="section-number">01</span>
     <div class="section-name">
         <h2><br/>Process</h2>
-        <div class="section-line" style="color: #DC5656; background: #DC5656;"></div>
+        <div class="section-line" style="color: #EBA08F; background: #EBA08F;"></div>
     </div>
 </div>
 
