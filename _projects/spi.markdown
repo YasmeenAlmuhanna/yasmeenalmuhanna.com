@@ -1,8 +1,8 @@
 ---
 layout: project
 title: "Sun Pain.</br>Institute"
-category: Logo + Stationary Design </br>
-thumbnail: david_baker.svg
+category: Logo + Stationary Design
+thumbnail: spi.svg
 color: FDD45A
 order: 2
 hero: "/img/spi/hero.png"
