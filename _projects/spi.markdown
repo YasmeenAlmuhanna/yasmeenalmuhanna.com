@@ -5,7 +5,7 @@ category: Logo + Stationary Design
 thumbnail: spi.svg
 color: C9AFDE
 order: 1
-hero: "/img/spi/hero.png"
+hero: "/img/spi/hero.jpg"
 
 ---
 
