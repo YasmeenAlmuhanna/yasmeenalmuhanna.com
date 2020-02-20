@@ -86,7 +86,7 @@ hero: "/img/spi/hero.jpg"
             <h3>Many<br/>Iterations</h3>
             <div class="sub-section-line" style="color: #C9AFDE;"></div>
         </div>
-        <p>After sketching out some ideas by hand, I moved onto the computer to try out my concept using Affinity Designer.</p>
+        <p>After sketching out some ideas by hand, I moved onto the computer to try out my concept using <a target="_blank" href="https://affinity.serif.com/en-us/designer/">Affinity Designer</a>.</p>
         <p>Many different iterations were tested before landing on the final font pairing and stationary layout.</p>
     </div>
     <div class="right-column-img">
