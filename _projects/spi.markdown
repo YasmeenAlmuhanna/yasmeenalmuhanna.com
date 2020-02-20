@@ -37,7 +37,7 @@ hero: "/img/spi/hero.jpg"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>Deliverables</h2>
+        <h2><br/>Deliverables</h2>
         <div class="section-line" style="color: #C9AFDE; background: #C9AFDE;"></div>
     </div>
 </div>
@@ -75,7 +75,7 @@ hero: "/img/spi/hero.jpg"
 <div class="section-header">
     <span class="section-number">02</span>
     <div class="section-name">
-        <h2>Process</h2>
+        <h2><br/>Process</h2>
         <div class="section-line" style="color: #C9AFDE; background: #C9AFDE;"></div>
     </div>
 </div>
@@ -91,7 +91,7 @@ hero: "/img/spi/hero.jpg"
     </div>
     <div class="right-column-img">
         <div>
-            <img src="/img/spi/logoProcess2.jpg" alt="Letterhead">
+            <img src="/img/spi/logoProcess2.svg" alt="process">
         </div>
     </div>
 </div>
