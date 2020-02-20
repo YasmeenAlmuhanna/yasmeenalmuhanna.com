@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "Sun Pain.</br>Institute"
+title: "Sun Pain</br>Institute"
 category: Logo + Stationary Design
 thumbnail: spi.svg
-color: FDD45A
+color: B785DF
 order: 2
 hero: "/img/spi/hero.png"
 
@@ -23,16 +23,13 @@ hero: "/img/spi/hero.png"
       Timeline
     </div>
     <div class="metadata-value cell auto">
-      Ongoing
+      1.5 weeks
     </div>
   </div>
 </div>
 
 <div class="project-intro">
-  <p>David Baker is a US-based software engineer who spends most of his free time hiking and doing all things outdoor-related.</p>
-  <p>David approached me to create a simple new site to showcase his personality and work.</p>
-  <p>I am in the process of designing the site, from concept to creation of graphics, to hover effects.</p>
-  <p>Stay tuned to see how it develops!</p>
+  <p>Sun Pain Clinic requested a simple logo design and stationary layout for their new practice.</p>
 </div>
 
 !~META
@@ -41,7 +38,7 @@ hero: "/img/spi/hero.png"
     <span class="section-number">01</span>
     <div class="section-name">
         <h2><br/>Concept</h2>
-        <div class="section-line" style="color: #FDD45A; background: #FDD45A;"></div>
+        <div class="section-line" style="color: #B785DF; background: #B785DF;"></div>
     </div>
 </div>
 
@@ -50,7 +47,7 @@ hero: "/img/spi/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>The<br/>Idea</h3>
-            <div class="sub-section-line" style="color: #FDD45A;"></div>
+            <div class="sub-section-line" style="color: #B785DF;"></div>
         </div>
         <p>David expressed that he wanted his personal site to reflect his love of hiking and the outdoors.</p>
         <p>The idea is to map a hiking scene along one long continuous page as opposed to a landing page that leads to several other unique pages.</p>
@@ -82,7 +79,7 @@ hero: "/img/spi/hero.png"
     <span class="section-number">02</span>
     <div class="section-name">
         <h2>Color<br/>Scheme</h2>
-        <div class="section-line" style="color: #FDD45A; background: #FDD45A;"></div>
+        <div class="section-line" style="color: #B785DF; background: #B785DF;"></div>
     </div>
 </div>
 
@@ -101,7 +98,7 @@ hero: "/img/spi/hero.png"
   <div class="right-column-text">
       <div class="sub-section-name">
       <h3>Color<br/>Scheme</h3>
-      <div class="sub-section-line" style="color: #FDD45A;"></div>
+      <div class="sub-section-line" style="color: #B785DF;"></div>
   </div>
     <p>I considered making the website  just shades of blue/green that David likes, but I feel like it would be too boring. Also it would be difficult to get that layered effect with the mountains and trees with just one color scheme. A complementary color scheme would be much more interesting.</p>
     </div>
@@ -117,7 +114,7 @@ hero: "/img/spi/hero.png"
     <span class="section-number">03</span>
     <div class="section-name">
         <h2>Web<br/>Sections</h2>
-        <div class="section-line" style="color: #FDD45A; background: #FDD45A;"></div>
+        <div class="section-line" style="color: #B785DF; background: #B785DF;"></div>
     </div>
 </div>
 
@@ -125,7 +122,7 @@ hero: "/img/spi/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Landing<br/>Screen</h3>
-            <div class="sub-section-line" style="color: #FDD45A;"></div>
+            <div class="sub-section-line" style="color: #B785DF;"></div>
         </div>
         <p>Looking at sunsets, I noticed that you can sometimes see the stars at the top of the sky. I decided to incorporate that element into the landing page.</p>
     </div>

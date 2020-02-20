@@ -3,7 +3,7 @@ layout: project
 title: "Tactile Flux"
 category: Design Competition
 thumbnail: polar_bear.svg
-color: D18C69
+color: ECD05E
 order: 5
 hero: "/img/tactileflux/hero.png"
 
@@ -49,7 +49,7 @@ hero: "/img/tactileflux/hero.png"
             <span class="section-number">01</span>
             <div class="section-name">
                 <h2>Material<br/>Constraints</h2>
-                <div class="section-line" style="color: #D18C69; background: #D18C69;"></div>
+                <div class="section-line" style="color: #ECD05E; background: #ECD05E;"></div>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@ hero: "/img/tactileflux/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Envista<br/>Taperdeck<sup>TM</sup></h3>
-            <div class="sub-section-line" style="color: #D18C69;background: #D18C69;"></div>
+            <div class="sub-section-line" style="color: #ECD05E;background: #ECD05E;"></div>
         </div>
         <p>Our first step was to understand the angles that the Envista Taperdeck™️ allowed between panels. From that understanding, we developed a connection detail to hold each panel in place. </p>
     </div>
@@ -81,7 +81,7 @@ hero: "/img/tactileflux/hero.png"
     <span class="section-number">02</span>
     <div class="section-name">
         <h2>Physical<br/>Model</h2>
-        <div class="section-line" style="color: #D18C69; background: #D18C69;"></div>
+        <div class="section-line" style="color: #ECD05E; background: #ECD05E;"></div>
     </div>
 </div>
 
@@ -92,7 +92,7 @@ hero: "/img/tactileflux/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Model Making<br/>Method</h3>
-            <div class="sub-section-line" style="color: #D18C69; background: #D18C69;"></div>
+            <div class="sub-section-line" style="color: #ECD05E; background: #ECD05E;"></div>
         </div>
         <p>The physical model was made using 2- ply paper. A laser cutter was used to ensure accuracy of the panel dimensions and perforations. </p>
     </div>
@@ -110,7 +110,7 @@ hero: "/img/tactileflux/hero.png"
     <div class="right-column-text">
         <div class="sub-section-name">
             <h3>The<br/>Plinth</h3>
-            <div class="sub-section-line" style="color: #D18C69; background: #D18C69;"></div>
+            <div class="sub-section-line" style="color: #ECD05E; background: #ECD05E;"></div>
         </div>
         <p>A bench element acts as a plinth to the changing hut; anchoring it down to the site.</p>
     </div>
@@ -121,7 +121,7 @@ hero: "/img/tactileflux/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Perforation<br/>Pattern</h3>
-            <div class="sub-section-line" style="color: #D18C69; background: #D18C69;"></div>
+            <div class="sub-section-line" style="color: #ECD05E; background: #ECD05E;"></div>
         </div>
         <p>The perforation pattern was developed using the Grasshopper plugin for Rhino. Each panel was assigned a privacy value. At 1, the panel had no perforations. The lower the privacy level, the denser the perforation would be. Consequently, the changing room provides complete privacy, while the overhead canopy lets in light and air. </p>
     </div>
@@ -137,7 +137,7 @@ hero: "/img/tactileflux/hero.png"
     <span class="section-number">03</span>
     <div class="section-name">
         <h2>Stylized<br/>Drawings</h2>
-        <div class="section-line" style="color: #D18C69; background: #D18C69;"></div>
+        <div class="section-line" style="color: #ECD05E; background: #ECD05E;"></div>
     </div>
 </div>
 <img src="\img\tactileflux\planDrawing.svg" style="width:100%">
