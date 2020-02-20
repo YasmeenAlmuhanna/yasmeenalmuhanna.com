@@ -135,3 +135,26 @@ hero: "/img/davidbaker/hero.png"
         </div>
     </div>
 </div>
+
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>Skills</h3>
+            <div class="sub-section-line" style="color: #008465;"></div>
+        </div>
+        <p>I wanted to showcase David's skillset along the mountain section of the scene.</p>
+        <p>I am currently experimenting with a different ways in which the elevation markers can respond to each skill.</p>
+        <p>When the visitor hovers over a particular skill, he/she can gauge how proficient David is at the skill via how high the elevation mark would read.</p>
+    </div>
+    <div class="right-column-img">
+        <div>
+            <img src="/img/davidbaker/Skills.jpg" alt="Sketchbook">
+            <p class="caption right">Sketchbook</p>
+        </div>
+    </div>
+</div>
+
+<p>Below is a snapshot of the work-in-progress.</p>
+
+<img src="/img/davidbaker/digitalTranslation.png" alt="Snapshot" style="width:100%;">
+<p class="caption">Work-in-Progress Snapshot</p>
