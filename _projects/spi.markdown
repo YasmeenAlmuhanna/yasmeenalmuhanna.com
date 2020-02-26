@@ -15,7 +15,7 @@ hero: "/img/spi/hero.jpg"
       Project Type
     </div>
     <div class="metadata-value cell auto">
-      Web Design + Personal Branding
+      Logo + Stationary Design
     </div>
   </div>
   <div class="metadata-object cell grid-x">
