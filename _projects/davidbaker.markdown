@@ -4,7 +4,7 @@ title: "David M.</br>Baker"
 category: Web Design </br> (In Progress)
 thumbnail: david_baker.svg
 color: 008465
-order: 2
+order: 1
 hero: "/img/davidbaker/hero.png"
 
 ---
@@ -136,7 +136,7 @@ hero: "/img/davidbaker/hero.png"
 </div>
 
 <div class="columns">
-    <div class="right-column-text">
+    <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Skills</h3>
             <div class="sub-section-line" style="color: #008465;"></div>
