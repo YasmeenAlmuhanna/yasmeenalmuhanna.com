@@ -53,21 +53,21 @@ hero: "/img/projectionmapping/hero.png"
 </div>
 
 
-<pclass="body-copy">Unlike smartphones or wearable AR, projected AR experiences are site specific. The source of the projection in relation to the canvas and position of the viewer needs to be accounted for.</p>
+<p>Unlike smartphones or wearable AR, projected AR experiences are site specific. The source of the projection in relation to the canvas and position of the viewer needs to be accounted for.</p>
+<p>How do you project a rectangle on one of the sides of a cube? It would be easy when the projector is exactly in front of the target side.</p>
 
-<pclass="body-copy">How do you project a rectangle on one of the sides of a cube? It would be easy when the projector is exactly in front of the target side.</p>
+<img src="/img/projectionmapping/targetView.jpg" alt="point value system" style="width:100%;">
+<p class="caption">Point Value System</p>
 
-<img src="/img/projectionmapping/targetView.jpg" alt="target view">
+<p>If the projector is not directly in front of the canvas then we will quickly observe a keystone effect. Simply speaking the image will be distorted.</p>
 
-<pclass="body-copy">If the projector is not directly in front of the canvas then we will quickly observe a keystone effect. Simply speaking the image will be distorted.</p>
-
-<img src="/img/projectionmapping/keystone.jpg" alt="target view">
+<img src="/img/projectionmapping/keystone.jpg" alt="point value system" style="width:100%;">
 <p class="caption">Keystone Effect</p>
 
-<pclass="body-copy">To fix this, the vertices of the projected image are tweaked so that the projected image is distorted to look like the projector "sees" it; as demonstrated in the figure below.</p>
+<p>To fix this, the vertices of the projected image are tweaked so that the projected image is distorted to look like the projector "sees" it; as demonstrated in the figure below.</p>
 
-<img src="/img/projectionmapping/overcomingKeystone.jpg" alt="target view">
-<p class="caption">Keystone Effect</p>
+<img src="/img/projectionmapping/overcomingKeystone.jpg" alt="point value system" style="width:100%;">
+<p class="caption">Overcoming Keystone</p>
 
 <div class="section-header">
     <span class="section-number">02</span>
@@ -79,18 +79,18 @@ hero: "/img/projectionmapping/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/projectionmapping/iteration1.jpg" style="padding-bottom: 20px">
+        <img src="/img/projectionmapping/iteration1.jpg" style="width:40%;">
     </div>
     <div class="right-column-img">
-        <img src="/img/projectionmapping/iteration2.jpg">
+        <img src="/img/projectionmapping/iteration2.jpg" style="width:40%;">
     </div>
 </div>
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/projectionmapping/iteration3.jpg" style="padding-bottom: 20px">
+        <img src="/img/projectionmapping/iteration3.jpg" style="width:40%;">
     </div>
     <div class="right-column-img">
-        <img src="/img/projectionmapping/iteration4.jpg">
+        <img src="/img/projectionmapping/iteration4.jpg" style="width:40%;">
     </div>
 </div>
