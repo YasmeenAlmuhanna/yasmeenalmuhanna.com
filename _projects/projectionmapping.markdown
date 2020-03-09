@@ -19,7 +19,7 @@ hero: "/img/projectionmapping/hero.png"
       Spatial Augmented Reality
     </div>
   </div>
-
+</div>
 
 <div class="project-intro">
   <p>In this site-specific installation, a set of cubes where arranged along a corner of the room that acted as the 'canvas' for the projection.</p>
@@ -79,18 +79,18 @@ hero: "/img/projectionmapping/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/projectionmapping/iteration1.jpg" style="width:40%;">
+        <img src="/img/projectionmapping/iteration1.jpg" style="padding-right: 50px">
     </div>
     <div class="right-column-img">
-        <img src="/img/projectionmapping/iteration2.jpg" style="width:40%;">
+        <img src="/img/projectionmapping/iteration2.jpg" style="padding-left: 50px">
     </div>
 </div>
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/projectionmapping/iteration3.jpg" style="width:40%;">
+        <img src="/img/projectionmapping/iteration3.jpg" style="padding-right: 50px">
     </div>
     <div class="right-column-img">
-        <img src="/img/projectionmapping/iteration4.jpg" style="width:40%;">
+        <img src="/img/projectionmapping/iteration4.jpg" style="padding-left: 50px">
     </div>
 </div>
