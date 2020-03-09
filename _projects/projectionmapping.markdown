@@ -37,7 +37,6 @@ hero: "/img/projectionmapping/hero.png"
     </div>
 </div>
 
-
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name">
@@ -54,65 +53,44 @@ hero: "/img/projectionmapping/hero.png"
 </div>
 
 
-<p class="body-copy">Since the client had yet to hone in on a location, the configuration of the stations will have to come later. They can either line the middle of the space or attach to walls.</p>
+<pclass="body-copy">Unlike smartphones or wearable AR, projected AR experiences are site specific. The source of the projection in relation to the canvas and position of the viewer needs to be accounted for.</p>
 
+<pclass="body-copy">How do you project a rectangle on one of the sides of a cube? It would be easy when the projector is exactly in front of the target side.</p>
 
-<div class="columns">
-    <div class="left-column-text">
-        <div class="sub-section-name">
-            <h3>Station<br/>Layout</h3>
-            <div class="sub-section-line" style="color: #DC5656;"></div>
-        </div>
-        <p>Since the client wants a 'cross-fit' feel to the salon, I used the gym setting as inspiration. The floor treatment of the barber station echoes space markers in a traditional cross-fit gym. In an effort to draw on as much elements from the brand as possible, the floor treatment of the station is set at the same angle as the Fuel+ logo.</p>
-    </div>
-    <div class="right-column-img">
-        <img src="/img/fuelnutrition/crossFitInspo.svg" alt="Areas of Interest">
-    </div>
-</div>
+<img src="/img/projectionmapping/targetView.jpg" alt="target view">
 
-<div class="columns">
-    <div class="left-column-img">
-        <img src="/img/fuelnutrition/logoAngles.svg" style="padding-bottom: 20px">
-    </div>
-    <div class="right-column-img">
-        <img src="/img/fuelnutrition/stationplanfullopacity.svg">
-    </div>
-</div>
+<pclass="body-copy">If the projector is not directly in front of the canvas then we will quickly observe a keystone effect. Simply speaking the image will be distorted.</p>
 
-<p class="body-copy">Since the client had yet to hone in on a location, the configuration of the stations will have to come later. They can either line the middle of the space or attach to walls.</p>
-<br/>
+<img src="/img/projectionmapping/keystone.jpg" alt="target view">
+<p class="caption">Keystone Effect</p>
 
-<div class="columns">
-    <div class="reg-column">
-        <img src="/img/fuelnutrition/barber_station_wall.svg" alt="Barber Station Wall Setup Plan Line Drawing" style="width:100%;">
-    </div>
-    <div class="reg-column">
-        <img src="/img/fuelnutrition/barber_station_center.svg" alt="Barber Station Center Setup Plan Line Drawing" style="width:100%;">
-    </div>
-</div>
+<pclass="body-copy">To fix this, the vertices of the projected image are tweaked so that the projected image is distorted to look like the projector "sees" it; as demonstrated in the figure below.</p>
+
+<img src="/img/projectionmapping/overcomingKeystone.jpg" alt="target view">
+<p class="caption">Keystone Effect</p>
 
 <div class="section-header">
     <span class="section-number">02</span>
     <div class="section-name">
-        <h2>Business<br/>Strategies</h2>
+        <h2>Iterative<br/>Projections</h2>
         <div class="section-line" style="color: #DC5656; background: #DC5656;"></div>
     </div>
 </div>
 
 <div class="columns">
-    <div class="left-column-text">
-        <div class="sub-section-name">
-            <h3>Social Media<br/>Movement</h3>
-            <div class="sub-section-line" style="color: #DC5656;"></div>
-        </div>
-        <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
+    <div class="left-column-img">
+        <img src="/img/projectionmapping/iteration1.jpg" style="padding-bottom: 20px">
     </div>
     <div class="right-column-img">
-        <div>
-            <img src="/img/fuelnutrition/socialmedia_moment.png" alt="Social Media Moment Inspiration">
-            <p class="caption">Inspiration from Nashville's WhatLiftsYou wings mural.</p>
-        </div>
+        <img src="/img/projectionmapping/iteration2.jpg">
     </div>
 </div>
 
-<img src="/img/fuelnutrition/hero.png" alt="Final Hero Render">
+<div class="columns">
+    <div class="left-column-img">
+        <img src="/img/projectionmapping/iteration3.jpg" style="padding-bottom: 20px">
+    </div>
+    <div class="right-column-img">
+        <img src="/img/projectionmapping/iteration4.jpg">
+    </div>
+</div>
