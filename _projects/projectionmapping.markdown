@@ -1,12 +1,12 @@
 ---
 layout: project
-title: "Fuel</br>Nutrition Group"
+title: "Projection</br>Mapping"
 date: 2019-02-22
 category: UX + Spatial Design
-thumbnail: fuel_nutrition.svg
-color: F87A3B
-order: 4
-hero: "/img/fuelnutrition/hero.png"
+thumbnail: projection_mapping.svg
+color: DC5656
+order: 5
+hero: "/img/projectionmapping/hero.png"
 
 ---
 
@@ -16,23 +16,14 @@ hero: "/img/fuelnutrition/hero.png"
       Project Type
     </div>
     <div class="metadata-value cell auto">
-      Design + Business Consulting
+      Spatial Augmented Reality
     </div>
   </div>
-  <div class="metadata-object cell grid-x">
-    <div class="metadata-title cell small-4">
-      Company
-    </div>
-    <div class="metadata-value cell auto">
-      <a href="http://fuelplusco.com/"  style="color:white" target="_blank">Fuel Nutrition Group</a>
-    </div>
-  </div>
-</div>
 
 
 <div class="project-intro">
-  <p>Fuel Nutrition is a sports supplement store specifically targeted for young men. The client was looking to expand his business by opening up a flagship salon operating under the same brand and reached out to me for help on putting together an interior design concept for the salon.</p>
-  <p>The project ended up evolving to include a set of business and marketing strategies in order to strengthen the brand's image and increase business.</p>
+  <p>In this site-specific installation, a set of cubes where arranged along a corner of the room that acted as the 'canvas' for the projection.</p>
+  <p>I designed and coded a choreographed sequence with Processing.</p>
 </div>
 
 
@@ -41,55 +32,36 @@ hero: "/img/fuelnutrition/hero.png"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>Design<br/>Recommendations</h2>
-        <div class="section-line" style="color: #F87A3B; background: #F87A3B;"></div>
+        <h2>Project<br/>Considerations</h2>
+        <div class="section-line" style="color: #DC5656; background: #DC5656;"></div>
     </div>
 </div>
-
-<img src="/img/fuelnutrition/material_board.png" alt="Barber Station Elevation Line Drawing" style="width:100%;">
 
 
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name">
-            <h3>The First<br/>Impression</h3>
-            <div class="sub-section-line" style="color: #F87A3B;"></div>
+            <h3>Point Value<br/>System</h3>
+            <div class="sub-section-line" style="color: #DC5656;"></div>
         </div>
-        <p>The client and I agreed that customers' first interaction with the space will be through the reception - waiting room and fuel bar. Material consistency should to be maintained within the spaces. Visual and functional connectivity between those 3 spaces would be advantageous for product sales.</p>
+        <p>Each of the regular and irregular faces on the model is  assigned a point value system which is then used within the processing interface.</p>
     </div>
     <div class="right-column-img">
         <div>
-            <img src="/img/fuelnutrition/trinity.png" alt="Areas of Interest">
+            <img src="/img/projectionmapping/onePointValueSystem.jpg" alt="point value system">
         </div>
     </div>
 </div>
 
-<div class="columns">
-    <div class="left-column-img">
-        <div>
-            <img src="/img/fuelnutrition/concept.png" alt="Concept Inspiration">
-            <p class="caption">Conceptual Inspiration</p>
-        </div>
-    </div>
-    <div class="right-column-text">
-        <div class="sub-section-name">
-            <h3>Barber<br/>Station</h3>
-            <div class="sub-section-line" style="color: #F87A3B;"></div>
-        </div>
-        <p>Barber station's look will mimic utility gym shelving. Potential to use reclaimed gym materials to build the stations. After researching dimensional requirements for salons I drafted a potential configuration. </p>
-    </div>
-</div>
 
-<img src="/img/fuelnutrition/barber_station_elevation.svg" alt="Barber Station Elevation Line Drawing" style="width:100%;">
-<p class="caption">Barber Station Interior Elevation</p>
-<img src="/img/fuelnutrition/barber_station_plan.svg" alt="Barber Station Plan Line Drawing" style="width:100%;">
-<p class="caption">Barber Station Plan</p>
+<p class="body-copy">Since the client had yet to hone in on a location, the configuration of the stations will have to come later. They can either line the middle of the space or attach to walls.</p>
+
 
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Station<br/>Layout</h3>
-            <div class="sub-section-line" style="color: #F87A3B;"></div>
+            <div class="sub-section-line" style="color: #DC5656;"></div>
         </div>
         <p>Since the client wants a 'cross-fit' feel to the salon, I used the gym setting as inspiration. The floor treatment of the barber station echoes space markers in a traditional cross-fit gym. In an effort to draw on as much elements from the brand as possible, the floor treatment of the station is set at the same angle as the Fuel+ logo.</p>
     </div>
@@ -123,7 +95,7 @@ hero: "/img/fuelnutrition/hero.png"
     <span class="section-number">02</span>
     <div class="section-name">
         <h2>Business<br/>Strategies</h2>
-        <div class="section-line" style="color: #F87A3B; background: #F87A3B;"></div>
+        <div class="section-line" style="color: #DC5656; background: #DC5656;"></div>
     </div>
 </div>
 
@@ -131,7 +103,7 @@ hero: "/img/fuelnutrition/hero.png"
     <div class="left-column-text">
         <div class="sub-section-name">
             <h3>Social Media<br/>Movement</h3>
-            <div class="sub-section-line" style="color: #F87A3B;"></div>
+            <div class="sub-section-line" style="color: #DC5656;"></div>
         </div>
         <p>At the moment, Fuel Nutrition's biggest brand asset is the owner himself. Given how active he is as an 'influencer', I suggested that he incorporated a 'social media' moment in his salon that would encourage people to post a picture at the location. He could hire a local artist to create that moment and invite people to the event to get his brand name out.</p>
     </div>
