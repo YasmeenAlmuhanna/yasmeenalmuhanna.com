@@ -79,18 +79,18 @@ hero: "/img/projectionmapping/hero.png"
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/projectionmapping/iteration1.jpg" style="padding-right: 50px">
+        <img src="/img/projectionmapping/iteration1.jpg" style="padding-right: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/projectionmapping/iteration2.jpg" style="padding-left: 50px">
+        <img src="/img/projectionmapping/iteration2.jpg" style="padding-left: 20px">
     </div>
 </div>
 
 <div class="columns">
     <div class="left-column-img">
-        <img src="/img/projectionmapping/iteration3.jpg" style="padding-right: 50px">
+        <img src="/img/projectionmapping/iteration3.jpg" style="padding-right: 20px">
     </div>
     <div class="right-column-img">
-        <img src="/img/projectionmapping/iteration4.jpg" style="padding-left: 50px">
+        <img src="/img/projectionmapping/iteration4.jpg" style="padding-left: 20px">
     </div>
 </div>
