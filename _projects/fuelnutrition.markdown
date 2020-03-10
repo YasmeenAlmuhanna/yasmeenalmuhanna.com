@@ -5,7 +5,7 @@ date: 2019-02-22
 category: UX + Spatial Design
 thumbnail: fuel_nutrition.svg
 color: F87A3B
-order: 4
+order: 2
 hero: "/img/fuelnutrition/hero.png"
 
 ---
