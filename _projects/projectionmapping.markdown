@@ -2,7 +2,7 @@
 layout: project
 title: "Projection</br>Mapping"
 date: 2019-02-22
-category: UX + Spatial Design
+category: Spatial Augmented Reality
 thumbnail: projection_mapping.svg
 color: DC5656
 order: 5
