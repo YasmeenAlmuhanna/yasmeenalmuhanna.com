@@ -2,7 +2,7 @@
 layout: project
 title: "Fuel</br>Nutrition Group"
 date: 2019-02-22
-category: UX + Spatial Design
+category: User Experience Design
 thumbnail: fuel_nutrition.svg
 color: F87A3B
 order: 2
@@ -16,7 +16,7 @@ hero: "/img/fuelnutrition/hero.png"
       Project Type
     </div>
     <div class="metadata-value cell auto">
-      Design + Business Consulting
+      User Experience Consultation
     </div>
   </div>
   <div class="metadata-object cell grid-x">
