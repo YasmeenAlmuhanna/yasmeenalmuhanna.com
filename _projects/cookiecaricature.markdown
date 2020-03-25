@@ -110,4 +110,4 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
 </div>
 
-<img src="/img/cookiecaricatures/duo.jpg" alt="baked cookies" style="width:100%;">
+<img src="/img/cookiecaricatures/bakedcookies.jpg" alt="baked cookies" style="width:75%;">
