@@ -108,6 +108,7 @@ hero: "/img/cookiecaricatures/hero.png"
     <div class="right-column-img img-padding">
         <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
     </div>
+    <img src="/img/cookiecaricatures/bakedcookies.jpg" alt="baked cookies" style="width:75%;">  
 </div>
 
 <img src="/img/cookiecaricatures/bakedcookies.jpg" alt="baked cookies" style="width:75%;">
