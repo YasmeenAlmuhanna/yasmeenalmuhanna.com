@@ -49,7 +49,7 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
 </div>
 
-<img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:75%;">
+<img src="/img/cookiecaricatures/thepoliticianslines.svg" alt="politicians line drawings" style="width:100%;">
 
 <div class="columns">
   <div class="left-column-img">
@@ -98,7 +98,6 @@ hero: "/img/cookiecaricatures/hero.png"
     </div>
 </div>
 
-
 <img src="/img/cookiecaricatures/rhinoprocess.png" alt="Rhino Process" style="width:100%;">
 
 <div class="columns">
@@ -108,7 +107,6 @@ hero: "/img/cookiecaricatures/hero.png"
     <div class="right-column-img img-padding">
         <img src="/img/cookiecaricatures/printedhilary.svg" style="padding-bottom: 20px">
     </div>
-    <img src="/img/cookiecaricatures/bakedcookies.jpg" alt="baked cookies" style="width:75%;">  
 </div>
 
-<img src="/img/cookiecaricatures/bakedcookies.jpg" alt="baked cookies" style="width:75%;">
+<img src="/img/cookiecaricatures/bakedcookies.jpg" alt="baked cookies" style="width:100%;">
