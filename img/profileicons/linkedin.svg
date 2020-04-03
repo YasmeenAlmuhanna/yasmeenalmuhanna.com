@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 432 431.2" style="enable-background:new 0 0 432 431.2;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#454D59;}
-</style>
-<g>
-	<path class="st0" d="M432,273.3v157.9h-89.4v-140c0-33.4-0.7-76.3-46.6-76.3c-46.5,0-53.6,36.4-53.6,74v142.4h-89.5v-288h85.9v39.5
-		h1.2c12-22.7,41.1-46.5,84.6-46.5C415.2,136.1,432,195.7,432,273.3z"/>
-	<rect x="7.2" y="143.2" class="st0" width="89.5" height="288"/>
-	<path class="st0" d="M103.8,52c0,28.6-23.2,51.9-52,51.9C23.2,103.8,0,80.6,0,52C0,23.2,23.2,0,51.9,0S103.8,23.2,103.8,52z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 432 432" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M432,273.3L432,431.2L342.6,431.2L342.6,291.2C342.6,257.8 341.9,214.9 296,214.9C249.5,214.9 242.4,251.3 242.4,288.9L242.4,431.3L152.9,431.3L152.9,143.3L238.8,143.3L238.8,182.8L240,182.8C252,160.1 281.1,136.3 324.6,136.3C415.2,136.1 432,195.7 432,273.3Z" style="fill:white;fill-rule:nonzero;"/>
+    <rect x="7.2" y="143.2" width="89.5" height="288" style="fill:white;"/>
+    <path d="M103.8,52C103.8,80.6 80.6,103.9 51.8,103.9C23.2,103.8 0,80.6 0,52C0,23.2 23.2,0 51.9,0C80.6,0 103.8,23.2 103.8,52Z" style="fill:white;fill-rule:nonzero;"/>
 </svg>
