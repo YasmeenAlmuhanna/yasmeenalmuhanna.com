@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: "Al Dente"
 category: UX Case Study
@@ -7,7 +7,7 @@ color: EDC700
 order: 2
 hero: "/img/aldente/hero.png"
 
----
+--- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
@@ -56,7 +56,7 @@ hero: "/img/aldente/hero.png"
     </div>
 </div>
 
-<img src="/img/aldente/horizontalinfogrid.png" alt="feedingamerica.org" style="padding-bottom: 100px" style="padding-left: 20px" style="padding-right: 20px" style="width:100%;">
+<img src="/img/aldente/horizontalinfogrid.png" alt="feedingamerica.org" style="padding-bottom: 20px" style="padding-left: 20px" style="padding-right: 20px" style="width:100%;">
 
 
 <p>The goal of this project was to design a hands free application that would help users find recipes that use up the ingredients they already have at home and reduce food waste.</p>
@@ -93,14 +93,3 @@ hero: "/img/aldente/hero.png"
         </div>
     </div>
 </div>
-
-<div class="section-header">
-    <span class="section-number">03</span>
-    <div class="section-name">
-        <h2><br/>Process</h2>
-        <div class="section-line" style="color: #EDC700; background: #EDC700;"></div>
-    </div>
-</div>
-
-<img src="/img/aldente/sketches1.jpg" alt="process sketches" style="padding-bottom: 100px" style="width:100%;">
-<img src="/img/aldente/sketches2.jpg" alt="process sketches" style="width:100%;">

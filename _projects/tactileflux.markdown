@@ -3,7 +3,7 @@ layout: project
 title: "Tactile Flux"
 category: Design Competition
 thumbnail: polar_bear.svg
-color: #add8e6
+color: add8e6
 order: 4
 hero: "/img/tactileflux/hero.png"
 
