@@ -5,7 +5,7 @@ category: Web Design </br> (In Progress)
 thumbnail: david_baker.svg
 color: 008465
 order: 1
-hero: "/img/davidbaker/hero.png"
+hero: "/img/adcasestudy/hero.png"
 
 ---
 
