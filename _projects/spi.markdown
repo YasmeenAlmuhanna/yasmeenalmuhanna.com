@@ -4,7 +4,7 @@ title: "Sun Pain</br>Institute"
 category: Logo + Stationary Design
 thumbnail: spi.svg
 color: C9AFDE
-order: 4
+order: 5
 hero: "/img/spi/hero.jpg"
 
 ---

@@ -5,7 +5,7 @@ date: 2019-02-22
 category: Spatial Augmented Reality
 thumbnail: projection_mapping.svg
 color: DC5656
-order: 5
+order: 6
 hero: "/img/projectionmapping/hero.png"
 
 ---
