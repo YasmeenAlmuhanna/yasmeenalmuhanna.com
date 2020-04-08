@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: "Al Dente"
 category: UX Case Study
@@ -7,7 +7,7 @@ color: EDC700
 order: 2
 hero: "/img/adcasestudy/hero.png"
 
----
+--- -->
 
 <div class="project-metadata grid-x">
   <div class="metadata-object cell grid-x">
