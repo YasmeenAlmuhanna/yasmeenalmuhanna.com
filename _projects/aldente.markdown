@@ -57,4 +57,20 @@ hero: "/img/aldente/hero.png"
     </div>
 </div>
 
-<img src="/img/aldente/horizontalinfogrid.svg" alt="source:feedingamerica.org" style="width:100%;">
+<img src="/img/aldente/horizontalinfogrid.svg" alt="feedingamerica.org" style="width:100%;">
+<p class="caption">source: feedingamerica.org</p>
+
+<p>The goal of this project was to design a hands free application that would help users find recipes that use up the ingredients they already have at home and reduce food waste.</p>
+
+<img src="/img/aldente/animationa.gif" alt="animated" style="width:100%;">
+<p class="caption">Al Dente recipe preview</p>
+
+<div class="section-header">
+    <span class="section-number">02</span>
+    <div class="section-name">
+        <h2>Research</h2>
+        <div class="section-line" style="color: #EDC700; background: #EDC700;"></div>
+    </div>
+</div>
+
+<p>To further understand the problem I decided to start with a heuristic evaluation of current applications that offer similar services.</p>
