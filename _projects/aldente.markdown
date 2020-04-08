@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Al Dente"
-date: 2019-02-22
 category: UX Case Study
 thumbnail: aldente.svg
 color: EDC700
