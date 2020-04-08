@@ -56,7 +56,7 @@ hero: "/img/aldente/hero.png"
     </div>
 </div>
 
-<img src="/img/aldente/horizontalinfogrid.png" alt="feedingamerica.org" style="padding-bottom: 20px" style="padding-left: 20px" style="padding-right: 20px" style="width:100%;">
+<img src="/img/aldente/horizontalinfogrid.png" alt="feedingamerica.org" style="padding-bottom: 100px" style="padding-left: 20px" style="padding-right: 20px" style="width:100%;">
 
 
 <p>The goal of this project was to design a hands free application that would help users find recipes that use up the ingredients they already have at home and reduce food waste.</p>
@@ -102,5 +102,5 @@ hero: "/img/aldente/hero.png"
     </div>
 </div>
 
-<img src="/img/aldente/sketches1.jpg" alt="process sketches" style="width:100%;">
+<img src="/img/aldente/sketches1.jpg" alt="process sketches" style="padding-bottom: 100px" style="width:100%;">
 <img src="/img/aldente/sketches2.jpg" alt="process sketches" style="width:100%;">
