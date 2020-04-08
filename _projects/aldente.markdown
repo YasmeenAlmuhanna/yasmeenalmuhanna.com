@@ -55,9 +55,10 @@ hero: "/img/aldente/hero.png"
             <img src="/img/aldente/infogridcolored.svg" alt="feedingamerica.org">
         </div>
     </div>
-<img src="/img/aldente/horizontalinfogrid.svg" alt="feedingamerica.org" style="width:100%;">
-<p class="caption">source: feedingamerica.org</p>
 </div>
+
+<img src="/img/aldente/horizontalinfogrid.png" alt="feedingamerica.org" style="width:100%;">
+
 
 <p>The goal of this project was to design a hands free application that would help users find recipes that use up the ingredients they already have at home and reduce food waste.</p>
 
@@ -76,3 +77,20 @@ hero: "/img/aldente/hero.png"
 
 <img src="/img/aldente/bwresearchwebapps.jpg" alt="webapps" style="width:100%;">
 <img src="/img/aldente/bwresearchmobileapps.jpg" alt="webapps" style="width:100%;">
+<p class="caption">Web and mobile apps offering similar solutions</p>
+
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3><br/>Functionality</h3>
+            <div class="sub-section-line" style="color: #EDC700;"></div>
+        </div>
+        <p>A common thread of complaints was that there was a cap to the number of ingredients the user can enter. In addition, the applications seemed to only accept broad, commonly used items and lacked the capability to accept specialty ingredients.
+        </p>
+    </div>
+    <div class="right-column-img">
+        <div>
+            <img src="/img/aldente/mobilereviews.png" alt="reviews">
+        </div>
+    </div>
+</div>
