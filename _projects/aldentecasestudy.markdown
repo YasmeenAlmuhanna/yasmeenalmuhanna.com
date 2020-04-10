@@ -107,7 +107,7 @@ hero: "/img/aldentecasestudy/hero.png"
 <div class="columns">
     <div class="left-column-img">
         <div>
-            <img src="/img/aldentecasestudy/paperfar.jpg" alt="contectual reference">
+            <img src="/img/aldentecasestudy/paperfar.jpg" alt="contextual reference">
             <p class="caption">Contextual Testing</p>
         </div>
     </div>
@@ -121,5 +121,5 @@ hero: "/img/aldentecasestudy/hero.png"
     </div>
 </div>
 
-<img src="/img/aldentecasestudy/paperfar.jpg" alt="instruction iterations" style="width:100%;">
+<img src="/img/aldentecasestudy/paperoptions.jpg" alt="instruction iterations" style="width:100%;">
 <p class="caption">Testing different sizes and  layouts for recipe instructions</p>
