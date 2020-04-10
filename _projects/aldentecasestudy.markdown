@@ -107,7 +107,7 @@ hero: "/img/aldentecasestudy/hero.png"
 <div class="columns">
     <div class="left-column-img">
         <div>
-            <img src="/img/aldentecasestudy/paperfar.jpg" alt="contextual reference">
+            <img src="/img/aldentecasestudy/paperfar.png" alt="contextual reference">
             <p class="caption">Contextual Testing</p>
         </div>
     </div>
