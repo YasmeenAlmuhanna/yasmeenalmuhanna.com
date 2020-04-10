@@ -95,3 +95,30 @@ hero: "/img/aldentecasestudy/hero.png"
         </div>
     </div>
 </div>
+
+<div class="section-header">
+    <span class="section-number">02</span>
+    <div class="section-name">
+        <h2><br/>Process</h2>
+        <div class="section-line" style="color: #EDC700; background: #EDC700;"></div>
+    </div>
+</div>
+
+<div class="columns">
+    <div class="left-column-img">
+        <div>
+            <img src="/img/aldentecasestudy/paperfar.jpg" alt="Concept Inspiration">
+            <p class="caption">Contextual Testing</p>
+        </div>
+    </div>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>Testing out optimal font<br/>size and layout</h3>
+            <div class="sub-section-line" style="color: #EDC700;"></div>
+        </div>
+        <p>In order to determine the right size and layout for the recipe instructions I printed out my iterations.</p>
+        <p>I then carefully taped the cards to a Google Home Hub display and had users walked around the kitchen to test the legibility and give me feedback.</p>
+    </div>
+</div>
+
+<img src="/img/aldentecasestudy/paperoptions.jpg" alt="instruction iterations" style="width:100%;">
