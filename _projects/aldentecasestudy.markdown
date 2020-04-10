@@ -117,7 +117,7 @@ hero: "/img/aldentecasestudy/hero.png"
             <div class="sub-section-line" style="color: #EDC700;"></div>
         </div>
         <p>In order to determine the right size and layout for the recipe instructions I printed out my iterations.</p>
-        <p>I then carefully taped the cards to a Google Home Hub display and had users walked around the kitchen to test the legibility and give me feedback.</p>
+        <p>I then carefully taped the cards to a Google Home Hub display and had my users walk around the kitchen to test the legibility and give me feedback.</p>
     </div>
 </div>
 
