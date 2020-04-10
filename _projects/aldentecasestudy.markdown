@@ -61,6 +61,8 @@ hero: "/img/aldentecasestudy/hero.png"
 
 <p>The goal of this project was to design a hands free application that would help users find recipes that use up the ingredients they already have at home and reduce food waste.</p>
 
+<img src="/img/aldentecasestudy/howmanyrecipies.jpg" alt="animated" style="width:100%;">
+
 <img src="/img/aldentecasestudy/animationa.gif" alt="animated" style="width:100%;">
 <p class="caption">Al Dente recipe preview</p>
 
