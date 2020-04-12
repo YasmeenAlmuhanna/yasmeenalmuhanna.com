@@ -123,3 +123,9 @@ hero: "/img/aldentecasestudy/hero.png"
 
 <img src="/img/aldentecasestudy/paperoptions.jpg" alt="instruction iterations" style="width:100%;">
 <p class="caption">Testing different sizes and  layouts for recipe instructions</p>
+
+<p>Before the high def wireframes, I had sketched out low def wireframes shown below. Due to the restrictions on how one would use the google hub, the ability to integrate a phone app was taken into consideration, especially when it comes to adding ingredients onto the application's inventory.</p>
+
+<img src="/img/aldentecasestudy/sketches1.jpg" alt="mobile wireframe sketches" style="width:100%;">
+
+<img src="/img/aldentecasestudy/sketches2.jpg" alt="initial sketches" style="width:100%;">
