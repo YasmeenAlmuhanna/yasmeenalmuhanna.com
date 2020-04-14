@@ -127,5 +127,13 @@ hero: "/img/aldentecasestudy/hero.png"
 <p>Before the high def wireframes, I had sketched out low def wireframes shown below. Due to the restrictions on how one would use the google hub, the ability to integrate a phone app was taken into consideration, especially when it comes to adding ingredients onto the application's inventory.</p>
 
 <img src="/img/aldentecasestudy/sketches1.jpg" alt="mobile wireframe sketches" style="width:100%;">
-
 <img src="/img/aldentecasestudy/sketches2.jpg" alt="initial sketches" style="width:100%;">
+
+<div class="columns">
+    <div class="reg-column">
+        <img src="/img/aldentecasestudy/lunchanimationloop.gif" alt="animation" style="width:100%;">
+    </div>
+    <div class="reg-column">
+        <img src="/img/aldentecasestudy/58recipiesanimation.gif" alt="animation" style="width:100%;">
+    </div>
+</div>
