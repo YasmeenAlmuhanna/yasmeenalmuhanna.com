@@ -130,10 +130,10 @@ hero: "/img/aldentecasestudy/hero.png"
 <img src="/img/aldentecasestudy/sketches2.jpg" alt="initial sketches" style="width:100%;">
 
 <div class="columns">
-    <div class="reg-column">
-        <img src="/img/aldentecasestudy/lunchanimationloop.gif" alt="animation" style="width:100%;">
+    <div class="left-column-img img-padding">
+        <img src="/img/aldentecasestudy/lunchanimationloop.gif" style="padding-bottom: 20px">
     </div>
-    <div class="reg-column">
-        <img src="/img/aldentecasestudy/58recipiesanimation.gif" alt="animation" style="width:100%;">
+    <div class="right-column-img img-padding">
+        <img src="/img/aldentecasestudy/58recipiesanimation.gif" style="padding-bottom: 20px">
     </div>
 </div>
