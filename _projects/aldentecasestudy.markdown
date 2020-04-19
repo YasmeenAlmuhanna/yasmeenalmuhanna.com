@@ -69,6 +69,32 @@ hero: "/img/aldentecasestudy/hero.png"
 <div class="section-header">
     <span class="section-number">02</span>
     <div class="section-name">
+        <h2>Conversation<br/>Modeling</h2>
+        <div class="section-line" style="color: #EDC700; background: #EDC700;"></div>
+    </div>
+</div>
+
+<div class="columns">
+    <div class="left-column-img">
+        <div>
+            <img src="/img/aldentecasestudy/conversationSketch.png" alt="Conversation Sketch">
+        </div>
+    </div>
+    <div class="right-column-text">
+        <div class="sub-section-name">
+            <h3>The<br/>'Happy Flow'</h3>
+            <div class="sub-section-line" style="color: #EDC700;"></div>
+        </div>
+        <p>I first modeled a complete conversation for the ‘happy paths’, e.i., the paths in which the user reaches the ideal outcome in the least number of steps.<br/>
+        This step also helped me determine variables required from the user to fulfill the request.</p>
+    </div>
+</div>
+
+<img src="/img/aldentecasestudy/userflow1.png" alt="webapps" style="width:100%;">
+
+<div class="section-header">
+    <span class="section-number">03</span>
+    <div class="section-name">
         <h2><br/>Research</h2>
         <div class="section-line" style="color: #EDC700; background: #EDC700;"></div>
     </div>
@@ -126,7 +152,7 @@ hero: "/img/aldentecasestudy/hero.png"
 
 <p>Before the high def wireframes, I had sketched out low def wireframes shown below. Due to the restrictions on how one would use the google hub, the ability to integrate a phone app was taken into consideration, especially when it comes to adding ingredients onto the application's inventory.</p>
 
-<img src="/img/aldentecasestudy/sketches1.jpg" alt="mobile wireframe sketches" style="padding-bottom: 200px" style="width:100%;">
+<img src="/img/aldentecasestudy/sketches1.jpg" alt="mobile wireframe sketches" style="padding-bottom: 20px" style="width:100%;">
 <img src="/img/aldentecasestudy/sketches2.jpg" alt="initial sketches" style="width:100%;">
 
 <div class="columns">
