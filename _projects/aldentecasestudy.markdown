@@ -91,6 +91,7 @@ hero: "/img/aldentecasestudy/hero.png"
 </div>
 
 <img src="/img/aldentecasestudy/userflow1.png" alt="webapps" style="width:100%;">
+<img src="/img/aldentecasestudy/userflow2.png" alt="webapps" style="width:100%;">
 
 <div class="section-header">
     <span class="section-number">03</span>
