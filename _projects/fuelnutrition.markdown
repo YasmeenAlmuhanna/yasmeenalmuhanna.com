@@ -127,7 +127,7 @@ hero: "/img/fuelnutrition/hero.png"
     </div>
 </div>
 
-<img src="/img/fuelnutrition/customerjourneymap.jpg" alt="customerjourneymap" style="width:100%;">
+<img src="/img/fuelnutrition/cjm.png" alt="customerjourneymap" style="width:100%;">
 <p class="caption">Customer Journey Map</p>
 
 <div class="columns">
