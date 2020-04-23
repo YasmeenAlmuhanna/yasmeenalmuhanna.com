@@ -181,6 +181,3 @@ hero: "/img/aldentecasestudy/hero.png"
         <img src="/img/aldentecasestudy/58recipiesanimation.gif" style="padding-bottom: 20px">
     </div>
 </div>
-
-<img src="/img/aldentecasestudy/figmaprocess1.svg" alt="figma process" style="width:100%;">
-<p class="caption">Iterative Digital Process</p>
