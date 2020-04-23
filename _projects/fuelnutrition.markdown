@@ -127,6 +127,9 @@ hero: "/img/fuelnutrition/hero.png"
     </div>
 </div>
 
+<img src="/img/fuelnutrition/customerjourneymap.png" alt="Barber Station Elevation Line Drawing" style="width:100%;">
+<p class="caption">Customer Journey Map</p>
+
 <div class="columns">
     <div class="left-column-text">
         <div class="sub-section-name">
