@@ -155,6 +155,22 @@ hero: "/img/aldentecasestudy/hero.png"
 
 <img src="/img/aldentecasestudy/sketches1.jpg" alt="mobile wireframe sketches" style="width:100%;">
 
+<div class="columns">
+    <div class="left-column-text">
+        <div class="sub-section-name">
+            <h3>High-Fidelity<br/>Mobile Wireframe</h3>
+            <div class="sub-section-line" style="color: #EDC700;"></div>
+        </div>
+        <p>Mobile was not studied as thoroughly as the Google-hub interface, but I developed key screens to demonstrate the integration of the app with the home device.
+        </p>
+    </div>
+    <div class="right-column-img">
+        <div>
+            <img src="/img/aldentecasestudy/highdefmobile.png" alt="reviews">
+        </div>
+    </div>
+</div>
+
 <img src="/img/aldentecasestudy/sketches2.jpg" alt="initial sketches" style="width:100%;">
 
 <div class="columns">
