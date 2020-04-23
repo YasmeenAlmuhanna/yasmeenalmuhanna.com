@@ -182,5 +182,5 @@ hero: "/img/aldentecasestudy/hero.png"
     </div>
 </div>
 
-<img src="/img/aldentecasestudy/figmaprocess.jpg" alt="figma process" style="width:100%;">
+<img src="/img/aldentecasestudy/figmaprocess1.svg" alt="figma process" style="width:100%;">
 <p class="caption">Iterative Digital Process</p>
