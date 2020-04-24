@@ -181,3 +181,5 @@ hero: "/img/aldentecasestudy/hero.png"
         <img src="/img/aldentecasestudy/58recipiesanimation.gif" style="padding-bottom: 20px">
     </div>
 </div>
+
+<img src="/img/aldentecasestudy/figmaprocess.jpg" alt="figma process" style="width:100%;">
