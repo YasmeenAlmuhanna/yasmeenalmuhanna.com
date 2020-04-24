@@ -80,7 +80,7 @@ hero: "/img/fuelnutrition/hero.png"
     </div>
 </div>
 
-<p At the start of this project the owner had chosen all-inclusive barber stations + chairs to be ordered in from a European manufacturer. The stations, while extremely nice, where extremely expensive.</p>
+<p class="body-copy"> At the start of this project the owner had chosen all-inclusive barber stations + chairs to be ordered in from a European manufacturer. The stations, while extremely nice, where extremely expensive.</p>
 <p I found out that my client had previously commissioned a metal fabricator to put together his container-store protein shop. I suggested that we utilize his skillset again and use reclaimed gym utility shelving and squat racks to construct the barber stations. I put together some concept drawings and worked on the details with the fabricator and we managed to slash each station's cost by 30%. </p>
 <br/>
 
@@ -130,6 +130,10 @@ hero: "/img/fuelnutrition/hero.png"
         <div class="section-line" style="color: #F87A3B; background: #F87A3B;"></div>
     </div>
 </div>
+
+<p class="body-copy">In preparation for running Fuel Nutrition's new salon, the client had taken up a managerial position at a well-established luxury salon to learn the inner workings of how to run such an establishment. I requested that I shadow him for 2 days and interviewed the customers in order to identify pain points and opportunities.
+Below is a customer journey map I created from my findings. </p>
+<br/>
 
 <img src="/img/fuelnutrition/cjm.png" alt="customerjourneymap" style="width:100%;">
 <p class="caption">Customer Journey Map</p>
