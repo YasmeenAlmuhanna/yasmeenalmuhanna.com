@@ -80,9 +80,8 @@ hero: "/img/fuelnutrition/hero.png"
     </div>
 </div>
 
-<p class="body-copy"> At the start of this project the owner had chosen all-inclusive barber stations + chairs to be ordered in from a European manufacturer. The stations, while extremely nice, where extremely expensive.</p>
-<p I found out that my client had previously commissioned a metal fabricator to put together his container-store protein shop. I suggested that we utilize his skillset again and use reclaimed gym utility shelving and squat racks to construct the barber stations. I put together some concept drawings and worked on the details with the fabricator and we managed to slash each station's cost by 30%. </p>
-<br/>
+<p class="body-copy"> At the start of this project the owner had chosen all-inclusive barber stations + chairs to be ordered in from a European manufacturer. The stations, while extremely nice, where extremely expensive.<br/>
+I found out that my client had previously commissioned a metal fabricator to put together his container-store protein shop. I suggested that we utilize his skillset again and use reclaimed gym utility shelving and squat racks to construct the barber stations. I put together some concept drawings and worked on the details with the fabricator and we managed to slash each station's cost by 30%. </p>
 
 <img src="/img/fuelnutrition/barber_station_elevation.svg" alt="Barber Station Elevation Line Drawing" style="width:100%;">
 <p class="caption">Barber Station Interior Elevation</p>
