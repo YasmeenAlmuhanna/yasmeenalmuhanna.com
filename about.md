@@ -14,7 +14,7 @@ permalink: /about/
     </p>
     <p>My play is every bit as diverse as my work.  When I'm not busy with projects I like to keep busy rock climbing, baking, gardening, and all manner of fun with friends!  I like to challenge myself and am constantly expanding my comfort zone to include new activities like bungee jumping, spelunking, and white water!
     </p>
-    <a class="button" href="../img/resume.pdf">
+    <a class="button" href="../img/YasmeenAlmuhannaResume.pdf">
         Resume
     </a>
   </div>

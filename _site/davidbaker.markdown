@@ -4,7 +4,7 @@ title: "David M.</br>Baker"
 category: Web Design </br> (In Progress)
 thumbnail: david_baker.svg
 color: 008465
-order: 1
+order: 2
 hero: "/img/davidbaker/hero.png"
 
 --- -->
