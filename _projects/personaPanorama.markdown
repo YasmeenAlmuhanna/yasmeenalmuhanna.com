@@ -75,11 +75,11 @@ hero: "/img/personapanorama/hero.png"
         <p>The biggest challenge we faced was distilling the diverse range of users and stakeholders, given our extensive product range and varying use cases. Personas that are broad enough to cover a big product end up being too vaguely described to be as useful as personas should be. The challenge was to figure out how to moosh and smoosh all our data into useful (and digestible) personas.</p>
     </div>
 </div>
-<!-- ---
+
 <div class="section-header">
     <span class="section-number">02</span>
     <div class="section-name">
-        <h2>Persona Model<br/>in Action</h2>
+        <h2>Persona Model in Action</h2>
         <div class="section-line" style="color: #D7A0F5; background: #D7A0F5;"></div>
     </div>
 </div>
