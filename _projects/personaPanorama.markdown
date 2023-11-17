@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Persona Panorama"
-category: UX Case Study
+category: User Research
 thumbnail: persona_panorama.svg
 color: D7A0F5
 order: 1
