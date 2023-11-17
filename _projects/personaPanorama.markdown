@@ -66,6 +66,7 @@ hero: "/img/personapanorama/hero.png"
         <div>
             <img src="/img/personapanorama/challenge.png">
         </div>
+    </div>
     <div class="right-column-text">
         <div class="sub-section-name">
             <h3>The Challenge</h3>
