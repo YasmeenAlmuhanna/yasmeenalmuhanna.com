@@ -4,7 +4,7 @@ title: "Al Dente"
 category: UX Case Study
 thumbnail: aldente.svg
 color: EDC700
-order: 2
+order: 3
 hero: "/img/aldentecasestudy/hero.png"
 
 ---
