@@ -22,12 +22,11 @@ hero: "/img/personapanorama/hero.png"
 
 
 <div class="project-intro">
-  <p>While part of the product team at a global corporation, I had the opportunity to collaborate directly with our Senior Director in the creation of detailed user personas at a time of rapid growth and acquisition. The company’s large portfolio of products had over a wide variety of users spanning over 45,000 different clients with the end user not always being the client that we are selling to.
+  <p>While part of the product team at a global corporation, I had the opportunity to collaborate directly with our Senior Director in the creation of detailed user personas at a time of rapid growth and acquisition. The company’s large portfolio of products had over a wide variety of users spanning over 45,000 different clients with the end user not always being the client that we are selling to.</p>
 
-  Hence, this endeavor was instrumental in acquiring a nuanced understanding of our varied user demographics, ultimately guiding us in crafting more tailored and effective strategies in product development, marketing, and customer engagement, which are vital in the B2B sector.
+  <p>Hence, this endeavor was instrumental in acquiring a nuanced understanding of our varied user demographics, ultimately guiding us in crafting more tailored and effective strategies in product development, marketing, and customer engagement, which are vital in the B2B sector.</p>
 
-  These user personas  transformed into a widely-used storytelling tool across the company. We even created a physical deck of cards to be used in physical offices across.
-</p>
+  <p>These user personas  transformed into a widely-used storytelling tool across the company. We even created a physical deck of cards to be used in physical offices across.</p>
 </div>
 
 
@@ -36,7 +35,7 @@ hero: "/img/personapanorama/hero.png"
 <div class="section-header">
     <span class="section-number">01</span>
     <div class="section-name">
-        <h2>Why the<br/>Effort?</h2>
+        <h2>Why the Effort?</h2>
         <div class="section-line" style="color: #D7A0F5; background: #D7A0F5;"></div>
     </div>
 </div>
@@ -65,12 +64,11 @@ hero: "/img/personapanorama/hero.png"
 <div class="columns">
     <div class="left-column-img">
         <div>
-            <img src="/img/personapanorama/paperfar.png">
+            <img src="/img/personapanorama/challenge.png">
         </div>
-    </div>
     <div class="right-column-text">
         <div class="sub-section-name">
-            <h3>The Challenge/h3>
+            <h3>The Challenge</h3>
             <div class="sub-section-line" style="color: #D7A0F5;"></div>
         </div>
         <p>The biggest challenge we faced was distilling the diverse range of users and stakeholders, given our extensive product range and varying use cases. Personas that are broad enough to cover a big product end up being too vaguely described to be as useful as personas should be. The challenge was to figure out how to moosh and smoosh all our data into useful (and digestible) personas.</p>
